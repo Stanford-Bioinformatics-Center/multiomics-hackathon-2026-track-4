@@ -17,3 +17,11 @@ Selected MoTrPAC molecules, tissues, omics layers, contrasts, pathways, and prov
 - A Neo4j database and graph schema
 - Reproducible ingestion workflow
 - Searchable web interface
+
+### Deployment
+
+Deploy the Neo4j database container with Docker:
+
+```docker-compose up -d neo4j```
+
+You can then login to access the local Neo4j deplyment at <http://localhost:7474/>
