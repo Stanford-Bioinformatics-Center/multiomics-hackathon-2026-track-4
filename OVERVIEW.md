@@ -7,7 +7,7 @@ The primary data are the MoTrPAC human and rat releases; GTEx and Human-GEM add 
 
 ## 1. Structure of the graph
 
-![Graph structure: entity classes and edge types](graph_structure-v2.png)
+![Graph structure: entity classes and edge types](graph_structure-v3.png)
 
 *The four entity classes and the five edge types. Solid arrows are randomized differentials from the
 MoTrPAC design; dashed arrows are prior knowledge or reference annotation; the double-headed arrow is
