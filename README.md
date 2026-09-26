@@ -25,3 +25,13 @@ Deploy the Neo4j database container with Docker:
 ```docker-compose up -d neo4j```
 
 You can then login to access the local Neo4j deplyment at <http://localhost:7474/>
+
+To initialize the graph DB schema, access the cypher shell inside the container:
+
+```docker-compose exec -it neo4j cypher-shell -u neo4j -p YourPassword```
+
+and run
+
+```:source /import/schema.cypher```
+
+to set up constraints and indices for nodes/relations.
