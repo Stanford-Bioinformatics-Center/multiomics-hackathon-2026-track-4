@@ -35,3 +35,5 @@ and run
 ```:source /import/schema.cypher```
 
 to set up constraints and indices for nodes/relations.
+
+The `neo4j` directory contains the beginning of scripts used to process and ingest information about nodes and relations from the current Networkx format of the `kg` directory for eventual deployment.

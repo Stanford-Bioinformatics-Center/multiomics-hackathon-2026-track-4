@@ -3,7 +3,7 @@
 //Tissue
 CREATE CONSTRAINT tissue_name
 FOR (n:Tissue)
-REQUIRE n.name IS UNIQUE;
+REQUIRE (n.name, n.species) IS UNIQUE;
 
 //Gene
 CREATE CONSTRAINT gene_ncbi
