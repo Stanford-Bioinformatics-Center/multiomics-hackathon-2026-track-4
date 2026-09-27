@@ -1,24 +1,6 @@
 # MoTrPAC multi-omics knowledge graph: overview
 
 A knowledge graph that connects **Tissue, Omics and Metabolites** to describe molecular responses to exercise. MoTrPAC human and rat releases provide the experimental evidence; GTEx and Human-GEM provide human tissue and metabolic context.
-
-# Repository structure
-
-  multiomics-hackathon-2026-track-4/
-  ├── kg/                     # Knowledge-graph construction and outputs
-  │   ├── GEM scripts/        # Human-GEM gene–metabolite scripts (Python/R)
-  │   ├── GTEx script/        # GTEx gene co-expression analysis
-  │   ├── adjacency/          # Adjacency matrices and identifier mappings
-  │   ├── explorer/           # Interactive graph viewer
-  │   │   └── vendor/         # Bundled visualization library
-  │   ├── exports_sig/        # Significant graph nodes, edges and manifest
-  │   ├── kg_scripts_omics/   # Multi-omics graph building and export scripts
-  │   ├── schema/             # Graph schema documentation
-  │   └── scripts/            # Explorer data-export utility
-  └── neo4j/                  # Database inputs and supporting documentation
-      ├── database/           # Ingestion notebook and dependencies
-      └── import/             # Cypher schema and import scripts
-
 ---
 
 ## 1. Structure of the graph
