@@ -1,0 +1,131 @@
+{
+  "nodes": {
+    "ExerciseGroup": 3,
+    "Tissue": 23,
+    "PTMSite": 9051,
+    "ChromatinRegion": 1330,
+    "AffinityProtein": 269,
+    "Metabolite": 1833,
+    "MethylationRegion": 1052,
+    "ProteinFeature": 2946,
+    "TranscriptFeature": 21901,
+    "Gene": 28432,
+    "Pathway": 8731,
+    "Phenotype": 18,
+    "Reference": 53,
+    "Disease": 137,
+    "Compound": 1344
+  },
+  "edges": {
+    "EQUIVALENT_TISSUE": {
+      "n": 5,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "DOWNREGULATED_IN": {
+      "n": 141692,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "UPREGULATED_IN": {
+      "n": 176138,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "MAPS_TO_GENE": {
+      "n": 37895,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "SITE_ON": {
+      "n": 2323,
+      "dropped_dangling_or_duplicate": 6728
+    },
+    "ORTHOLOG_OF": {
+      "n": 11607,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "ORTHOLOGOUS_SITE": {
+      "n": 170,
+      "dropped_dangling_or_duplicate": 147825
+    },
+    "IN_PATHWAY": {
+      "n": 845278,
+      "dropped_dangling_or_duplicate": 11
+    },
+    "ENRICHED_DOWN_IN": {
+      "n": 11430,
+      "dropped_dangling_or_duplicate": 1720
+    },
+    "ENRICHED_UP_IN": {
+      "n": 39680,
+      "dropped_dangling_or_duplicate": 2338
+    },
+    "INTERACTS_WITH": {
+      "n": 165639,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "LIGAND_OF": {
+      "n": 3077,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "PHOSPHORYLATES": {
+      "n": 745,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "CO_REGULATED_WITH": {
+      "n": 31676,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "MEASURED_IN": {
+      "n": 12,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "DECREASED_IN": {
+      "n": 16,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "INCREASED_IN": {
+      "n": 49,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "ASSOCIATED_WITH": {
+      "n": 10677,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "UP_IN_DISEASE": {
+      "n": 6585,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "DOWN_IN_DISEASE": {
+      "n": 6477,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "BINDS": {
+      "n": 7429,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "TREATS": {
+      "n": 755,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "PALLIATES": {
+      "n": 390,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "DISEASE_GENES_ENRICHED_IN": {
+      "n": 410,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "EXERCISE_OPPOSES": {
+      "n": 23,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "EXERCISE_MIMICS": {
+      "n": 29,
+      "dropped_dangling_or_duplicate": 0
+    }
+  },
+  "metabolite_rules_check": "passed",
+  "disease_layer": {
+    "source": "Hetionet v1.0",
+    "tests_enrichment": 1557,
+    "tests_direction": 585
+  }
+}
