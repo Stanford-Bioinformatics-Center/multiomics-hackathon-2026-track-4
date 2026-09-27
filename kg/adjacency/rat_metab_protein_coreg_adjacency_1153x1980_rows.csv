@@ -1,0 +1,1154 @@
+row,metabolite_id,n_proteins
+PC(36:1)_ln_a,REFMET:PC(36:1)_ln_a,22
+PE(18:0_20:4)_lp_a,REFMET:PE(18:0_20:4)_lp_a,10
+LPC(20:1)_lp_b,REFMET:LPC(20:1)_lp_b,10
+TG(51:3)_lp_c,REFMET:TG(51:3)_lp_c,13
+PC(16:0_22:4)_ln_c,REFMET:PC(16:0_22:4)_ln_c,11
+PE(40:7)_lp_a,REFMET:PE(40:7)_lp_a,10
+PC(35:1)_lp_a,REFMET:PC(35:1)_lp_a,20
+PE(O-18:1/18:2)_ln_f,REFMET:PE(O-18:1/18:2)_ln_f,31
+sn-Glycero-3-phosphocholine,REFMET:sn-Glycero-3-phosphocholine,12
+S-Allylcysteine,REFMET:S-Allylcysteine,26
+Alanine,REFMET:Alanine,14
+LPC(22:0)_lp_ab,REFMET:LPC(22:0)_lp_ab,10
+TG(16:0_18:2_22:6)_lp_e,REFMET:TG(16:0_18:2_22:6)_lp_e,22
+TG(18:1_18:2_18:2)_lp_a,REFMET:TG(18:1_18:2_18:2)_lp_a,20
+TG(50:8),REFMET:TG(50:8),10
+TG(12:0_16:0_22:6)_lp_c,REFMET:TG(12:0_16:0_22:6)_lp_c,10
+PE(36:2)_lp_c,REFMET:PE(36:2)_lp_c,35
+PC(34:3)_lp_c,REFMET:PC(34:3)_lp_c,35
+PE(36:3)_ln_b,REFMET:PE(36:3)_ln_b,10
+PE(40:5)_lp_c,REFMET:PE(40:5)_lp_c,20
+PC(O-36:5)_ln_e,REFMET:PC(O-36:5)_ln_e,39
+TG(10:0_18:2_22:5),REFMET:TG(10:0_18:2_22:5),10
+PE(O-36:4)_lp_a,REFMET:PE(O-36:4)_lp_a,17
+PE(O-18:1/22:6)_lp_f,REFMET:PE(O-18:1/22:6)_lp_f,20
+LPC(16:1),REFMET:LPC(16:1),52
+PE(O-16:1/22:4)_ln_e,REFMET:PE(O-16:1/22:4)_ln_e,33
+TG(58:10)_lp_c,REFMET:TG(58:10)_lp_c,27
+PC(P-36:4)/PC(O-36:5),REFMET:PC(P-36:4)/PC(O-36:5),11
+PC(33:1)_lp_a,REFMET:PC(33:1)_lp_a,23
+PC(14:0_18:2)_ln_c,REFMET:PC(14:0_18:2)_ln_c,10
+Hydroxydecanoic acid,REFMET:Hydroxydecanoic acid,10
+Hypotaurine,REFMET:Hypotaurine,33
+Allantoin,REFMET:Allantoin,10
+PE(18:0_20:3)_ln_c,REFMET:PE(18:0_20:3)_ln_c,48
+Palmitoleic acid,REFMET:Palmitoleic acid,18
+PC(18:0_20:3)_ln_c,REFMET:PC(18:0_20:3)_ln_c,49
+Dodecenoyl-CoA,REFMET:Dodecenoyl-CoA,10
+PC(32:3)_lp_a,REFMET:PC(32:3)_lp_a,10
+PC(38:6)_lp_a,REFMET:PC(38:6)_lp_a,10
+PC(32:0)_ln_b,REFMET:PC(32:0)_ln_b,27
+Pterin,REFMET:Pterin,10
+PC(37:3)_lp_b,REFMET:PC(37:3)_lp_b,40
+PC(37:2)_lp_b,REFMET:PC(37:2)_lp_b,37
+CAR(6:0),REFMET:CAR(6:0),20
+Hexenoyl-CoA,REFMET:Hexenoyl-CoA,24
+TG(18:2_18:2_20:4)_lp_d,REFMET:TG(18:2_18:2_20:4)_lp_d,10
+Isocitric acid,REFMET:Isocitric acid,25
+PC(35:2)_lp_b,REFMET:PC(35:2)_lp_b,34
+PC(O-18:1/16:0)_ln_b,REFMET:PC(O-18:1/16:0)_ln_b,17
+PE(O-17:1/20:4)_lp_b,REFMET:PE(O-17:1/20:4)_lp_b,10
+PC(P-38:5)/PC(O-38:6),REFMET:PC(P-38:5)/PC(O-38:6),11
+PC(36:4)_lp_c,REFMET:PC(36:4)_lp_c,10
+TG(51:4),REFMET:TG(51:4),24
+CAR(16:2),REFMET:CAR(16:2),10
+TG(56:4)_lp_d,REFMET:TG(56:4)_lp_d,12
+PC(37:2)_lp_a,REFMET:PC(37:2)_lp_a,28
+Cer(d18:2/23:0)_lp_b,REFMET:Cer(d18:2/23:0)_lp_b,17
+SM(d18:1/18:0),REFMET:SM(d18:1/18:0),20
+PC(36:3),REFMET:PC(36:3),17
+DG(18:1_18:2)_lp_c,REFMET:DG(18:1_18:2)_lp_c,11
+PC(34:4)_lp_b,REFMET:PC(34:4)_lp_b,30
+PE(O-16:1/20:4)_lp_b,REFMET:PE(O-16:1/20:4)_lp_b,10
+PC(16:0_20:3)_ln_c,REFMET:PC(16:0_20:3)_ln_c,10
+CAR(18:2),REFMET:CAR(18:2),19
+PC(30:1)_lp_a,REFMET:PC(30:1)_lp_a,20
+PC(P-38:6)/PC(O-38:7),REFMET:PC(P-38:6)/PC(O-38:7),13
+LPC(18:2)_rp_b,REFMET:LPC(18:2)_rp_b,20
+PC(38:5)_lp_b,REFMET:PC(38:5)_lp_b,20
+PC(17:0_18:1)_ln_a,REFMET:PC(17:0_18:1)_ln_a,10
+PC(32:1)_lp_a,REFMET:PC(32:1)_lp_a,25
+beta-Alanine,REFMET:beta-Alanine,26
+TG(58:8)_lp_b,REFMET:TG(58:8)_lp_b,1
+PE(20:4_22:4)_lp_d,REFMET:PE(20:4_22:4)_lp_d,20
+PE(16:0_20:4)_lp_a,REFMET:PE(16:0_20:4)_lp_a,28
+LPC(18:2)_lp_ab,REFMET:LPC(18:2)_lp_ab,34
+Cysteine,REFMET:Cysteine,23
+PC(32:1)_ln_b,REFMET:PC(32:1)_ln_b,11
+PC(40:5)_lp_a,REFMET:PC(40:5)_lp_a,19
+LPC(18:1),REFMET:LPC(18:1),37
+Retinol,REFMET:Retinol,10
+PE(18:2_20:4)_ln_b,REFMET:PE(18:2_20:4)_ln_b,24
+PC(30:0)_lp_a,REFMET:PC(30:0)_lp_a,20
+TG(56:7)_lp_e,REFMET:TG(56:7)_lp_e,12
+PE(O-17:1/20:4)_lp_a,REFMET:PE(O-17:1/20:4)_lp_a,10
+PC(18:2/18:2)_ln_b,REFMET:PC(18:2/18:2)_ln_b,47
+PE(18:0_20:3)_ln_d,REFMET:PE(18:0_20:3)_ln_d,10
+TG(16:0_18:1_22:4)_lp_d,REFMET:TG(16:0_18:1_22:4)_lp_d,19
+PS(18:0_22:6)_lp_a,REFMET:PS(18:0_22:6)_lp_a,10
+PE(19:0_20:4)_ln_c,REFMET:PE(19:0_20:4)_ln_c,7
+PC(18:1_18:2)_ln_c,REFMET:PC(18:1_18:2)_ln_c,10
+PC(36:6)_lp_c,REFMET:PC(36:6)_lp_c,20
+CAR(24:1),REFMET:CAR(24:1),10
+TG(40:1)_lp_b,REFMET:TG(40:1)_lp_b,10
+LPC(15:0)_rp_a,REFMET:LPC(15:0)_rp_a,10
+PC(O-38:4)_lp_d,REFMET:PC(O-38:4)_lp_d,12
+PC(36:6)_lp_a,REFMET:PC(36:6)_lp_a,10
+N-Acetyl-D-tryptophan,REFMET:N-Acetyl-D-tryptophan,13
+PC(O-34:2)_lp_a,REFMET:PC(O-34:2)_lp_a,10
+PE(O-38:6)_lp_d,REFMET:PE(O-38:6)_lp_d,10
+PC(34:3),REFMET:PC(34:3),20
+TG(40:1)_lp_a,REFMET:TG(40:1)_lp_a,11
+Hexadecatrienoyl-CoA,REFMET:Hexadecatrienoyl-CoA,10
+Hexose 6-phosphate,REFMET:Hexose 6-phosphate,22
+Oxoglutaric acid,REFMET:Oxoglutaric acid,19
+LPC(14:0),REFMET:LPC(14:0),54
+Cer(d38:1),REFMET:Cer(d38:1),30
+TG(58:7)_lp_e,REFMET:TG(58:7)_lp_e,10
+LPC(18:1)_lp_ab,REFMET:LPC(18:1)_lp_ab,5
+N-Acetylornithine,REFMET:N-Acetylornithine,16
+PC(32:3)_lp_b,REFMET:PC(32:3)_lp_b,10
+PE(38:6)_lp_a,REFMET:PE(38:6)_lp_a,10
+TG(58:9)_lp_b,REFMET:TG(58:9)_lp_b,20
+Taurochenodeoxycholic acid,REFMET:Taurochenodeoxycholic acid,27
+PC(36:5)_lp_c,REFMET:PC(36:5)_lp_c,29
+PE(36:5)_lp_c,REFMET:PE(36:5)_lp_c,16
+PE(36:3)_lp_a,REFMET:PE(36:3)_lp_a,30
+TG(54:6)_lp_f,REFMET:TG(54:6)_lp_f,11
+PC(38:2)_lp_f,REFMET:PC(38:2)_lp_f,10
+PC(36:1)_lp_a,REFMET:PC(36:1)_lp_a,30
+LPC(0:0/18:2)_hp_b,REFMET:LPC(0:0/18:2)_hp_b,10
+LPC(20:5),REFMET:LPC(20:5),30
+TG(52:4)_lp_f,REFMET:TG(52:4)_lp_f,22
+PC(O-36:4)_lp_d,REFMET:PC(O-36:4)_lp_d,10
+CAR(20:4),REFMET:CAR(20:4),18
+PC(28:0),REFMET:PC(28:0),10
+PC(31:1)_lp_a,REFMET:PC(31:1)_lp_a,10
+CAR(16:0),REFMET:CAR(16:0),12
+TG(51:0)_lp_a,REFMET:TG(51:0)_lp_a,10
+PC(41:6)_lp_c,REFMET:PC(41:6)_lp_c,16
+TG(60:3)_lp_a,REFMET:TG(60:3)_lp_a,2
+PE(16:0_16:1),REFMET:PE(16:0_16:1),10
+SM(d38:1),REFMET:SM(d38:1),12
+PE(16:0_20:5)_ln_c,REFMET:PE(16:0_20:5)_ln_c,16
+TG(60:10)_lp_c,REFMET:TG(60:10)_lp_c,20
+TG(51:2)_lp_b,REFMET:TG(51:2)_lp_b,11
+TG(4:0_18:1_18:2)_lp_a,REFMET:TG(4:0_18:1_18:2)_lp_a,10
+TG(58:5)_lp_b,REFMET:TG(58:5)_lp_b,10
+PC(37:1)_lp_c,REFMET:PC(37:1)_lp_c,20
+LPC(16:0)_ln_ab,REFMET:LPC(16:0)_ln_ab,10
+PE(18:0_22:5)_ln_c,REFMET:PE(18:0_22:5)_ln_c,15
+PC(40:2)_lp_c,REFMET:PC(40:2)_lp_c,18
+Glycohyocholic acid,REFMET:Glycohyocholic acid,11
+Methionine,REFMET:Methionine,23
+SM(d44:2)_lp_a,REFMET:SM(d44:2)_lp_a,20
+TG(58:9)_lp_a,REFMET:TG(58:9)_lp_a,10
+SM(d34:1),REFMET:SM(d34:1),21
+PC(20:4_22:6),REFMET:PC(20:4_22:6),14
+Octadecadienoic acid,REFMET:Octadecadienoic acid,20
+Decadienoyl-CoA,REFMET:Decadienoyl-CoA,12
+SM(d41:1),REFMET:SM(d41:1),13
+Hyodeoxycholic acid,REFMET:Hyodeoxycholic acid,23
+PE(O-18:0/22:4)_ln_d,REFMET:PE(O-18:0/22:4)_ln_d,11
+PE(O-40:7)_lp_d,REFMET:PE(O-40:7)_lp_d,10
+dCTP,REFMET:dCTP,4
+PE(38:5)_lp_d,REFMET:PE(38:5)_lp_d,10
+PC(36:2)_lp_c,REFMET:PC(36:2)_lp_c,30
+LPC(18:2),REFMET:LPC(18:2),22
+TG(58:6)_lp_f,REFMET:TG(58:6)_lp_f,1
+N-Acetylglutamine,REFMET:N-Acetylglutamine,10
+TG(4:0_18:1_18:1)_lp_b,REFMET:TG(4:0_18:1_18:1)_lp_b,10
+PI(18:0_20:3)_ln_b,REFMET:PI(18:0_20:3)_ln_b,20
+PC(P-34:2)/PC(O-34:3),REFMET:PC(P-34:2)/PC(O-34:3),14
+PE(36:5)_lp_b,REFMET:PE(36:5)_lp_b,10
+PC(18:0/18:0)_ln_c,REFMET:PC(18:0/18:0)_ln_c,10
+TG(54:6)_lp_b,REFMET:TG(54:6)_lp_b,10
+PE(34:1)_lp_a,REFMET:PE(34:1)_lp_a,22
+PC(32:1)_lp_c,REFMET:PC(32:1)_lp_c,10
+TG(55:4)_lp_a,REFMET:TG(55:4)_lp_a,13
+DG(18:0_18:2)_lp_d,REFMET:DG(18:0_18:2)_lp_d,10
+PC(16:0_18:2)_ln_a,REFMET:PC(16:0_18:2)_ln_a,30
+PC(32:2)_lp_a,REFMET:PC(32:2)_lp_a,32
+TG(58:8)_lp_f,REFMET:TG(58:8)_lp_f,10
+CL(70:7),REFMET:CL(70:7),11
+LPC(0:0/18:2),REFMET:LPC(0:0/18:2),31
+TG(52:6)_lp_d,REFMET:TG(52:6)_lp_d,16
+PC(33:3)_lp_c,REFMET:PC(33:3)_lp_c,10
+PI(18:0_20:4)_ln_b,REFMET:PI(18:0_20:4)_ln_b,20
+PC(38:3)_lp_c,REFMET:PC(38:3)_lp_c,39
+DG(36:4)_lp_a,REFMET:DG(36:4)_lp_a,7
+PS(P-36:1)/PS(O-36:2),REFMET:PS(P-36:1)/PS(O-36:2),13
+PC(40:8),REFMET:PC(40:8),16
+PC(36:4)_lp_b,REFMET:PC(36:4)_lp_b,41
+PE(16:0_18:3)_ln_b,REFMET:PE(16:0_18:3)_ln_b,10
+GMP,REFMET:GMP,19
+PC(31:0)_lp_a,REFMET:PC(31:0)_lp_a,11
+TG(16:1_18:2_18:2)_lp_c,REFMET:TG(16:1_18:2_18:2)_lp_c,21
+Sedoheptulose 7-phosphate,REFMET:Sedoheptulose 7-phosphate,20
+MG(18:1),REFMET:MG(18:1),11
+PS(P-36:2)/PS(O-36:3),REFMET:PS(P-36:2)/PS(O-36:3),10
+SM(d36:0),REFMET:SM(d36:0),14
+TG(58:5)_lp_d,REFMET:TG(58:5)_lp_d,10
+5-Methylcytidine,REFMET:5-Methylcytidine,10
+SM(d42:1)_ln_b,REFMET:SM(d42:1)_ln_b,10
+Arachidonyl-CoA,REFMET:Arachidonyl-CoA,14
+PC(34:4)_lp_e,REFMET:PC(34:4)_lp_e,10
+LPE(16:0)_lp_b,REFMET:LPE(16:0)_lp_b,10
+PE(O-20:1/22:6)_ln_c,REFMET:PE(O-20:1/22:6)_ln_c,10
+Valine,REFMET:Valine,18
+PE(38:5)_ln_c,REFMET:PE(38:5)_ln_c,10
+TG(58:8)_lp_e,REFMET:TG(58:8)_lp_e,10
+Trimethylamine N-oxide,REFMET:Trimethylamine N-oxide,46
+PE(40:7)_lp_c,REFMET:PE(40:7)_lp_c,20
+N-Acetylphenylalanine,REFMET:N-Acetylphenylalanine,25
+Inosine,REFMET:Inosine,12
+Leu-Ile,REFMET:Leu-Ile,20
+TG(58:10)_lp_b,REFMET:TG(58:10)_lp_b,22
+CAR(20:1),REFMET:CAR(20:1),10
+Threonine,REFMET:Threonine,11
+PC(36:2)_lp_b,REFMET:PC(36:2)_lp_b,27
+PC(36:3)_lp_e,REFMET:PC(36:3)_lp_e,10
+LPE(18:0)_hp_b,REFMET:LPE(18:0)_hp_b,44
+Ursodeoxycholic acid,REFMET:Ursodeoxycholic acid,26
+PE(16:0_22:6)_ln_c,REFMET:PE(16:0_22:6)_ln_c,20
+PC(34:1)_lp_b,REFMET:PC(34:1)_lp_b,21
+isoleucine-13C6 [iSTD],REFMET:isoleucine-13C6 [iSTD],10
+PS(38:3)_lp_b,REFMET:PS(38:3)_lp_b,20
+PC(O-40:7)_lp_b,REFMET:PC(O-40:7)_lp_b,10
+Deoxyuridine,REFMET:Deoxyuridine,10
+Leucine-13C/Isoleucine-13C6 [iSTD],REFMET:Leucine-13C/Isoleucine-13C6 [iSTD],10
+TG(60:10)_lp_e,REFMET:TG(60:10)_lp_e,10
+Aspartic acid,REFMET:Aspartic acid,31
+Pro-Gly,REFMET:Pro-Gly,10
+Cer(t18:0/24:1),REFMET:Cer(t18:0/24:1),10
+Cer(d18:1/26:1)_lp_b,REFMET:Cer(d18:1/26:1)_lp_b,10
+PC(18:0_20:4)_ln_d,REFMET:PC(18:0_20:4)_ln_d,22
+PE(38:5)_lp_a,REFMET:PE(38:5)_lp_a,10
+LPE(18:3),REFMET:LPE(18:3),10
+TG(58:3)_lp_a,REFMET:TG(58:3)_lp_a,10
+Homoarginine,REFMET:Homoarginine,15
+TG(60:10)_lp_a,REFMET:TG(60:10)_lp_a,10
+TG(57:4)_lp_b,REFMET:TG(57:4)_lp_b,10
+TG(55:7)_lp_b,REFMET:TG(55:7)_lp_b,10
+PC(38:5)_ln_d,REFMET:PC(38:5)_ln_d,5
+Glycine,REFMET:Glycine,11
+CE(22:6)_lp_b,REFMET:CE(22:6)_lp_b,19
+TG(55:3)_lp_c,REFMET:TG(55:3)_lp_c,20
+TG(56:3)_lp_c,REFMET:TG(56:3)_lp_c,10
+TG(58:9)_lp_c,REFMET:TG(58:9)_lp_c,15
+Phenylalanine,REFMET:Phenylalanine,17
+TG(8:0_18:2_20:4)_lp_b,REFMET:TG(8:0_18:2_20:4)_lp_b,10
+TG(10:0_16:1_18:1)_lp_a,REFMET:TG(10:0_16:1_18:1)_lp_a,10
+DG(40:6)_lp_f,REFMET:DG(40:6)_lp_f,18
+TG(54:4)_lp_c,REFMET:TG(54:4)_lp_c,10
+TG(54:5)_lp_e,REFMET:TG(54:5)_lp_e,28
+PC(33:0)_lp_b,REFMET:PC(33:0)_lp_b,10
+PC(37:6)_lp_e,REFMET:PC(37:6)_lp_e,10
+TG(8:0_16:0_22:6)_lp_a,REFMET:TG(8:0_16:0_22:6)_lp_a,10
+PE(18:0_22:4)_ln_b,REFMET:PE(18:0_22:4)_ln_b,21
+valine-13C5 [iSTD],REFMET:valine-13C5 [iSTD],10
+PE(O-18:1/18:1)_lp_b,REFMET:PE(O-18:1/18:1)_lp_b,10
+TG(58:8)_lp_c,REFMET:TG(58:8)_lp_c,10
+PE(34:0)_ln_b,REFMET:PE(34:0)_ln_b,10
+Glutamic acid,REFMET:Glutamic acid,16
+LPC(18:0)_lp_ab,REFMET:LPC(18:0)_lp_ab,10
+TG(54:6)_lp_d,REFMET:TG(54:6)_lp_d,12
+DG(18:1_18:1)_lp_c,REFMET:DG(18:1_18:1)_lp_c,10
+PE(O-38:2)_lp_d,REFMET:PE(O-38:2)_lp_d,10
+PC(18:0_18:2)_ln_c,REFMET:PC(18:0_18:2)_ln_c,27
+TG(10:0_16:0_18:1)_lp_a,REFMET:TG(10:0_16:0_18:1)_lp_a,13
+SM(d40:2)_lp_a,REFMET:SM(d40:2)_lp_a,13
+PE(34:2)_lp_b,REFMET:PE(34:2)_lp_b,30
+PC(18:0_22:6)_ln_c,REFMET:PC(18:0_22:6)_ln_c,14
+PC(16:0/18:0)_ln_c,REFMET:PC(16:0/18:0)_ln_c,13
+PC(O-40:6)_lp_e,REFMET:PC(O-40:6)_lp_e,10
+Behenic acid,REFMET:Behenic acid,10
+PC(30:0),REFMET:PC(30:0),10
+TG(42:4)_lp_b,REFMET:TG(42:4)_lp_b,10
+TG(58:6)_lp_c,REFMET:TG(58:6)_lp_c,14
+CAR(4:0)_rp_b,REFMET:CAR(4:0)_rp_b,27
+CAR(24:0),REFMET:CAR(24:0),10
+LPC(15:0),REFMET:LPC(15:0),20
+PS(38:3)_ln_c,REFMET:PS(38:3)_ln_c,10
+TG(6:0_18:2_18:2)_lp_a,REFMET:TG(6:0_18:2_18:2)_lp_a,10
+PC(35:4)_lp_b,REFMET:PC(35:4)_lp_b,20
+PE(18:2_22:5)_ln_a,REFMET:PE(18:2_22:5)_ln_a,11
+Tauroursodeoxycholic acid,REFMET:Tauroursodeoxycholic acid,19
+PE(38:6)_lp_e,REFMET:PE(38:6)_lp_e,10
+TG(60:10)_lp_d,REFMET:TG(60:10)_lp_d,20
+PS(18:0_22:6)_ln_b,REFMET:PS(18:0_22:6)_ln_b,15
+PC(42:6)_lp_d,REFMET:PC(42:6)_lp_d,10
+TG(58:5)_lp_f,REFMET:TG(58:5)_lp_f,13
+Choline,REFMET:Choline,22
+PE(36:0),REFMET:PE(36:0),10
+Docosapentaenoic acid,REFMET:Docosapentaenoic acid,12
+N-Acetylleucine,REFMET:N-Acetylleucine,12
+PS(40:6)_lp_b,REFMET:PS(40:6)_lp_b,10
+Ethanolamine,REFMET:Ethanolamine,10
+TG(56:7)_lp_c,REFMET:TG(56:7)_lp_c,12
+CAR(DC3:0(2Me)),REFMET:CAR(DC3:0(2Me)),10
+PC(34:2)_lp_a,REFMET:PC(34:2)_lp_a,20
+LPE(18:0)_ln_b,REFMET:LPE(18:0)_ln_b,10
+phenylalanine-d8 [iSTD],REFMET:phenylalanine-d8 [iSTD],7
+N-Acetylcysteine,REFMET:N-Acetylcysteine,15
+LPE(18:2),REFMET:LPE(18:2),22
+TG(53:3)_lp_e,REFMET:TG(53:3)_lp_e,14
+TG(4:0_18:1_18:2)_lp_b,REFMET:TG(4:0_18:1_18:2)_lp_b,10
+PC(17:0_20:4)_ln_c,REFMET:PC(17:0_20:4)_ln_c,30
+UDP-galactose,REFMET:UDP-galactose,16
+PC(39:5)_lp_a,REFMET:PC(39:5)_lp_a,3
+PC(16:1_18:2)_ln_a,REFMET:PC(16:1_18:2)_ln_a,10
+Cer(d18:2/24:0)_lp_d,REFMET:Cer(d18:2/24:0)_lp_d,10
+PC(17:0_18:2)_ln_b,REFMET:PC(17:0_18:2)_ln_b,37
+PE(42:10),REFMET:PE(42:10),18
+PE(P-36:4)/PE(O-36:5),REFMET:PE(P-36:4)/PE(O-36:5),18
+SM(d40:1)_ln_b,REFMET:SM(d40:1)_ln_b,19
+LPC(18:1)_rp_b,REFMET:LPC(18:1)_rp_b,10
+PC(32:1),REFMET:PC(32:1),14
+PC(38:5)_ln_c,REFMET:PC(38:5)_ln_c,9
+Ile-Val,REFMET:Ile-Val,10
+Xanthine,REFMET:Xanthine,21
+PC(37:3)_lp_a,REFMET:PC(37:3)_lp_a,20
+PC(O-36:3)_lp_a,REFMET:PC(O-36:3)_lp_a,11
+PC(36:5)_lp_b,REFMET:PC(36:5)_lp_b,10
+PC(35:3)_lp_c,REFMET:PC(35:3)_lp_c,10
+LPC(16:0)_lp_ab,REFMET:LPC(16:0)_lp_ab,10
+24-epi-Brassinolide [iSTD],REFMET:24-epi-Brassinolide [iSTD],10
+CE(18:1),REFMET:CE(18:1),10
+CAR(18:1),REFMET:CAR(18:1),11
+TG(38:0)_lp_b,REFMET:TG(38:0)_lp_b,10
+PE(O-20:0/20:4)_ln_d,REFMET:PE(O-20:0/20:4)_ln_d,10
+TG(48:2)_lp_b,REFMET:TG(48:2)_lp_b,10
+Methyl N-methylanthranilate,REFMET:Methyl N-methylanthranilate,10
+Arginine,REFMET:Arginine,20
+LPC(24:0/0:0)_lp_b,REFMET:LPC(24:0/0:0)_lp_b,10
+SM(d38:1)_ln_b,REFMET:SM(d38:1)_ln_b,20
+PC(38:5)_lp_c,REFMET:PC(38:5)_lp_c,12
+Carnosine,REFMET:Carnosine,18
+PE(17:0_18:2),REFMET:PE(17:0_18:2),14
+UTP,REFMET:UTP,6
+1-Methyl nicotinamide,REFMET:1-Methyl nicotinamide,18
+CAR(14:1),REFMET:CAR(14:1),14
+TG(16:0_18:1_22:4)_lp_e,REFMET:TG(16:0_18:1_22:4)_lp_e,20
+SM(d40:0),REFMET:SM(d40:0),10
+SM(d34:0),REFMET:SM(d34:0),12
+LPE(20:4),REFMET:LPE(20:4),10
+TG(38:0)_lp_c,REFMET:TG(38:0)_lp_c,10
+TG(49:2)_lp_c,REFMET:TG(49:2)_lp_c,18
+LPC(0:0/16:0),REFMET:LPC(0:0/16:0),10
+TG(48:1)_lp_c,REFMET:TG(48:1)_lp_c,15
+PG(20:4_22:6),REFMET:PG(20:4_22:6),10
+TG(18:1_18:2_18:2)_lp_d,REFMET:TG(18:1_18:2_18:2)_lp_d,23
+CAR(20:0),REFMET:CAR(20:0),15
+PC(18:1_20:1)_ln_c,REFMET:PC(18:1_20:1)_ln_c,10
+Eicosatrienoic acid,REFMET:Eicosatrienoic acid,17
+PC(37:6)_lp_d,REFMET:PC(37:6)_lp_d,10
+TG(49:1),REFMET:TG(49:1),13
+LPC(16:0/0:0)_ln_ab,REFMET:LPC(16:0/0:0)_ln_ab,14
+5-Methylcytosine,REFMET:5-Methylcytosine,14
+N-Acetylserotonin,REFMET:N-Acetylserotonin,11
+PC(42:3)_lp_a,REFMET:PC(42:3)_lp_a,17
+PE(36:4),REFMET:PE(36:4),11
+LPC(0:0/18:2)_hp_a,REFMET:LPC(0:0/18:2)_hp_a,10
+LPC(20:4),REFMET:LPC(20:4),9
+PC(36:3)_lp_b,REFMET:PC(36:3)_lp_b,20
+TG(38:1)_lp_a,REFMET:TG(38:1)_lp_a,10
+TG(58:6)_lp_e,REFMET:TG(58:6)_lp_e,15
+PE(18:0_18:2)_ln_b,REFMET:PE(18:0_18:2)_ln_b,37
+PE(O-34:5)_ln_b,REFMET:PE(O-34:5)_ln_b,14
+"14,15-EpETrE","REFMET:14,15-EpETrE",10
+SM(d32:1),REFMET:SM(d32:1),10
+PE(18:1_18:2)_ln_a,REFMET:PE(18:1_18:2)_ln_a,25
+PC(38:7)_lp_b,REFMET:PC(38:7)_lp_b,20
+TG(16:1_18:1_18:2)_lp_d,REFMET:TG(16:1_18:1_18:2)_lp_d,10
+SM(d42:3)_lp_a,REFMET:SM(d42:3)_lp_a,10
+Lignoceric acid,REFMET:Lignoceric acid,16
+TG(57:1),REFMET:TG(57:1),10
+Coenzyme A,REFMET:Coenzyme A,20
+PC(34:2),REFMET:PC(34:2),9
+TG(16:0_18:2_18:3)_lp_e,REFMET:TG(16:0_18:2_18:3)_lp_e,20
+leucine-13C6 [iSTD],REFMET:leucine-13C6 [iSTD],10
+PI(36:3)_lp_b,REFMET:PI(36:3)_lp_b,10
+TG(18:2_18:2_18:2)_lp_a,REFMET:TG(18:2_18:2_18:2)_lp_a,10
+LPE(18:1),REFMET:LPE(18:1),10
+SM(d42:2)_lp_b,REFMET:SM(d42:2)_lp_b,10
+CAR(10:0),REFMET:CAR(10:0),16
+LPE(18:0)_rp_b,REFMET:LPE(18:0)_rp_b,10
+TG(50:5)_lp_b,REFMET:TG(50:5)_lp_b,10
+TG(50:4)_lp_b,REFMET:TG(50:4)_lp_b,11
+TG(50:6)_lp_b,REFMET:TG(50:6)_lp_b,10
+Asparagine,REFMET:Asparagine,10
+TG(10:0_16:0_18:1)_lp_c,REFMET:TG(10:0_16:0_18:1)_lp_c,11
+TG(16:1_18:1_18:2)_lp_a,REFMET:TG(16:1_18:1_18:2)_lp_a,10
+Tryptophan,REFMET:Tryptophan,13
+LPC(19:0)_lp_a,REFMET:LPC(19:0)_lp_a,3
+PE(38:1)_ln_b,REFMET:PE(38:1)_ln_b,6
+PC(O-38:7)_lp_b,REFMET:PC(O-38:7)_lp_b,10
+Acetyl-CoA,REFMET:Acetyl-CoA,8
+Glutamine,REFMET:Glutamine,12
+TG(52:3)_lp_c,REFMET:TG(52:3)_lp_c,14
+PE(36:4)_lp_c,REFMET:PE(36:4)_lp_c,10
+LPC(18:1)_lp_b,REFMET:LPC(18:1)_lp_b,10
+PC(35:3)_lp_a,REFMET:PC(35:3)_lp_a,20
+5-Hydroxyindoleacetic acid,REFMET:5-Hydroxyindoleacetic acid,10
+Biliverdin,REFMET:Biliverdin,12
+SM(d34:1-OH),REFMET:SM(d34:1-OH),10
+TG(53:6)_lp_b,REFMET:TG(53:6)_lp_b,14
+TG(16:1_18:1_18:2)_lp_e,REFMET:TG(16:1_18:1_18:2)_lp_e,21
+PE(O-39:7)_ln_a,REFMET:PE(O-39:7)_ln_a,10
+PE(36:5)_lp_e,REFMET:PE(36:5)_lp_e,10
+tryptophan-15N2 [iSTD],REFMET:tryptophan-15N2 [iSTD],10
+EA(17:0),REFMET:EA(17:0),10
+Deoxyadenosine,REFMET:Deoxyadenosine,10
+sn-glycero-3-phosphocholine_feature1,REFMET:sn-glycero-3-phosphocholine_feature1,10
+PC(38:3)_lp_b,REFMET:PC(38:3)_lp_b,10
+SM(d44:3),REFMET:SM(d44:3),20
+Fructose 6-phosphate,REFMET:Fructose 6-phosphate,22
+Proline,REFMET:Proline,12
+PC(O-38:5)_lp_c,REFMET:PC(O-38:5)_lp_c,4
+TG(58:7)_lp_c,REFMET:TG(58:7)_lp_c,10
+TG(57:3)_lp_b,REFMET:TG(57:3)_lp_b,10
+TG(57:2),REFMET:TG(57:2),10
+PS(O-18:3/22:4),REFMET:PS(O-18:3/22:4),10
+CAR(14:0),REFMET:CAR(14:0),13
+PE(17:0_22:6)_ln_b,REFMET:PE(17:0_22:6)_ln_b,30
+SM(d44:2)_ln_a,REFMET:SM(d44:2)_ln_a,14
+PC(38:6)_lp_b,REFMET:PC(38:6)_lp_b,10
+CAR(26:1),REFMET:CAR(26:1),10
+DG(18:1_20:4)_lp_b,REFMET:DG(18:1_20:4)_lp_b,20
+TG(45:2),REFMET:TG(45:2),10
+PE(19:0_22:6)_ln_b,REFMET:PE(19:0_22:6)_ln_b,10
+N-Acetylarginine,REFMET:N-Acetylarginine,2
+PC(18:1_18:2)_ln_b,REFMET:PC(18:1_18:2)_ln_b,30
+PE(18:2/18:2)_ln_a,REFMET:PE(18:2/18:2)_ln_a,20
+PC(19:0_20:4)_ln_d,REFMET:PC(19:0_20:4)_ln_d,10
+Citric acid,REFMET:Citric acid,14
+CAR(4:0),REFMET:CAR(4:0),18
+PG(36:2)_ln_b,REFMET:PG(36:2)_ln_b,12
+SM(d18:1/20:0),REFMET:SM(d18:1/20:0),18
+PE(O-34:1)_lp_a,REFMET:PE(O-34:1)_lp_a,7
+Deoxycytidine,REFMET:Deoxycytidine,10
+TG(18:1_18:2_18:2)_lp_c,REFMET:TG(18:1_18:2_18:2)_lp_c,10
+PE(38:6)_lp_c,REFMET:PE(38:6)_lp_c,10
+PC(40:7)_lp_a,REFMET:PC(40:7)_lp_a,23
+CAR(8:1),REFMET:CAR(8:1),14
+CDP,REFMET:CDP,5
+Pyroglutamic acid,REFMET:Pyroglutamic acid,19
+TG(56:7)_lp_b,REFMET:TG(56:7)_lp_b,10
+PC(42:9)_lp_b,REFMET:PC(42:9)_lp_b,6
+TG(50:5)_lp_a,REFMET:TG(50:5)_lp_a,10
+Dimethylglycine,REFMET:Dimethylglycine,11
+Hypoxanthine,REFMET:Hypoxanthine,21
+LPC(16:1)_lp_ab,REFMET:LPC(16:1)_lp_ab,30
+L-Urobilin,REFMET:L-Urobilin,10
+PC(38:5)_lp_a,REFMET:PC(38:5)_lp_a,10
+Docosatrienoic acid,REFMET:Docosatrienoic acid,12
+Phenylacetic acid,REFMET:Phenylacetic acid,19
+PC(36:2),REFMET:PC(36:2),36
+SM(d41:2)_lp_c,REFMET:SM(d41:2)_lp_c,10
+PC(32:2),REFMET:PC(32:2),31
+Cer(d42:3)_lp_b,REFMET:Cer(d42:3)_lp_b,17
+SM(d38:1)_lp_b,REFMET:SM(d38:1)_lp_b,10
+PC(37:0)_lp_b,REFMET:PC(37:0)_lp_b,10
+PC(16:0_18:1)_ln_b,REFMET:PC(16:0_18:1)_ln_b,10
+TG(58:4)_lp_e,REFMET:TG(58:4)_lp_e,7
+PE(19:0_20:4)_ln_b,REFMET:PE(19:0_20:4)_ln_b,10
+PC(18:0_22:4)_ln_b,REFMET:PC(18:0_22:4)_ln_b,12
+CL(72:8),REFMET:CL(72:8),10
+Gibberellic acid [iSTD],REFMET:Gibberellic acid [iSTD],10
+PC(18:2_20:4)_ln_a,REFMET:PC(18:2_20:4)_ln_a,18
+Cer(d42:0),REFMET:Cer(d42:0),18
+EA(15:0),REFMET:EA(15:0),10
+LPC(18:1/0:0)_lp_b,REFMET:LPC(18:1/0:0)_lp_b,20
+TG(30:0),REFMET:TG(30:0),10
+Ectoine,REFMET:Ectoine,22
+PE(P-34:1)/PE(O-34:2),REFMET:PE(P-34:1)/PE(O-34:2),10
+Maleic acid,REFMET:Maleic acid,4
+PE(36:1)_lp_c,REFMET:PE(36:1)_lp_c,10
+Taurodeoxycholic acid,REFMET:Taurodeoxycholic acid,30
+PC(14:0_20:4)_ln_b,REFMET:PC(14:0_20:4)_ln_b,10
+PE(34:3)_ln_a,REFMET:PE(34:3)_ln_a,21
+CL(74:10),REFMET:CL(74:10),4
+TG(54:3)_lp_h,REFMET:TG(54:3)_lp_h,10
+PC(40:7)_lp_c,REFMET:PC(40:7)_lp_c,15
+PG(16:0_20:4)_ln_c,REFMET:PG(16:0_20:4)_ln_c,18
+LPC(18:3),REFMET:LPC(18:3),12
+PC(37:0)_lp_e,REFMET:PC(37:0)_lp_e,10
+Pantothenic acid,REFMET:Pantothenic acid,20
+2-Hydroxyglutaric acid,REFMET:2-Hydroxyglutaric acid,6
+PE(38:6),REFMET:PE(38:6),4
+Cer(d40:2)_ln_a,REFMET:Cer(d40:2)_ln_a,10
+glutamate-13C5 [iSTD],REFMET:glutamate-13C5 [iSTD],10
+valine-d8 [iSTD],REFMET:valine-d8 [iSTD],9
+SM(d37:1),REFMET:SM(d37:1),9
+TG(54:8)_lp_c,REFMET:TG(54:8)_lp_c,10
+Phe-Trp,REFMET:Phe-Trp,10
+PE(18:0_22:6)_ln_b,REFMET:PE(18:0_22:6)_ln_b,30
+Phosphoethanolamine,REFMET:Phosphoethanolamine,5
+DG(34:1),REFMET:DG(34:1),10
+Tyrosine,REFMET:Tyrosine,18
+LPC(16:0)_lp_b,REFMET:LPC(16:0)_lp_b,10
+PC(16:0_20:5)_ln_c,REFMET:PC(16:0_20:5)_ln_c,30
+N-Methyl-proline,REFMET:N-Methyl-proline,43
+omega-Muricholic acid,REFMET:omega-Muricholic acid,10
+2-Hydroxy-3-methylbutyric acid,REFMET:2-Hydroxy-3-methylbutyric acid,10
+CAR(14:2),REFMET:CAR(14:2),15
+Cer(d18:1/23:0),REFMET:Cer(d18:1/23:0),10
+Stearoyl-CoA,REFMET:Stearoyl-CoA,22
+CAR(10:1),REFMET:CAR(10:1),11
+PC(37:1)_lp_b,REFMET:PC(37:1)_lp_b,10
+Hexanoyl-CoA,REFMET:Hexanoyl-CoA,21
+Hydroxyphenyllactic acid,REFMET:Hydroxyphenyllactic acid,20
+SM(d42:0)_lp_b,REFMET:SM(d42:0)_lp_b,9
+Indoleacrylic acid,REFMET:Indoleacrylic acid,10
+Hippuric acid,REFMET:Hippuric acid,18
+Guanine,REFMET:Guanine,7
+N-6-Trimethyllysine,REFMET:N-6-Trimethyllysine,12
+SM(d41:0),REFMET:SM(d41:0),10
+CL(72:6),REFMET:CL(72:6),1
+3-Methylhistamine,REFMET:3-Methylhistamine,10
+4-Guanidinobutanoic acid,REFMET:4-Guanidinobutanoic acid,20
+PE(34:0),REFMET:PE(34:0),10
+PE(38:5)_lp_b,REFMET:PE(38:5)_lp_b,20
+alpha-Muricholic acid,REFMET:alpha-Muricholic acid,14
+PC(39:5)_lp_j,REFMET:PC(39:5)_lp_j,10
+PC(34:4),REFMET:PC(34:4),10
+PC(O-38:6)_ln_a,REFMET:PC(O-38:6)_ln_a,11
+Stearoyl-EA,REFMET:Stearoyl-EA,10
+PE(40:8),REFMET:PE(40:8),20
+PE(P-38:5)/PE(O-38:6),REFMET:PE(P-38:5)/PE(O-38:6),8
+PC(18:1_22:6)_ln_c,REFMET:PC(18:1_22:6)_ln_c,11
+SM(d42:1),REFMET:SM(d42:1),12
+PC(16:1_20:4)_ln_b,REFMET:PC(16:1_20:4)_ln_b,17
+PC(18:0_22:5)_ln_d,REFMET:PC(18:0_22:5)_ln_d,10
+cis-Aconitic acid,REFMET:cis-Aconitic acid,12
+CAR(18:1)_lp_a,REFMET:CAR(18:1)_lp_a,10
+PC(44:5)_lp_b,REFMET:PC(44:5)_lp_b,10
+"N(6),N(6)-Dimethyl-lysine","REFMET:N(6),N(6)-Dimethyl-lysine",11
+CAR(22:4),REFMET:CAR(22:4),7
+Cholesterol sulfate,REFMET:Cholesterol sulfate,10
+PS(40:5)_ln_c,REFMET:PS(40:5)_ln_c,10
+TG(10:0_18:2_18:3)_lp_b,REFMET:TG(10:0_18:2_18:3)_lp_b,10
+PE(16:0_18:1)_ln_a,REFMET:PE(16:0_18:1)_ln_a,11
+LPE(18:2)_rp_b,REFMET:LPE(18:2)_rp_b,20
+sn-Glycero-3-phosphate,REFMET:sn-Glycero-3-phosphate,10
+LPC(24:0),REFMET:LPC(24:0),15
+CAR(18:0),REFMET:CAR(18:0),18
+Creatinine,REFMET:Creatinine,6
+Oxypurinol,REFMET:Oxypurinol,10
+TG(50:2)_lp_a,REFMET:TG(50:2)_lp_a,10
+PC(40:5)_lp_c,REFMET:PC(40:5)_lp_c,10
+TG(16:0_16:0_20:0)_lp_c,REFMET:TG(16:0_16:0_20:0)_lp_c,7
+Sarcosine,REFMET:Sarcosine,22
+PE(P-34:2)/PE(O-34:3),REFMET:PE(P-34:2)/PE(O-34:3),11
+CAR(18:2)_lp_a,REFMET:CAR(18:2)_lp_a,14
+PC(O-38:6)_ln_e,REFMET:PC(O-38:6)_ln_e,9
+Butyryl-CoA,REFMET:Butyryl-CoA,15
+TG(10:0_18:2_18:2),REFMET:TG(10:0_18:2_18:2),10
+PE(P-38:4)/PE(O-38:5),REFMET:PE(P-38:4)/PE(O-38:5),12
+PC(41:7)_lp_a,REFMET:PC(41:7)_lp_a,14
+PS(18:0_18:1),REFMET:PS(18:0_18:1),2
+PC(O-38:7)_lp_g,REFMET:PC(O-38:7)_lp_g,5
+3-Hydroxypropanoyl-CoA,REFMET:3-Hydroxypropanoyl-CoA,11
+PE(36:2),REFMET:PE(36:2),11
+Betaine,REFMET:Betaine,11
+N(6)-Methyllysine,REFMET:N(6)-Methyllysine,13
+PE(18:1_20:4)_lp_c,REFMET:PE(18:1_20:4)_lp_c,20
+TG(16:0_18:2_20:4)_lp_e,REFMET:TG(16:0_18:2_20:4)_lp_e,20
+TG(4:0_18:2_18:3),REFMET:TG(4:0_18:2_18:3),9
+Citrulline,REFMET:Citrulline,11
+DG(18:2_20:1)_lp_b,REFMET:DG(18:2_20:1)_lp_b,18
+LPC(18:2)_ln_ab,REFMET:LPC(18:2)_ln_ab,10
+TG(55:1)_lp_b,REFMET:TG(55:1)_lp_b,2
+SM(d43:1)_ln_a,REFMET:SM(d43:1)_ln_a,10
+Ketoleucine,REFMET:Ketoleucine,27
+PE(36:2)_lp_b,REFMET:PE(36:2)_lp_b,9
+ADP,REFMET:ADP,8
+TG(56:4)_lp_f,REFMET:TG(56:4)_lp_f,12
+LPC(24:0)_lp_b,REFMET:LPC(24:0)_lp_b,3
+TG(8:0_18:2_18:2),REFMET:TG(8:0_18:2_18:2),10
+Sphingosine 1-phosphate,REFMET:Sphingosine 1-phosphate,9
+CAR(3:0),REFMET:CAR(3:0),9
+PC(O-36:5)_lp_b,REFMET:PC(O-36:5)_lp_b,10
+TG(58:2)_lp_c,REFMET:TG(58:2)_lp_c,11
+PC(40:6)_lp_c,REFMET:PC(40:6)_lp_c,12
+PE(16:0_18:2)_ln_b,REFMET:PE(16:0_18:2)_ln_b,25
+PS(40:5)_lp_c,REFMET:PS(40:5)_lp_c,9
+PE(O-16:1/20:4)_ln_c,REFMET:PE(O-16:1/20:4)_ln_c,13
+Oxidized glutathione,REFMET:Oxidized glutathione,1
+PE(38:5)_ln_f,REFMET:PE(38:5)_ln_f,14
+PG(16:0_18:2),REFMET:PG(16:0_18:2),20
+NADH,REFMET:NADH,19
+CAR(DC5:0),REFMET:CAR(DC5:0),17
+Lactic acid,REFMET:Lactic acid,13
+PC(30:0)_ln_a,REFMET:PC(30:0)_ln_a,11
+PE(18:0_20:3)_lp_b,REFMET:PE(18:0_20:3)_lp_b,10
+Hydroxydodecanoic acid,REFMET:Hydroxydodecanoic acid,10
+anthranilic acid-15N [iSTD],REFMET:anthranilic acid-15N [iSTD],10
+Guanosine,REFMET:Guanosine,16
+PC(38:6),REFMET:PC(38:6),12
+CAR(18:0(OH)),REFMET:CAR(18:0(OH)),10
+PC(O-38:4)_lp_a,REFMET:PC(O-38:4)_lp_a,10
+TG(18:2_18:2_20:4)_lp_c,REFMET:TG(18:2_18:2_20:4)_lp_c,10
+TG(18:1_18:1_18:2)_lp_d,REFMET:TG(18:1_18:1_18:2)_lp_d,12
+PC(17:0_22:6)_ln_c,REFMET:PC(17:0_22:6)_ln_c,10
+PE(40:6)_lp_a,REFMET:PE(40:6)_lp_a,10
+TG(18:1_18:1_19:0)_lp_a,REFMET:TG(18:1_18:1_19:0)_lp_a,10
+TG(54:2)_lp_c,REFMET:TG(54:2)_lp_c,16
+Glucose,REFMET:Glucose,2
+LPC(18:1/0:0)_ln_b,REFMET:LPC(18:1/0:0)_ln_b,20
+TG(55:2)_lp_b,REFMET:TG(55:2)_lp_b,10
+Ubiquinol Q9,REFMET:Ubiquinol Q9,9
+CAR(16:1)_lp_a,REFMET:CAR(16:1)_lp_a,6
+PE(O-34:1)_lp_b,REFMET:PE(O-34:1)_lp_b,4
+TG(58:11)_lp_a,REFMET:TG(58:11)_lp_a,10
+PE(O-18:2/18:1)_ln_c,REFMET:PE(O-18:2/18:1)_ln_c,2
+Kynurenic acid,REFMET:Kynurenic acid,10
+DG(18:2_18:3_0:0)_lp_a,REFMET:DG(18:2_18:3_0:0)_lp_a,10
+PE(34:2),REFMET:PE(34:2),14
+TG(16:0_18:1_22:6)_lp_f,REFMET:TG(16:0_18:1_22:6)_lp_f,10
+Tetracosenoic acid,REFMET:Tetracosenoic acid,12
+PC(39:6)_lp_g,REFMET:PC(39:6)_lp_g,10
+DG(18:1_18:1),REFMET:DG(18:1_18:1),4
+DG(18:0_20:4)_lp_f,REFMET:DG(18:0_20:4)_lp_f,6
+Ala-Ala,REFMET:Ala-Ala,12
+PE(O-16:1/16:0),REFMET:PE(O-16:1/16:0),7
+SM(d40:2)_ln_a,REFMET:SM(d40:2)_ln_a,22
+PE(40:6)_lp_c,REFMET:PE(40:6)_lp_c,9
+HexCer(d18:1/22:0)_lp_c,REFMET:HexCer(d18:1/22:0)_lp_c,5
+Glycoursodeoxycholic acid,REFMET:Glycoursodeoxycholic acid,10
+7-Methylguanine,REFMET:7-Methylguanine,15
+TG(50:3)_lp_d,REFMET:TG(50:3)_lp_d,10
+PC(34:3)_lp_a,REFMET:PC(34:3)_lp_a,10
+PC(36:6)_lp_b,REFMET:PC(36:6)_lp_b,17
+PG(18:0_22:6)_ln_d,REFMET:PG(18:0_22:6)_ln_d,7
+PG(18:0_20:4),REFMET:PG(18:0_20:4),10
+TG(10:0_18:2_18:3)_lp_a,REFMET:TG(10:0_18:2_18:3)_lp_a,10
+PS(18:0_22:5)_ln_e,REFMET:PS(18:0_22:5)_ln_e,14
+Hexose,REFMET:Hexose,9
+PC(O-36:4)_lp_b,REFMET:PC(O-36:4)_lp_b,10
+PC(31:0)_lp_b,REFMET:PC(31:0)_lp_b,11
+LPC(17:0)_lp_ab,REFMET:LPC(17:0)_lp_ab,22
+PC(16:0_20:4)_ln_c,REFMET:PC(16:0_20:4)_ln_c,15
+PC(O-32:1)_lp_b,REFMET:PC(O-32:1)_lp_b,8
+SM(d42:1)_lp_a,REFMET:SM(d42:1)_lp_a,6
+CAR(DC3:0),REFMET:CAR(DC3:0),11
+LPE(18:1)_lp_ab,REFMET:LPE(18:1)_lp_ab,10
+TG(38:1)_lp_b,REFMET:TG(38:1)_lp_b,10
+PC(O-38:7)_lp_f,REFMET:PC(O-38:7)_lp_f,10
+Indoleacetic acid,REFMET:Indoleacetic acid,12
+Sebacic acid,REFMET:Sebacic acid,2
+PC(42:2)_lp_b,REFMET:PC(42:2)_lp_b,12
+PE(16:1_20:4)_ln_b,REFMET:PE(16:1_20:4)_ln_b,11
+PE(40:6)_lp_b,REFMET:PE(40:6)_lp_b,10
+aspartate-13C4 [iSTD],REFMET:aspartate-13C4 [iSTD],10
+TG(16:0_18:1_22:4)_lp_c,REFMET:TG(16:0_18:1_22:4)_lp_c,1
+PC(33:2),REFMET:PC(33:2),19
+SM(d38:2)_lp_b,REFMET:SM(d38:2)_lp_b,10
+TG(18:2_18:2_18:3)_lp_c,REFMET:TG(18:2_18:2_18:3)_lp_c,8
+UMP,REFMET:UMP,17
+PC(42:8)_lp_b,REFMET:PC(42:8)_lp_b,9
+PE(O-34:3),REFMET:PE(O-34:3),10
+PS(36:2)_lp_c,REFMET:PS(36:2)_lp_c,10
+TG(58:6)_lp_g,REFMET:TG(58:6)_lp_g,10
+PC(39:6)_lp_c,REFMET:PC(39:6)_lp_c,10
+Glycohyodeoxycholic acid,REFMET:Glycohyodeoxycholic acid,9
+CAR(19:0),REFMET:CAR(19:0),10
+Octenoyl-CoA,REFMET:Octenoyl-CoA,14
+CAR(5:0(OH)),REFMET:CAR(5:0(OH)),8
+SM(d39:1)_lp_b,REFMET:SM(d39:1)_lp_b,7
+Serine,REFMET:Serine,10
+LPC(26:0)_lp_ab,REFMET:LPC(26:0)_lp_ab,10
+"trans-Cyclohexane-1,2-diol","REFMET:trans-Cyclohexane-1,2-diol",10
+TG(48:2)_lp_c,REFMET:TG(48:2)_lp_c,1
+S-Methylcysteine S-oxide,REFMET:S-Methylcysteine S-oxide,10
+TG(56:1)_lp_a,REFMET:TG(56:1)_lp_a,5
+TG(10:0_18:2_20:4)_lp_a,REFMET:TG(10:0_18:2_20:4)_lp_a,10
+TG(49:0),REFMET:TG(49:0),15
+PE(O-40:7)_ln_j,REFMET:PE(O-40:7)_ln_j,10
+Phytosphingosine,REFMET:Phytosphingosine,7
+PE(38:5)_ln_d,REFMET:PE(38:5)_ln_d,10
+PC(18:2_19:0)_ln_a,REFMET:PC(18:2_19:0)_ln_a,10
+Heneicosatrienoyl-CoA,REFMET:Heneicosatrienoyl-CoA,11
+PC(O-34:1)_ln_b,REFMET:PC(O-34:1)_ln_b,10
+PE(18:0_22:5)_ln_d,REFMET:PE(18:0_22:5)_ln_d,5
+TG(52:2)_lp_g,REFMET:TG(52:2)_lp_g,10
+PC(44:12),REFMET:PC(44:12),21
+PC(37:6)_lp_a,REFMET:PC(37:6)_lp_a,17
+PE(16:0_20:4)_lp_e,REFMET:PE(16:0_20:4)_lp_e,9
+TG(58:34)_lp_f,REFMET:TG(58:34)_lp_f,10
+PE(16:1_22:6),REFMET:PE(16:1_22:6),7
+Cytidine,REFMET:Cytidine,20
+TG(50:2)_lp_c,REFMET:TG(50:2)_lp_c,11
+Leucine,REFMET:Leucine,14
+PE(O-34:1)_ln_a,REFMET:PE(O-34:1)_ln_a,10
+SM(d18:1/18:1),REFMET:SM(d18:1/18:1),12
+PE(18:0_20:3)_lp_c,REFMET:PE(18:0_20:3)_lp_c,4
+Adenylsuccinic acid,REFMET:Adenylsuccinic acid,12
+TG(56:4)_lp_c,REFMET:TG(56:4)_lp_c,10
+TG(58:11)_lp_b,REFMET:TG(58:11)_lp_b,10
+CAR(4:0(OH)),REFMET:CAR(4:0(OH)),20
+LPC(20:3),REFMET:LPC(20:3),10
+CAR(12:0),REFMET:CAR(12:0),15
+Cer(d42:2)_ln_d,REFMET:Cer(d42:2)_ln_d,6
+PG(18:2_18:2)_ln_b,REFMET:PG(18:2_18:2)_ln_b,3
+TG(58:8)_lp_a,REFMET:TG(58:8)_lp_a,11
+PS(O-40:7)>PS(O-20:3/20:4),REFMET:PS(O-40:7)>PS(O-20:3/20:4),8
+CAR(20:2)_lp_a,REFMET:CAR(20:2)_lp_a,11
+Malonyl-CoA/Hydroxybutyryl-CoA,REFMET:Malonyl-CoA/Hydroxybutyryl-CoA,10
+PG(18:0_20:4)_ln_c,REFMET:PG(18:0_20:4)_ln_c,8
+TG(18:1_18:1_18:1)_lp_h,REFMET:TG(18:1_18:1_18:1)_lp_h,13
+TG(18:1_18:1_18:2)_lp_e,REFMET:TG(18:1_18:1_18:2)_lp_e,10
+PC(38:1),REFMET:PC(38:1),10
+Urocanic acid,REFMET:Urocanic acid,8
+PC(O-38:4)_lp_c,REFMET:PC(O-38:4)_lp_c,6
+Propionyl-CoA,REFMET:Propionyl-CoA,7
+PE(16:0/16:0),REFMET:PE(16:0/16:0),7
+Taurohyodeoxycholic acid,REFMET:Taurohyodeoxycholic acid,18
+N-Acetylmethionine,REFMET:N-Acetylmethionine,6
+Aminoadipic acid,REFMET:Aminoadipic acid,12
+DG(18:0_18:1)_lp_a,REFMET:DG(18:0_18:1)_lp_a,11
+Isopentenoyl-CoA,REFMET:Isopentenoyl-CoA,11
+Targinine,REFMET:Targinine,2
+Docosenoyl-CoA,REFMET:Docosenoyl-CoA,19
+SM(d43:1)_lp_b,REFMET:SM(d43:1)_lp_b,11
+TG(53:1)_lp_d,REFMET:TG(53:1)_lp_d,10
+TG(44:2)_lp_a,REFMET:TG(44:2)_lp_a,1
+1-Methylhistidine,REFMET:1-Methylhistidine,9
+PC(18:0_20:2)_ln_d,REFMET:PC(18:0_20:2)_ln_d,1
+ADP-ribose,REFMET:ADP-ribose,8
+PC(34:0)_lp_b,REFMET:PC(34:0)_lp_b,10
+UDP-N-acetylglucosamine,REFMET:UDP-N-acetylglucosamine,3
+PS(40:7),REFMET:PS(40:7),13
+alanine-13C3 [iSTD],REFMET:alanine-13C3 [iSTD],10
+SM(d39:1)_ln_a,REFMET:SM(d39:1)_ln_a,10
+DG(18:0_18:1)_lp_b,REFMET:DG(18:0_18:1)_lp_b,10
+Acisoga,REFMET:Acisoga,17
+Proline betaine,REFMET:Proline betaine,1
+PC(41:1),REFMET:PC(41:1),5
+TG(18:1_18:1_19:0)_lp_b,REFMET:TG(18:1_18:1_19:0)_lp_b,9
+TG(58:3)_lp_c,REFMET:TG(58:3)_lp_c,1
+PE(O-18:1/22:4)_ln_c,REFMET:PE(O-18:1/22:4)_ln_c,18
+Nonenoyl-CoA,REFMET:Nonenoyl-CoA,10
+LPE(16:0)_ln_ab,REFMET:LPE(16:0)_ln_ab,10
+Linoleoyl-EA,REFMET:Linoleoyl-EA,4
+PC(O-40:7)_lp_c,REFMET:PC(O-40:7)_lp_c,7
+Histidine,REFMET:Histidine,17
+PE(18:0_18:1)_ln_c,REFMET:PE(18:0_18:1)_ln_c,11
+Glutathione,REFMET:Glutathione,20
+CAR(12:1),REFMET:CAR(12:1),12
+PE(18:0_20:4)_ln_e,REFMET:PE(18:0_20:4)_ln_e,14
+Cer(d41:1),REFMET:Cer(d41:1),14
+3-Hydroxybenzoic acid,REFMET:3-Hydroxybenzoic acid,13
+PC(16:0_18:3)_ln_c,REFMET:PC(16:0_18:3)_ln_c,19
+SM(d40:1),REFMET:SM(d40:1),15
+CAR(5:0)_rp_a,REFMET:CAR(5:0)_rp_a,7
+N-Methyl-D-aspartic acid,REFMET:N-Methyl-D-aspartic acid,5
+PS(O-20:3/22:4)_ln_a,REFMET:PS(O-20:3/22:4)_ln_a,10
+DG(16:0_20:4)_lp_b,REFMET:DG(16:0_20:4)_lp_b,3
+TG(55:4)_lp_b,REFMET:TG(55:4)_lp_b,9
+SM(d18:1/14:0),REFMET:SM(d18:1/14:0),4
+PE(42:10)_lp_a,REFMET:PE(42:10)_lp_a,1
+"GTInternalStandard_CE(18:1(9z,d7))_[iSTD]","REFMET:GTInternalStandard_CE(18:1(9z,d7))_[iSTD]",8
+Ser-Leu,REFMET:Ser-Leu,10
+PS(O-20:3/22:4),REFMET:PS(O-20:3/22:4),12
+Eicosadienoyl-CoA,REFMET:Eicosadienoyl-CoA,11
+PE(O-40:6)_ln_b,REFMET:PE(O-40:6)_ln_b,19
+PE(O-18:1/22:4)_ln_d,REFMET:PE(O-18:1/22:4)_ln_d,8
+PC(44:10),REFMET:PC(44:10),3
+Crotonoyl-CoA,REFMET:Crotonoyl-CoA,12
+PC(42:7)_lp_d,REFMET:PC(42:7)_lp_d,10
+PE(O-40:8)_lp_b,REFMET:PE(O-40:8)_lp_b,9
+5-Hydroxytryptophol,REFMET:5-Hydroxytryptophol,1
+CAR(5:0),REFMET:CAR(5:0),18
+PC(40:1),REFMET:PC(40:1),10
+Cer(d18:1/21:0),REFMET:Cer(d18:1/21:0),4
+Guanidoacetic acid,REFMET:Guanidoacetic acid,5
+PE(O-38:2)_ln_d,REFMET:PE(O-38:2)_ln_d,4
+LPE(22:6),REFMET:LPE(22:6),7
+PE(36:2)_lp_a,REFMET:PE(36:2)_lp_a,10
+CAR(18:3)_lp_a,REFMET:CAR(18:3)_lp_a,8
+PC(38:2)_lp_e,REFMET:PC(38:2)_lp_e,10
+Glu-Lys,REFMET:Glu-Lys,1
+CE(20:5),REFMET:CE(20:5),5
+SM(d18:1/16:0),REFMET:SM(d18:1/16:0),16
+PE(18:2_22:6),REFMET:PE(18:2_22:6),22
+SM(d41:2)_lp_a,REFMET:SM(d41:2)_lp_a,7
+Cyclohexylamine,REFMET:Cyclohexylamine,27
+Isovaleryl-CoA,REFMET:Isovaleryl-CoA,10
+TG(42:2)_lp_b,REFMET:TG(42:2)_lp_b,10
+TG(54:3)_lp_i,REFMET:TG(54:3)_lp_i,2
+TG(55:5)_lp_b,REFMET:TG(55:5)_lp_b,3
+TG(54:4)_lp_f,REFMET:TG(54:4)_lp_f,8
+Carnitine,REFMET:Carnitine,1
+PC(14:0_20:4)_ln_c,REFMET:PC(14:0_20:4)_ln_c,10
+TG(42:3)_lp_a,REFMET:TG(42:3)_lp_a,10
+Glycocholic acid,REFMET:Glycocholic acid,9
+3-Guanidinopropanoic acid,REFMET:3-Guanidinopropanoic acid,12
+Cer(d34:1),REFMET:Cer(d34:1),15
+CL(72:7),REFMET:CL(72:7),1
+N-Lauroylglycine,REFMET:N-Lauroylglycine,4
+PE(O-18:1/20:4)_ln_f,REFMET:PE(O-18:1/20:4)_ln_f,18
+Sitosterol Ester(20:4)_lp_c,REFMET:Sitosterol Ester(20:4)_lp_c,10
+Sphinganine,REFMET:Sphinganine,3
+PE(O-18:1/22:6)_lp_g,REFMET:PE(O-18:1/22:6)_lp_g,10
+PC(O-38:4)_lp_f,REFMET:PC(O-38:4)_lp_f,1
+TG(52:2)_lp_e,REFMET:TG(52:2)_lp_e,11
+PE(36:5)_lp_a,REFMET:PE(36:5)_lp_a,10
+PE(O-18:0/22:4)_ln_c,REFMET:PE(O-18:0/22:4)_ln_c,10
+TG(50:3)_lp_c,REFMET:TG(50:3)_lp_c,4
+PE(O-39:5)_ln_b,REFMET:PE(O-39:5)_ln_b,2
+TG(49:3)_lp_b,REFMET:TG(49:3)_lp_b,8
+LPC(18:1)_ln_ab,REFMET:LPC(18:1)_ln_ab,10
+GTP,REFMET:GTP,15
+IMP,REFMET:IMP,6
+CE(20:4)_lp_a,REFMET:CE(20:4)_lp_a,11
+Docosahexaenoyl-CoA,REFMET:Docosahexaenoyl-CoA,8
+TG(54:5)_lp_a,REFMET:TG(54:5)_lp_a,3
+Trimethylbenzene,REFMET:Trimethylbenzene,8
+PC(38:5)_lp_e,REFMET:PC(38:5)_lp_e,5
+Succinic acid,REFMET:Succinic acid,12
+gamma-Linolenoyl-CoA,REFMET:gamma-Linolenoyl-CoA,4
+PE(O-18:1/22:5)_ln_c,REFMET:PE(O-18:1/22:5)_ln_c,5
+PC(36:5)_lp_a,REFMET:PC(36:5)_lp_a,19
+PE(O-38:7)_ln_a,REFMET:PE(O-38:7)_ln_a,6
+PE(40:7)_lp_b,REFMET:PE(40:7)_lp_b,10
+PE(O-38:6)_ln_b,REFMET:PE(O-38:6)_ln_b,16
+SM(d44:1),REFMET:SM(d44:1),8
+Eicosenoyl-CoA,REFMET:Eicosenoyl-CoA,4
+Symmetric dimethyl-arginine,REFMET:Symmetric dimethyl-arginine,10
+LPC(18:0),REFMET:LPC(18:0),6
+Hydroxyoctanoic acid,REFMET:Hydroxyoctanoic acid,10
+PC(O-32:1)_ln_b,REFMET:PC(O-32:1)_ln_b,11
+PC(16:1_18:2)_ln_b,REFMET:PC(16:1_18:2)_ln_b,6
+PE(16:0_20:4)_ln_c,REFMET:PE(16:0_20:4)_ln_c,17
+PC(41:6)_lp_a,REFMET:PC(41:6)_lp_a,9
+CAR(10:0(OH)),REFMET:CAR(10:0(OH)),3
+TG(54:8)_lp_a,REFMET:TG(54:8)_lp_a,2
+PS(18:0_18:2)_ln_d,REFMET:PS(18:0_18:2)_ln_d,10
+TG(51:0)_lp_b,REFMET:TG(51:0)_lp_b,7
+Aminoisobutyric acid,REFMET:Aminoisobutyric acid,16
+CAR(16:2)_lp_a,REFMET:CAR(16:2)_lp_a,3
+PC(40:5)_lp_d,REFMET:PC(40:5)_lp_d,4
+Taurine,REFMET:Taurine,2
+TG(16:1_18:1_18:2)_lp_b,REFMET:TG(16:1_18:1_18:2)_lp_b,5
+Acetylcholine,REFMET:Acetylcholine,11
+LPC(20:1)_lp_ab,REFMET:LPC(20:1)_lp_ab,3
+TG(53:4)_lp_b,REFMET:TG(53:4)_lp_b,1
+Docosadienoyl-CoA,REFMET:Docosadienoyl-CoA,6
+1-Methyladenosine,REFMET:1-Methyladenosine,3
+Undecadienoyl-CoA,REFMET:Undecadienoyl-CoA,3
+PE(O-16:1/22:5)_ln_c,REFMET:PE(O-16:1/22:5)_ln_c,9
+AMP,REFMET:AMP,8
+MG(14:0),REFMET:MG(14:0),10
+PG(16:0_22:4)_ln_b,REFMET:PG(16:0_22:4)_ln_b,4
+PS(O-42:7)>PS(O-20:3/22:4)_ln_b,REFMET:PS(O-42:7)>PS(O-20:3/22:4)_ln_b,7
+PC(42:6)_lp_b,REFMET:PC(42:6)_lp_b,11
+MG(18:1)_rp_b,REFMET:MG(18:1)_rp_b,1
+PS(18:0_20:4)_ln_b,REFMET:PS(18:0_20:4)_ln_b,7
+N-Acetyl-D-galactosamine,REFMET:N-Acetyl-D-galactosamine,8
+Uracil,REFMET:Uracil,8
+SM(d36:2),REFMET:SM(d36:2),8
+PE(40:7)_ln_c,REFMET:PE(40:7)_ln_c,14
+PE(O-40:8)_ln_b,REFMET:PE(O-40:8)_ln_b,6
+PS(O-20:3/20:4)_ln_b,REFMET:PS(O-20:3/20:4)_ln_b,8
+Chenodeoxycholic acid,REFMET:Chenodeoxycholic acid,2
+TG(4:0_18:2_18:2)_lp_a,REFMET:TG(4:0_18:2_18:2)_lp_a,9
+Phenylacetylglycine,REFMET:Phenylacetylglycine,1
+TG(51:5)_lp_b,REFMET:TG(51:5)_lp_b,5
+TG(46:1)_lp_a,REFMET:TG(46:1)_lp_a,4
+dTTP,REFMET:dTTP,1
+TG(53:2)_lp_d,REFMET:TG(53:2)_lp_d,10
+PC(32:0)_lp_a,REFMET:PC(32:0)_lp_a,5
+PS(18:0_22:4),REFMET:PS(18:0_22:4),6
+TG(48:0),REFMET:TG(48:0),4
+PC(42:5)_lp_d,REFMET:PC(42:5)_lp_d,1
+Imidazolepropionic acid,REFMET:Imidazolepropionic acid,1
+TG(16:0_16:0_18:1)_lp_d,REFMET:TG(16:0_16:0_18:1)_lp_d,6
+6-Phosphogluconic acid,REFMET:6-Phosphogluconic acid,8
+Arachidic acid,REFMET:Arachidic acid,1
+CAR(17:0)_lp_b,REFMET:CAR(17:0)_lp_b,10
+N6-Acetyllysine,REFMET:N6-Acetyllysine,8
+Anserine,REFMET:Anserine,9
+Biopterin,REFMET:Biopterin,4
+TG(58:5)_lp_e,REFMET:TG(58:5)_lp_e,2
+HexCer(d18:1/25:0-OH),REFMET:HexCer(d18:1/25:0-OH),2
+Docosatetraenoyl-CoA,REFMET:Docosatetraenoyl-CoA,11
+TG(56:2)_lp_c,REFMET:TG(56:2)_lp_c,3
+TG(45:3),REFMET:TG(45:3),3
+Cystathionine,REFMET:Cystathionine,12
+PE(O-38:6)_ln_c,REFMET:PE(O-38:6)_ln_c,1
+TG(38:2)_lp_b,REFMET:TG(38:2)_lp_b,7
+PI(18:0_22:6)_ln_a,REFMET:PI(18:0_22:6)_ln_a,2
+TG(60:3)_lp_b,REFMET:TG(60:3)_lp_b,1
+TG(38:1)_lp_c,REFMET:TG(38:1)_lp_c,7
+Trigonelline,REFMET:Trigonelline,10
+PC(39:4)_lp_e,REFMET:PC(39:4)_lp_e,6
+PC(O-16:0/20:4)_ln_d,REFMET:PC(O-16:0/20:4)_ln_d,3
+SM(d40:2)_lp_b,REFMET:SM(d40:2)_lp_b,2
+TG(46:3)_,REFMET:TG(46:3)_,10
+2-Hydroxybutyric acid,REFMET:2-Hydroxybutyric acid,5
+PE(O-40:7)_ln_i,REFMET:PE(O-40:7)_ln_i,6
+3-Methyl-2-oxovaleric acid,REFMET:3-Methyl-2-oxovaleric acid,2
+2-Aminobutyric acid,REFMET:2-Aminobutyric acid,20
+CAR(21:2),REFMET:CAR(21:2),8
+SM(d40:2)_ln_b,REFMET:SM(d40:2)_ln_b,16
+Nonadecadienoyl-CoA,REFMET:Nonadecadienoyl-CoA,2
+CMP,REFMET:CMP,4
+TG(51:2)_lp_c,REFMET:TG(51:2)_lp_c,8
+TG(54:8)_lp_b,REFMET:TG(54:8)_lp_b,3
+21-Deoxycortisol,REFMET:21-Deoxycortisol,5
+TG(53:4)_lp_c,REFMET:TG(53:4)_lp_c,4
+LPE(18:0)_lp_b,REFMET:LPE(18:0)_lp_b,1
+TG(42:1)_lp_a,REFMET:TG(42:1)_lp_a,9
+PC(42:9)_lp_a,REFMET:PC(42:9)_lp_a,5
+TG(51:2)_M+NH3_lp_b,REFMET:TG(51:2)_M+NH3_lp_b,2
+PC(41:2)_lp_c,REFMET:PC(41:2)_lp_c,5
+Heneicosenoyl-CoA,REFMET:Heneicosenoyl-CoA,5
+PG(22:6/22:6),REFMET:PG(22:6/22:6),1
+PC(40:7)_ln_a,REFMET:PC(40:7)_ln_a,10
+gamma-Glutamyltyrosine,REFMET:gamma-Glutamyltyrosine,1
+Deoxycholic acid,REFMET:Deoxycholic acid,5
+5'-Methylthioadenosine,REFMET:5'-Methylthioadenosine,6
+3-Methylhistidine,REFMET:3-Methylhistidine,3
+Methionine sulfoxide,REFMET:Methionine sulfoxide,4
+CAR(5:1),REFMET:CAR(5:1),15
+TG(52:1)_lp_c,REFMET:TG(52:1)_lp_c,16
+CAR(9:0),REFMET:CAR(9:0),7
+PC(35:3),REFMET:PC(35:3),4
+LPC(18:2)_lp_a,REFMET:LPC(18:2)_lp_a,3
+CAR(16:0(OH)),REFMET:CAR(16:0(OH)),10
+TG(53:2)_lp_a,REFMET:TG(53:2)_lp_a,2
+TG(58:8)_lp_d,REFMET:TG(58:8)_lp_d,10
+Pyruvic acid,REFMET:Pyruvic acid,11
+lysine-13C6 [iSTD],REFMET:lysine-13C6 [iSTD],10
+N-Acetylalanine,REFMET:N-Acetylalanine,4
+TG(34:0)_lp_a,REFMET:TG(34:0)_lp_a,4
+"9,10-DiHOME","REFMET:9,10-DiHOME",3
+Phosphoglyceric acid,REFMET:Phosphoglyceric acid,4
+PE(O-18:1/22:5)_lp_d,REFMET:PE(O-18:1/22:5)_lp_d,7
+PC(42:2)_lp_a,REFMET:PC(42:2)_lp_a,3
+TG(56:1)_lp_b,REFMET:TG(56:1)_lp_b,1
+CTP,REFMET:CTP,2
+DG(16:0_16:1),REFMET:DG(16:0_16:1),6
+PC(46:5)_lp_b,REFMET:PC(46:5)_lp_b,2
+C16 Sphinganine,REFMET:C16 Sphinganine,1
+EPA,REFMET:EPA,2
+PC(40:6),REFMET:PC(40:6),1
+Stearic acid,REFMET:Stearic acid,3
+TG(42:5)_lp_a,REFMET:TG(42:5)_lp_a,10
+PE(O-39:5)_ln_c,REFMET:PE(O-39:5)_ln_c,2
+SM(d33:1),REFMET:SM(d33:1),3
+CAR(13:0),REFMET:CAR(13:0),7
+TG(18:1_18:1_20:1)_lp_c,REFMET:TG(18:1_18:1_20:1)_lp_c,3
+LPC(20:4)_hp_a,REFMET:LPC(20:4)_hp_a,8
+Nonanoyl-CoA,REFMET:Nonanoyl-CoA,10
+Citric acid/Isocitric acid,REFMET:Citric acid/Isocitric acid,1
+3-Indolepropionic acid,REFMET:3-Indolepropionic acid,2
+CE(18:2),REFMET:CE(18:2),12
+Sulfatide(d41:1),REFMET:Sulfatide(d41:1),3
+PC(35:4)_lp_d,REFMET:PC(35:4)_lp_d,5
+SM(d42:1)_lp_b,REFMET:SM(d42:1)_lp_b,10
+Niacinamide,REFMET:Niacinamide,11
+N-Acetylhistidine,REFMET:N-Acetylhistidine,5
+SM(d42:2)_ln_a,REFMET:SM(d42:2)_ln_a,4
+Cerotic acid,REFMET:Cerotic acid,1
+PC(36:0)_lp_c,REFMET:PC(36:0)_lp_c,5
+PE(O-36:3)_lp_b,REFMET:PE(O-36:3)_lp_b,1
+DG(34:2),REFMET:DG(34:2),12
+DG(16:0_18:1)_lp_b,REFMET:DG(16:0_18:1)_lp_b,3
+CAR(17:1),REFMET:CAR(17:1),3
+Sphingosine,REFMET:Sphingosine,5
+TG(16:0_18:1_22:4)_lp_a,REFMET:TG(16:0_18:1_22:4)_lp_a,1
+PE(18:0_20:4)_lp_d,REFMET:PE(18:0_20:4)_lp_d,3
+Heneicosadienoyl-CoA,REFMET:Heneicosadienoyl-CoA,6
+LPC(22:0)_lp_b,REFMET:LPC(22:0)_lp_b,10
+TG(56:4)_lp_b,REFMET:TG(56:4)_lp_b,8
+CAR(26:0),REFMET:CAR(26:0),6
+PE(O-18:1/22:5)_ln_e,REFMET:PE(O-18:1/22:5)_ln_e,7
+PC(16:0_22:5)_ln_e,REFMET:PC(16:0_22:5)_ln_e,1
+Xanthosine,REFMET:Xanthosine,1
+ATP,REFMET:ATP,3
+TG(53:3)_lp_c,REFMET:TG(53:3)_lp_c,5
+Cer(d44:2)_ln_b,REFMET:Cer(d44:2)_ln_b,7
+PC(41:3),REFMET:PC(41:3),9
+PE(40:6),REFMET:PE(40:6),2
+TG(50:4)_lp_c,REFMET:TG(50:4)_lp_c,8
+4-Acetamidobutanoic acid,REFMET:4-Acetamidobutanoic acid,4
+PC(O-36:5)_lp_e,REFMET:PC(O-36:5)_lp_e,5
+PC(39:6)_lp_e,REFMET:PC(39:6)_lp_e,7
+Oleic acid,REFMET:Oleic acid,3
+TG(42:5)_lp_b,REFMET:TG(42:5)_lp_b,9
+Uric acid,REFMET:Uric acid,1
+CAR(8:0),REFMET:CAR(8:0),11
+SM(d18:1/22:0),REFMET:SM(d18:1/22:0),4
+TG(16:0_16:0_18:0)_lp_c,REFMET:TG(16:0_16:0_18:0)_lp_c,5
+LPC(P-18:0)/LPC(O-18:1)_hp_b,REFMET:LPC(P-18:0)/LPC(O-18:1)_hp_b,8
+CAR(8:0(OH)),REFMET:CAR(8:0(OH)),12
+PC(38:6)_ln_b,REFMET:PC(38:6)_ln_b,13
+Malic acid,REFMET:Malic acid,6
+TG(4:0_16:0_16:0)_lp_d,REFMET:TG(4:0_16:0_16:0)_lp_d,1
+CAR(15:0)_lp_b,REFMET:CAR(15:0)_lp_b,7
+PC(30:0)_lp_b,REFMET:PC(30:0)_lp_b,2
+LPC(18:0)_ln_ab,REFMET:LPC(18:0)_ln_ab,4
+TG(58:10)_lp_a,REFMET:TG(58:10)_lp_a,2
+PE(O-36:4)_ln_a,REFMET:PE(O-36:4)_ln_a,5
+PI(18:1_20:4)_ln_a,REFMET:PI(18:1_20:4)_ln_a,4
+LPC(17:0),REFMET:LPC(17:0),6
+PA(34:1)_lp_a,REFMET:PA(34:1)_lp_a,6
+PE(O-18:1/20:4)_ln_c,REFMET:PE(O-18:1/20:4)_ln_c,4
+SM(d41:2)_ln_bc,REFMET:SM(d41:2)_ln_bc,3
+PE(22:4_22:6)_ln_b,REFMET:PE(22:4_22:6)_ln_b,1
+Lauric acid,REFMET:Lauric acid,3
+Succinyl-CoA,REFMET:Succinyl-CoA,1
+Creatine,REFMET:Creatine,2
+PE(20:4_22:0),REFMET:PE(20:4_22:0),3
+PC(42:8)_lp_c,REFMET:PC(42:8)_lp_c,2
+LPC(22:5),REFMET:LPC(22:5),3
+XMP,REFMET:XMP,1
+Isoleucine,REFMET:Isoleucine,7
+NADP+,REFMET:NADP+,1
+TG(52:3)_lp_a,REFMET:TG(52:3)_lp_a,2
+Tetradecenoyl-CoA,REFMET:Tetradecenoyl-CoA,3
+Octadecatetraenoic acid,REFMET:Octadecatetraenoic acid,9
+TG(54:7)_lp_d,REFMET:TG(54:7)_lp_d,6
+PG(40:8)_ln_a,REFMET:PG(40:8)_ln_a,4
+TG(17:1_18:2_18:2)_lp_a,REFMET:TG(17:1_18:2_18:2)_lp_a,3
+TG(4:0_14:0_16:0)_lp_c,REFMET:TG(4:0_14:0_16:0)_lp_c,5
+PE(O-35:2)_ln_c,REFMET:PE(O-35:2)_ln_c,2
+PI(18:0_22:5)_ln_a,REFMET:PI(18:0_22:5)_ln_a,4
+LPC(20:1),REFMET:LPC(20:1),4
+Sulfatide(d41:1-OH),REFMET:Sulfatide(d41:1-OH),1
+LPC(20:4)_lp_ab,REFMET:LPC(20:4)_lp_ab,3
+PE(O-38:7)_ln_b,REFMET:PE(O-38:7)_ln_b,2
+MG(16:0),REFMET:MG(16:0),8
+PC(42:7)_lp_a,REFMET:PC(42:7)_lp_a,2
+LPC(20:0),REFMET:LPC(20:0),7
+2-Acetylpyrrolidine,REFMET:2-Acetylpyrrolidine,4
+Cer(d18:2/22:0)_lp_b,REFMET:Cer(d18:2/22:0)_lp_b,5
+HexCer(d42:2)_lp_c,REFMET:HexCer(d42:2)_lp_c,2
+PE(O-36:4)_ln_b,REFMET:PE(O-36:4)_ln_b,2
+CAR(18:1(OH)),REFMET:CAR(18:1(OH)),7
+alpha-Tocopherol,REFMET:alpha-Tocopherol,3
+TG(42:1)_lp_b,REFMET:TG(42:1)_lp_b,2
+TG(46:1)_lp_b,REFMET:TG(46:1)_lp_b,1
+PE(O-18:3/18:1)_ln_f,REFMET:PE(O-18:3/18:1)_ln_f,1
+PC(39:5)_lp_g,REFMET:PC(39:5)_lp_g,2
+NAD+,REFMET:NAD+,1
+PC(O-34:2)_lp_b,REFMET:PC(O-34:2)_lp_b,4
+N-Acetylputrescine,REFMET:N-Acetylputrescine,3
+Sulfatide(d40:1-OH),REFMET:Sulfatide(d40:1-OH),1
+N4-Acetylcytidine,REFMET:N4-Acetylcytidine,4
+LPC(22:4),REFMET:LPC(22:4),3
+TG(18:2_18:2_18:3)_lp_b,REFMET:TG(18:2_18:2_18:3)_lp_b,3
+SM(d34:2),REFMET:SM(d34:2),1
+PS(18:0_22:6)_ln_c,REFMET:PS(18:0_22:6)_ln_c,1
+PC(38:7)_lp_a,REFMET:PC(38:7)_lp_a,1
+TG(18:1_18:1_18:2)_lp_b,REFMET:TG(18:1_18:1_18:2)_lp_b,3
+PI(34:2),REFMET:PI(34:2),2
+5-Hydroxy-tryptophan,REFMET:5-Hydroxy-tryptophan,2
+DG(18:0_22:6_0:0)_lp_f,REFMET:DG(18:0_22:6_0:0)_lp_f,2
+CL(76:12),REFMET:CL(76:12),3
+PC(O-38:6)_lp_b,REFMET:PC(O-38:6)_lp_b,4
+PG(18:1_20:4)_ln_b,REFMET:PG(18:1_20:4)_ln_b,2
+TG(56:6)_lp_c,REFMET:TG(56:6)_lp_c,2
+TG(10:0_16:1_18:1)_lp_b,REFMET:TG(10:0_16:1_18:1)_lp_b,3
+Docosahexaenoic acid,REFMET:Docosahexaenoic acid,1
+TG(51:1)_lp_c,REFMET:TG(51:1)_lp_c,3
+"GTInternalStandard_PC(33:1(d7))>PC(15:0/18:1(9z,d7))_[iSTD]","REFMET:GTInternalStandard_PC(33:1(d7))>PC(15:0/18:1(9z,d7))_[iSTD]",2
+LPC(18:3)_lp_ab,REFMET:LPC(18:3)_lp_ab,1
+Lysine,REFMET:Lysine,3
+PE(O-18:1/22:5)_ln_d,REFMET:PE(O-18:1/22:5)_ln_d,5
+Cer(d40:1)_ln_a,REFMET:Cer(d40:1)_ln_a,2
+DHA,REFMET:DHA,1
+Hydroxytetradecanoic acid,REFMET:Hydroxytetradecanoic acid,1
+TG(48:3)_lp_b,REFMET:TG(48:3)_lp_b,1
+PC(O-36:1)_lp_c,REFMET:PC(O-36:1)_lp_c,1
+Putrescine,REFMET:Putrescine,1
+Cer(d18:1/18:0),REFMET:Cer(d18:1/18:0),1
+SM(d42:3)_ln_a,REFMET:SM(d42:3)_ln_a,2
+Kynurenine,REFMET:Kynurenine,3
+TG(39:1)_lp_b,REFMET:TG(39:1)_lp_b,1
+2-Amino-heptanoic acid,REFMET:2-Amino-heptanoic acid,1
+DG(18:0_18:2)_lp_b,REFMET:DG(18:0_18:2)_lp_b,2
+Cer(d18:1/16:0),REFMET:Cer(d18:1/16:0),1
+Nonadecenoyl-CoA,REFMET:Nonadecenoyl-CoA,3
+PC(40:7)_lp_b,REFMET:PC(40:7)_lp_b,1
+Cortisol,REFMET:Cortisol,2
+PC(38:5)_ln_e,REFMET:PC(38:5)_ln_e,2
+TG(60:4)_lp_a,REFMET:TG(60:4)_lp_a,2
+TG(47:3)_lp_b,REFMET:TG(47:3)_lp_b,3
+PS(O-42:7)>PS(O-20:3/22:4)_ln_a,REFMET:PS(O-42:7)>PS(O-20:3/22:4)_ln_a,1
+LPC(P-16:0)/LPC(O-16:1),REFMET:LPC(P-16:0)/LPC(O-16:1),3
+Cer(d41:2)_ln_b,REFMET:Cer(d41:2)_ln_b,1
+DG(36:3),REFMET:DG(36:3),2
+DG(18:0_22:4)_lp_c,REFMET:DG(18:0_22:4)_lp_c,2
+CAR(13:1),REFMET:CAR(13:1),1
+PE(18:0_22:4)_ln_d,REFMET:PE(18:0_22:4)_ln_d,2
+Cer(d18:1/25:0)_lp_ab,REFMET:Cer(d18:1/25:0)_lp_ab,1
+PE(40:5)_lp_e,REFMET:PE(40:5)_lp_e,1
+SM(d42:2),REFMET:SM(d42:2),3
+CAR(16:3),REFMET:CAR(16:3),3
+PG(18:2_20:4)_ln_a,REFMET:PG(18:2_20:4)_ln_a,2
+PE(O-38:5)_ln_c,REFMET:PE(O-38:5)_ln_c,1
+LPC(20:3)_rp_b,REFMET:LPC(20:3)_rp_b,2
+Phosphocreatine,REFMET:Phosphocreatine,2
+TG(58:6)_lp_d,REFMET:TG(58:6)_lp_d,1
+PC(O-18:2/20:4)_ln_b,REFMET:PC(O-18:2/20:4)_ln_b,1
+PC(O-40:6)_lp_a,REFMET:PC(O-40:6)_lp_a,2
+PC(O-34:0),REFMET:PC(O-34:0),4
+Eicosapentenoyl-CoA,REFMET:Eicosapentenoyl-CoA,1
+Argininosuccinic acid,REFMET:Argininosuccinic acid,1
+PI(18:0_22:6)_lp_b,REFMET:PI(18:0_22:6)_lp_b,1
+Cholesterol,REFMET:Cholesterol,4
+PC(40:0),REFMET:PC(40:0),1
+TG(56:4)_lp_e,REFMET:TG(56:4)_lp_e,1
+Methylguanidine,REFMET:Methylguanidine,1
+TG(5:0_18:1_18:2),REFMET:TG(5:0_18:1_18:2),1
+LPC(P-18:0)/LPC(O-18:1)_hp_a,REFMET:LPC(P-18:0)/LPC(O-18:1)_hp_a,1
+Heptadecenoyl-CoA,REFMET:Heptadecenoyl-CoA,1
+Erythrose 4-phosphate,REFMET:Erythrose 4-phosphate,2
+Serotonin,REFMET:Serotonin,1
+Coenzyme Q9,REFMET:Coenzyme Q9,3
+CAR(2:0),REFMET:CAR(2:0),7
+HexCer(d18:1/25:1-OH),REFMET:HexCer(d18:1/25:1-OH),1
+PC(18:0_22:5)_ln_c,REFMET:PC(18:0_22:5)_ln_c,4
+PC(O-36:2)_lp_a,REFMET:PC(O-36:2)_lp_a,3
+PE(O-18:1/22:5)_lp_e,REFMET:PE(O-18:1/22:5)_lp_e,1
+Choline phosphate,REFMET:Choline phosphate,3
+PC(14:0_18:2)_ln_a,REFMET:PC(14:0_18:2)_ln_a,1
+Tetradecadienoyl-CoA,REFMET:Tetradecadienoyl-CoA,1
+Cadaverine,REFMET:Cadaverine,3
+Cer(d40:2)_ln_b,REFMET:Cer(d40:2)_ln_b,1
+PA(34:1)_lp_b,REFMET:PA(34:1)_lp_b,1
+TG(48:3)_lp_a,REFMET:TG(48:3)_lp_a,1
+Methylimidazoleacetic acid,REFMET:Methylimidazoleacetic acid,2
+Dimethylarginine,REFMET:Dimethylarginine,1
+LPE(18:0)_ln_ab,REFMET:LPE(18:0)_ln_ab,1
+TG(40:0)_lp_b,REFMET:TG(40:0)_lp_b,1
+SM(d40:1)_lp_a,REFMET:SM(d40:1)_lp_a,2
+N-Acetylaspartic acid,REFMET:N-Acetylaspartic acid,1
+PC(O-40:4)_lp_a,REFMET:PC(O-40:4)_lp_a,2
+Hydroxyproline,REFMET:Hydroxyproline,1
+PE(38:6)_lp_b,REFMET:PE(38:6)_lp_b,1
+LPE(O-15:0),REFMET:LPE(O-15:0),1
+PC(33:3)_lp_b,REFMET:PC(33:3)_lp_b,1
+"GTInternalStandard_PE(33:1(d7))>PE(15:0/18:1(9z,d7))_[iSTD]","REFMET:GTInternalStandard_PE(33:1(d7))>PE(15:0/18:1(9z,d7))_[iSTD]",2
+"GTInternalStandard_PS(33:1(d7))>PS(15:0/18:1(9z,d7))_[iSTD]","REFMET:GTInternalStandard_PS(33:1(d7))>PS(15:0/18:1(9z,d7))_[iSTD]",1
+Ureidopropionic acid,REFMET:Ureidopropionic acid,1
+PS(36:2)_lp_d,REFMET:PS(36:2)_lp_d,1
+3-Dehydroxycarnitine,REFMET:3-Dehydroxycarnitine,1
+TG(18:2_18:3_20:5),REFMET:TG(18:2_18:3_20:5),1
+PE(P-40:6)/PE(O-40:7),REFMET:PE(P-40:6)/PE(O-40:7),2
+PI(18:0_22:4),REFMET:PI(18:0_22:4),1
+DG(32:0),REFMET:DG(32:0),1
+HexCer(d18:1/22:0-OH)_lp_b,REFMET:HexCer(d18:1/22:0-OH)_lp_b,1
+PG(18:1_22:6)_ln_a,REFMET:PG(18:1_22:6)_ln_a,1
+Phosphoenolpyruvic acid,REFMET:Phosphoenolpyruvic acid,1
+CAR(14:1(OH)),REFMET:CAR(14:1(OH)),1
+TG(10:0_10:0_16:0)_lp_b,REFMET:TG(10:0_10:0_16:0)_lp_b,1
+DG(18:0_22:4_0:0)_lp_b,REFMET:DG(18:0_22:4_0:0)_lp_b,1
+TG(57:3)_lp_a,REFMET:TG(57:3)_lp_a,1
+PE(18:1_20:4)_lp_h,REFMET:PE(18:1_20:4)_lp_h,1
+SM(d42:2)_ln_ab,REFMET:SM(d42:2)_ln_ab,1
