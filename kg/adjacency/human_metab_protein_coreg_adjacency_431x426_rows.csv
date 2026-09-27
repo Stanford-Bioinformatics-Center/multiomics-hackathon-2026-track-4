@@ -1,0 +1,432 @@
+row,metabolite_id,n_proteins
+PC 32:0,REFMET:PC 32:0,4
+N-Acetylleucine,REFMET:N-Acetylleucine,6
+CTP,REFMET:CTP,10
+CAR 16:1,REFMET:CAR 16:1,9
+sn-Glycero-3-phosphate,REFMET:sn-Glycero-3-phosphate,10
+Xanthosine,REFMET:Xanthosine,11
+Pyroglutamic acid,REFMET:Pyroglutamic acid,10
+PC O-32:0,REFMET:PC O-32:0,6
+Glyceraldehyde 3-phosphate,REFMET:Glyceraldehyde 3-phosphate,11
+PE P-34:0 or PE O-34:1,REFMET:PE P-34:0 or PE O-34:1,10
+Lactic acid,REFMET:Lactic acid,7
+Cer 18:1;O2/23:0,REFMET:Cer 18:1;O2/23:0,4
+PGE2 ethanolamide,REFMET:PGE2 ethanolamide,10
+SM 18:1;O2/18:0,REFMET:SM 18:1;O2/18:0,9
+LPE 22:6,REFMET:LPE 22:6,9
+Malic acid,REFMET:Malic acid,15
+Cer 18:1;O2/14:0,REFMET:Cer 18:1;O2/14:0,10
+PC P-38:6 or PC O-38:7,REFMET:PC P-38:6 or PC O-38:7,10
+PE P-40:6 or PE O-40:7,REFMET:PE P-40:6 or PE O-40:7,10
+Targinine,REFMET:Targinine,10
+PE P-34:2 or PE O-34:3,REFMET:PE P-34:2 or PE O-34:3,10
+Cer 18:1;O2/16:1,REFMET:Cer 18:1;O2/16:1,8
+Cortisol,REFMET:Cortisol,12
+Hypoxanthine,REFMET:Hypoxanthine,10
+SM 18:1;O2/14:0,REFMET:SM 18:1;O2/14:0,11
+Oleoyl-EA,REFMET:Oleoyl-EA,13
+LPC 18:1,REFMET:LPC 18:1,10
+PC 35:2,REFMET:PC 35:2,7
+Kynurenine,REFMET:Kynurenine,10
+Homoarginine,REFMET:Homoarginine,13
+Ectoine,REFMET:Ectoine,5
+PC O-37:4,REFMET:PC O-37:4,10
+LPC P-18:0 or LPC O-18:1,REFMET:LPC P-18:0 or LPC O-18:1,10
+Pipecolic acid,REFMET:Pipecolic acid,10
+LPC O-16:0,REFMET:LPC O-16:0,10
+LPE P-18:0 or LPE O-18:1,REFMET:LPE P-18:0 or LPE O-18:1,6
+LPC O-18:0,REFMET:LPC O-18:0,10
+PC P-34:0 or PC O-34:1,REFMET:PC P-34:0 or PC O-34:1,10
+PC P-38:4 or PC O-38:5,REFMET:PC P-38:4 or PC O-38:5,2
+PE P-35:2 or PE O-35:3,REFMET:PE P-35:2 or PE O-35:3,11
+PC P-32:0 or PC O-32:1,REFMET:PC P-32:0 or PC O-32:1,7
+LPC P-16:0 or LPC O-16:1,REFMET:LPC P-16:0 or LPC O-16:1,10
+PE P-36:4 or PE O-36:5,REFMET:PE P-36:4 or PE O-36:5,10
+DG 34:1,REFMET:DG 34:1,15
+Dehydroepiandrosterone sulfate,REFMET:Dehydroepiandrosterone sulfate,11
+Hydroxyphenyllactic acid,REFMET:Hydroxyphenyllactic acid,10
+Linoleic acid,REFMET:Linoleic acid,10
+Glutamic acid,REFMET:Glutamic acid,11
+Leucine,REFMET:Leucine,10
+TG 46:2,REFMET:TG 46:2,7
+Ornithine,REFMET:Ornithine,15
+PC 33:0,REFMET:PC 33:0,10
+Phenylacetic acid,REFMET:Phenylacetic acid,9
+Sebacic acid,REFMET:Sebacic acid,7
+CAR 17:0,REFMET:CAR 17:0,3
+CAR 5:0;OH,REFMET:CAR 5:0;OH,9
+Tauroursodeoxycholic acid,REFMET:Tauroursodeoxycholic acid,3
+DG 38:4,REFMET:DG 38:4,10
+PC P-30:0 or PC O-30:1,REFMET:PC P-30:0 or PC O-30:1,8
+Biliverdin,REFMET:Biliverdin,11
+cis-Aconitic acid,REFMET:cis-Aconitic acid,11
+GDP-mannose,REFMET:GDP-mannose,8
+Uric acid,REFMET:Uric acid,10
+PC P-32:1 or PC O-32:2,REFMET:PC P-32:1 or PC O-32:2,15
+Deoxyuridine,REFMET:Deoxyuridine,14
+Leu-Pro,REFMET:Leu-Pro,10
+Docosapentaenoic acid,REFMET:Docosapentaenoic acid,10
+CAR 14:1;OH,REFMET:CAR 14:1;OH,6
+PE P-38:5 or PE O-38:6,REFMET:PE P-38:5 or PE O-38:6,10
+1-Methylhistamine,REFMET:1-Methylhistamine,10
+"NA-Gly 18:2(9Z,12Z)","REFMET:NA-Gly 18:2(9Z,12Z)",9
+PC P-34:3 or PC O-34:4,REFMET:PC P-34:3 or PC O-34:4,8
+PC P-34:1 or PC O-34:2,REFMET:PC P-34:1 or PC O-34:2,10
+N(6)-Methyllysine,REFMET:N(6)-Methyllysine,10
+13-HODE,REFMET:13-HODE,8
+Citric acid/Isocitric acid,REFMET:Citric acid/Isocitric acid,11
+CAR 5:1,REFMET:CAR 5:1,20
+Cer 18:1;O2/20:1,REFMET:Cer 18:1;O2/20:1,10
+Creatinine,REFMET:Creatinine,11
+PE 38:4,REFMET:PE 38:4,10
+Capric acid,REFMET:Capric acid,10
+LPE 18:2,REFMET:LPE 18:2,10
+PC 35:3,REFMET:PC 35:3,10
+N-Acetylputrescine,REFMET:N-Acetylputrescine,11
+PC 31:0,REFMET:PC 31:0,7
+4-Acetamidobutanoic acid,REFMET:4-Acetamidobutanoic acid,10
+PC P-36:3 or PC O-36:4,REFMET:PC P-36:3 or PC O-36:4,16
+PC O-36:5,REFMET:PC O-36:5,4
+N4-Acetylcytidine,REFMET:N4-Acetylcytidine,9
+SM 18:1;O2/17:1,REFMET:SM 18:1;O2/17:1,11
+LPC 20:4,REFMET:LPC 20:4,7
+Hydroxytetradecanoic acid,REFMET:Hydroxytetradecanoic acid,8
+SM 18:1;O2/18:1,REFMET:SM 18:1;O2/18:1,6
+CAR DC3:0;2Me,REFMET:CAR DC3:0;2Me,13
+EDTA,REFMET:EDTA,13
+Xanthine,REFMET:Xanthine,11
+Aspartic acid,REFMET:Aspartic acid,10
+PC P-38:5 or PC O-38:6,REFMET:PC P-38:5 or PC O-38:6,6
+Docosatrienoic acid,REFMET:Docosatrienoic acid,6
+DMGV,REFMET:DMGV,10
+Nonadecenoic acid,REFMET:Nonadecenoic acid,6
+Trigonelline,REFMET:Trigonelline,13
+PC P-36:5 or PC O-36:6,REFMET:PC P-36:5 or PC O-36:6,10
+Pyridoxamine,REFMET:Pyridoxamine,4
+O-Ethylhomoserine,REFMET:O-Ethylhomoserine,10
+3-Hydroxybenzoic acid,REFMET:3-Hydroxybenzoic acid,10
+PE P-38:6 or PE O-38:7,REFMET:PE P-38:6 or PE O-38:7,10
+LPE 22:5,REFMET:LPE 22:5,7
+Threonine,REFMET:Threonine,5
+DG 18:2_18:2,REFMET:DG 18:2_18:2,10
+Glycoursodeoxycholic acid,REFMET:Glycoursodeoxycholic acid,4
+TG 44:1,REFMET:TG 44:1,9
+Cytidine,REFMET:Cytidine,10
+Phenyllactic acid,REFMET:Phenyllactic acid,12
+PE 32:1,REFMET:PE 32:1,9
+2-Piperidinone,REFMET:2-Piperidinone,10
+Succinic acid,REFMET:Succinic acid,16
+Dimethylarginine,REFMET:Dimethylarginine,20
+PE O-36:4,REFMET:PE O-36:4,5
+Hydroxyhexadecanoic acid,REFMET:Hydroxyhexadecanoic acid,7
+Maleic acid,REFMET:Maleic acid,11
+PC 30:1,REFMET:PC 30:1,4
+Ketoleucine,REFMET:Ketoleucine,10
+Eicosapentaenoic acid,REFMET:Eicosapentaenoic acid,10
+SM 18:1;O2/23:2,REFMET:SM 18:1;O2/23:2,9
+Adipic acid,REFMET:Adipic acid,10
+SM 18:1;O2/22:0,REFMET:SM 18:1;O2/22:0,10
+Octadecatetraenoic acid,REFMET:Octadecatetraenoic acid,10
+UDP-glucose,REFMET:UDP-glucose,3
+LPE 16:1,REFMET:LPE 16:1,1
+gamma-Aminobutyric acid,REFMET:gamma-Aminobutyric acid,11
+3-O-Methyl-DOPA,REFMET:3-O-Methyl-DOPA,10
+2-Aminocaprylic acid,REFMET:2-Aminocaprylic acid,7
+PC P-35:2 or PC O-35:3,REFMET:PC P-35:2 or PC O-35:3,9
+Ureidopropionic acid,REFMET:Ureidopropionic acid,11
+SM 18:1;O2/17:0,REFMET:SM 18:1;O2/17:0,7
+Glycochenodeoxycholic acid,REFMET:Glycochenodeoxycholic acid,4
+Phosphoethanolamine,REFMET:Phosphoethanolamine,12
+Hexose,REFMET:Hexose,8
+CAR DC5:0,REFMET:CAR DC5:0,10
+CAR 12:0;OH,REFMET:CAR 12:0;OH,4
+PC 32:3,REFMET:PC 32:3,3
+UMP,REFMET:UMP,6
+SM 18:1;O2/21:0,REFMET:SM 18:1;O2/21:0,10
+Glycine,REFMET:Glycine,6
+PC P-36:4 or PC O-36:5,REFMET:PC P-36:4 or PC O-36:5,7
+N-Acetylisoputreanine,REFMET:N-Acetylisoputreanine,7
+Lysine,REFMET:Lysine,12
+Inosine,REFMET:Inosine,10
+CAR 18:3,REFMET:CAR 18:3,10
+Octadecatrienoic acid,REFMET:Octadecatrienoic acid,6
+Cer 18:1;O2/20:0,REFMET:Cer 18:1;O2/20:0,10
+SM 18:1;O2/19:1,REFMET:SM 18:1;O2/19:1,11
+Leucine/Isoleucine,REFMET:Leucine/Isoleucine,2
+PE P-36:2 or PE O-36:3,REFMET:PE P-36:2 or PE O-36:3,10
+1-Methylguanosine,REFMET:1-Methylguanosine,7
+"(E,E)-Trichostachine","REFMET:(E,E)-Trichostachine",8
+LPC 18:2,REFMET:LPC 18:2,10
+PS P-36:1 or PS O-36:2,REFMET:PS P-36:1 or PS O-36:2,2
+Indole-4-carboxaldehyde,REFMET:Indole-4-carboxaldehyde,11
+Cer 18:1;O2/22:1,REFMET:Cer 18:1;O2/22:1,8
+PC 34:4,REFMET:PC 34:4,2
+3-Methyl-2-oxovaleric acid,REFMET:3-Methyl-2-oxovaleric acid,11
+Eicosenoic acid,REFMET:Eicosenoic acid,9
+5alpha-Androstane-3alpha-ol-17-one sulfate,REFMET:5alpha-Androstane-3alpha-ol-17-one sulfate,7
+CAR 16:0,REFMET:CAR 16:0,2
+MG 18:1,REFMET:MG 18:1,11
+PC 34:3,REFMET:PC 34:3,10
+Cer 18:1;O2/4:0,REFMET:Cer 18:1;O2/4:0,7
+Pentadecylic acid,REFMET:Pentadecylic acid,10
+PC 32:1,REFMET:PC 32:1,8
+N-Acetylarginine,REFMET:N-Acetylarginine,5
+SM 18:1;O2/14:1,REFMET:SM 18:1;O2/14:1,9
+Taurine,REFMET:Taurine,10
+FAD,REFMET:FAD,9
+PE 36:3,REFMET:PE 36:3,9
+2-Oxoglutaric acid,REFMET:2-Oxoglutaric acid,11
+Aminobutyric acid,REFMET:Aminobutyric acid,11
+4-Aminohippuric acid,REFMET:4-Aminohippuric acid,15
+FA 26:5;O2,REFMET:FA 26:5;O2,10
+N-Acetylglucosamine 1-phosphate,REFMET:N-Acetylglucosamine 1-phosphate,10
+Sedoheptulose 7-phosphate,REFMET:Sedoheptulose 7-phosphate,10
+Leu-Ile,REFMET:Leu-Ile,9
+SM 18:1;O2/16:0,REFMET:SM 18:1;O2/16:0,6
+PE 32:0,REFMET:PE 32:0,6
+CAR 20:3,REFMET:CAR 20:3,2
+Histamine,REFMET:Histamine,4
+PC O-35:1,REFMET:PC O-35:1,2
+Histidine,REFMET:Histidine,10
+Oxidized glutathione,REFMET:Oxidized glutathione,9
+PC 32:2,REFMET:PC 32:2,4
+GDP,REFMET:GDP,7
+CAR 18:1;OH,REFMET:CAR 18:1;OH,4
+DG 18:1_22:6,REFMET:DG 18:1_22:6,10
+Tryptophan,REFMET:Tryptophan,9
+PE 36:1,REFMET:PE 36:1,9
+2-Hydroxy-3-methylbutyric acid,REFMET:2-Hydroxy-3-methylbutyric acid,3
+Aminoadipic acid,REFMET:Aminoadipic acid,11
+Isocitric acid,REFMET:Isocitric acid,10
+N-Acetylglutamic acid,REFMET:N-Acetylglutamic acid,9
+SM 18:1;O2/15:0,REFMET:SM 18:1;O2/15:0,11
+Behenic acid,REFMET:Behenic acid,13
+CAR 6:0;OH,REFMET:CAR 6:0;OH,6
+SM 18:1;O2/22:3,REFMET:SM 18:1;O2/22:3,5
+Lauric acid,REFMET:Lauric acid,3
+"N2,N2-Dimethylguanosine","REFMET:N2,N2-Dimethylguanosine",7
+CAR 20:1,REFMET:CAR 20:1,3
+DG 18:0_18:1,REFMET:DG 18:0_18:1,6
+alpha-Tocoquinone,REFMET:alpha-Tocoquinone,2
+S-Methylcysteine S-oxide,REFMET:S-Methylcysteine S-oxide,4
+PE O-16:1/22:4,REFMET:PE O-16:1/22:4,7
+Putrescine,REFMET:Putrescine,20
+CAR 4:0;3Me,REFMET:CAR 4:0;3Me,4
+Cortisone,REFMET:Cortisone,10
+PE P-38:4 or PE O-38:5,REFMET:PE P-38:4 or PE O-38:5,4
+Isoleucine,REFMET:Isoleucine,10
+Piperine,REFMET:Piperine,9
+Valine,REFMET:Valine,2
+sn-Glycero-3-phosphocholine,REFMET:sn-Glycero-3-phosphocholine,10
+Cer 18:1;O2/23:1,REFMET:Cer 18:1;O2/23:1,6
+CAR 12:3,REFMET:CAR 12:3,10
+Serine,REFMET:Serine,20
+Creatine,REFMET:Creatine,12
+CAR 11:1,REFMET:CAR 11:1,14
+LPE 20:3,REFMET:LPE 20:3,8
+Deoxycholic acid,REFMET:Deoxycholic acid,10
+CAR DC6:0,REFMET:CAR DC6:0,6
+PC 18:1_18:2,REFMET:PC 18:1_18:2,8
+Symmetric dimethylarginine,REFMET:Symmetric dimethylarginine,15
+Asparagine,REFMET:Asparagine,9
+1-Methyladenosine,REFMET:1-Methyladenosine,11
+3-Methylhistidine,REFMET:3-Methylhistidine,7
+N-Acetylmethionine,REFMET:N-Acetylmethionine,2
+LPE 18:0,REFMET:LPE 18:0,2
+Glucose,REFMET:Glucose,10
+2-Aminobutyric acid,REFMET:2-Aminobutyric acid,4
+Cystine,REFMET:Cystine,10
+1-Methyl nicotinamide,REFMET:1-Methyl nicotinamide,6
+Pyruvic acid,REFMET:Pyruvic acid,4
+Choline phosphate,REFMET:Choline phosphate,3
+CMP,REFMET:CMP,4
+Methionine,REFMET:Methionine,5
+NADP,REFMET:NADP,8
+PC 36:4,REFMET:PC 36:4,1
+1-DeoxyCer 18:0;O/24:1,REFMET:1-DeoxyCer 18:0;O/24:1,4
+PC 18:1/18:1,REFMET:PC 18:1/18:1,8
+N-Methyl-proline,REFMET:N-Methyl-proline,10
+Oxaloacetic acid,REFMET:Oxaloacetic acid,4
+LPC 14:0,REFMET:LPC 14:0,10
+Cer 18:1;O2/24:0,REFMET:Cer 18:1;O2/24:0,5
+CAR 18:1,REFMET:CAR 18:1,1
+CAR 14:2,REFMET:CAR 14:2,2
+Pro-Phe,REFMET:Pro-Phe,6
+Glutaric acid,REFMET:Glutaric acid,3
+Palmitoyl-EA,REFMET:Palmitoyl-EA,5
+PC 36:5,REFMET:PC 36:5,4
+Cer 18:1;O2/24:2,REFMET:Cer 18:1;O2/24:2,9
+DG 36:3,REFMET:DG 36:3,3
+Acisoga,REFMET:Acisoga,6
+DG 18:1_18:2,REFMET:DG 18:1_18:2,4
+N-Acetyl-D-tryptophan,REFMET:N-Acetyl-D-tryptophan,10
+Acetyl-CoA,REFMET:Acetyl-CoA,10
+PC 33:2,REFMET:PC 33:2,15
+Palmitoleic acid,REFMET:Palmitoleic acid,4
+Ile-Ile,REFMET:Ile-Ile,10
+3-Dehydroxycarnitine,REFMET:3-Dehydroxycarnitine,5
+CAR 18:0,REFMET:CAR 18:0,1
+Hypotaurine,REFMET:Hypotaurine,4
+Dimethylglycine,REFMET:Dimethylglycine,15
+Tricosylic acid,REFMET:Tricosylic acid,5
+Urocanic acid,REFMET:Urocanic acid,11
+Allantoin,REFMET:Allantoin,1
+N6-Acetyllysine,REFMET:N6-Acetyllysine,8
+Citric acid,REFMET:Citric acid,7
+CAR 14:0;OH,REFMET:CAR 14:0;OH,1
+PE 36:4,REFMET:PE 36:4,6
+PC 28:0,REFMET:PC 28:0,5
+Pantothenic acid,REFMET:Pantothenic acid,11
+LPE 18:1,REFMET:LPE 18:1,8
+CAR 14:1,REFMET:CAR 14:1,3
+TG 58:1,REFMET:TG 58:1,7
+LPC 16:0,REFMET:LPC 16:0,10
+Cer 18:1;O2/24:1,REFMET:Cer 18:1;O2/24:1,6
+Cer 18:1;O2/18:0,REFMET:Cer 18:1;O2/18:0,5
+Indolelactic acid,REFMET:Indolelactic acid,6
+Glutamine,REFMET:Glutamine,18
+SM 18:1;O2/16:1,REFMET:SM 18:1;O2/16:1,3
+SM 18:1;O2/22:2,REFMET:SM 18:1;O2/22:2,3
+N-Acetylaspartic acid,REFMET:N-Acetylaspartic acid,3
+Citramalic acid,REFMET:Citramalic acid,5
+Fumaric acid,REFMET:Fumaric acid,10
+Rosmarinic acid,REFMET:Rosmarinic acid,9
+N-Acetylornithine,REFMET:N-Acetylornithine,3
+Sphinganine,REFMET:Sphinganine,7
+PC O-30:0,REFMET:PC O-30:0,1
+TG 18:1/18:1/18:1,REFMET:TG 18:1/18:1/18:1,2
+Tauromuricholic acid,REFMET:Tauromuricholic acid,1
+Phosphocreatine,REFMET:Phosphocreatine,5
+CAR 2:0,REFMET:CAR 2:0,9
+PS P-36:2 or PS O-36:3,REFMET:PS P-36:2 or PS O-36:3,3
+4-Pyridoxic acid,REFMET:4-Pyridoxic acid,10
+Aspirin,REFMET:Aspirin,2
+Betaine,REFMET:Betaine,6
+PC 30:0,REFMET:PC 30:0,5
+"5,6-Dihydrouridine","REFMET:5,6-Dihydrouridine",3
+PC P-34:2 or PC O-34:3,REFMET:PC P-34:2 or PC O-34:3,12
+Methionine sulfoxide,REFMET:Methionine sulfoxide,4
+Cer 18:1;O2/16:0,REFMET:Cer 18:1;O2/16:0,20
+PC P-36:2 or PC O-36:3,REFMET:PC P-36:2 or PC O-36:3,8
+Taurocholic acid,REFMET:Taurocholic acid,3
+PC P-35:1 or PC O-35:2,REFMET:PC P-35:1 or PC O-35:2,9
+11-Deoxycortisol,REFMET:11-Deoxycortisol,3
+Cer 18:1;O2/25:0,REFMET:Cer 18:1;O2/25:0,2
+PE 34:2,REFMET:PE 34:2,2
+SM 30:1;O2,REFMET:SM 30:1;O2,3
+CAR 13:1,REFMET:CAR 13:1,2
+Hydroxyproline,REFMET:Hydroxyproline,5
+LPC 18:0,REFMET:LPC 18:0,3
+CAR 14:0,REFMET:CAR 14:0,2
+Aminoisobutyric acid,REFMET:Aminoisobutyric acid,5
+"N(6),N(6)-Dimethyl-lysine","REFMET:N(6),N(6)-Dimethyl-lysine",2
+UDP-galactose,REFMET:UDP-galactose,8
+DG 38:5,REFMET:DG 38:5,5
+Ethanolamine,REFMET:Ethanolamine,11
+Glycerol,REFMET:Glycerol,1
+2-Hydroxyglutaric acid,REFMET:2-Hydroxyglutaric acid,2
+LPC 17:0,REFMET:LPC 17:0,5
+Hydroxycaprylic acid,REFMET:Hydroxycaprylic acid,7
+Pregnenolone sulfate,REFMET:Pregnenolone sulfate,4
+PC 33:1,REFMET:PC 33:1,9
+SM 33:2;O2,REFMET:SM 33:2;O2,7
+Lignoceric acid,REFMET:Lignoceric acid,6
+Glycodeoxycholic acid,REFMET:Glycodeoxycholic acid,5
+N-Acetylalanine,REFMET:N-Acetylalanine,3
+Cer 18:1;O2/22:0,REFMET:Cer 18:1;O2/22:0,4
+Heptadecanedioic acid,REFMET:Heptadecanedioic acid,2
+Pseudouridine,REFMET:Pseudouridine,5
+CAR 4:0;OH,REFMET:CAR 4:0;OH,4
+Cytosine,REFMET:Cytosine,3
+AICAR,REFMET:AICAR,10
+Citrulline,REFMET:Citrulline,5
+Spermidine,REFMET:Spermidine,5
+PC 30:2,REFMET:PC 30:2,2
+Pterin,REFMET:Pterin,2
+N1-Acetylspermidine,REFMET:N1-Acetylspermidine,3
+SM 44:4;O2,REFMET:SM 44:4;O2,3
+CAR 5:0,REFMET:CAR 5:0,4
+SM 18:1;O2/19:0,REFMET:SM 18:1;O2/19:0,3
+CAR 18:0;OH,REFMET:CAR 18:0;OH,4
+Niacinamide,REFMET:Niacinamide,3
+Spermine,REFMET:Spermine,4
+Hydroxylauric acid,REFMET:Hydroxylauric acid,2
+Hydroxycapric acid,REFMET:Hydroxycapric acid,2
+Phosphoserine,REFMET:Phosphoserine,10
+CAR 9:0,REFMET:CAR 9:0,2
+LPC 22:6,REFMET:LPC 22:6,4
+Muricholic acid,REFMET:Muricholic acid,2
+SM 18:1;O2/22:1,REFMET:SM 18:1;O2/22:1,3
+dUMP,REFMET:dUMP,6
+Alanine,REFMET:Alanine,6
+Phe-Phe,REFMET:Phe-Phe,8
+Eicosatrienoic acid,REFMET:Eicosatrienoic acid,2
+CAR 16:2,REFMET:CAR 16:2,2
+SM 18:1;O2/18:3,REFMET:SM 18:1;O2/18:3,1
+PC 40:1,REFMET:PC 40:1,2
+CAR 16:3,REFMET:CAR 16:3,3
+PC 18:1_20:4,REFMET:PC 18:1_20:4,1
+UDP-N-acetylglucosamine,REFMET:UDP-N-acetylglucosamine,1
+Proline,REFMET:Proline,2
+PC 36:3,REFMET:PC 36:3,4
+Docosatetraenoic acid,REFMET:Docosatetraenoic acid,1
+CAR 12:1,REFMET:CAR 12:1,1
+ATP,REFMET:ATP,4
+Guanidoacetic acid,REFMET:Guanidoacetic acid,5
+SM 43:3;O2,REFMET:SM 43:3;O2,2
+PE O-37:2,REFMET:PE O-37:2,1
+Phenylalanine,REFMET:Phenylalanine,3
+CAR 3:0,REFMET:CAR 3:0,3
+Glu-Lys,REFMET:Glu-Lys,2
+PE O-17:1/20:4,REFMET:PE O-17:1/20:4,2
+Eicosatetraenoic acid,REFMET:Eicosatetraenoic acid,1
+CAR 12:0,REFMET:CAR 12:0,2
+Tetradecadienoic acid,REFMET:Tetradecadienoic acid,1
+Lys-Gly,REFMET:Lys-Gly,1
+TG 58:2,REFMET:TG 58:2,3
+CAR 18:2,REFMET:CAR 18:2,2
+GlcCer 18:1;O2/18:0,REFMET:GlcCer 18:1;O2/18:0,1
+Carnitine,REFMET:Carnitine,3
+NA-Gly 14:0,REFMET:NA-Gly 14:0,2
+PE 36:2,REFMET:PE 36:2,2
+SM 18:1;O2/21:2,REFMET:SM 18:1;O2/21:2,3
+CAR 8:0,REFMET:CAR 8:0,6
+PC O-42:2,REFMET:PC O-42:2,4
+Cer 18:1;O2/18:1,REFMET:Cer 18:1;O2/18:1,3
+2-Hydroxybutyric acid,REFMET:2-Hydroxybutyric acid,1
+PC 34:2,REFMET:PC 34:2,2
+Ribothymidine,REFMET:Ribothymidine,1
+ST 27:2;O3,REFMET:ST 27:2;O3,3
+CAR 12:2,REFMET:CAR 12:2,1
+FA 24:1;O2,REFMET:FA 24:1;O2,3
+CAR 13:0,REFMET:CAR 13:0,1
+SM 18:1;O2/20:0,REFMET:SM 18:1;O2/20:0,5
+Hexadecenoic acid,REFMET:Hexadecenoic acid,1
+SM 18:1;O2/20:1,REFMET:SM 18:1;O2/20:1,1
+Tyrosine,REFMET:Tyrosine,1
+CAR 6:0,REFMET:CAR 6:0,1
+PC O-40:5,REFMET:PC O-40:5,1
+DG 18:1_20:4,REFMET:DG 18:1_20:4,3
+Eicosadienoic acid,REFMET:Eicosadienoic acid,1
+3-Hydroxybutyric acid,REFMET:3-Hydroxybutyric acid,1
+GlcCer 18:2;O2/22:0,REFMET:GlcCer 18:2;O2/22:0,1
+N-Acetylhistidine,REFMET:N-Acetylhistidine,2
+DHA,REFMET:DHA,2
+Alloisoleucine,REFMET:Alloisoleucine,2
+CAR 11:0,REFMET:CAR 11:0,2
+CAR 4:0,REFMET:CAR 4:0,1
+DG 36:4,REFMET:DG 36:4,2
+FA 15:4;O,REFMET:FA 15:4;O,1
+CAR 10:0,REFMET:CAR 10:0,1
+PC O-35:2,REFMET:PC O-35:2,1
+PC O-36:2,REFMET:PC O-36:2,2
+FA 14:3;O,REFMET:FA 14:3;O,1
+Hex2Cer 18:1;O2/24:0,REFMET:Hex2Cer 18:1;O2/24:0,1
+PC 42:6,REFMET:PC 42:6,1
+CAR 20:0,REFMET:CAR 20:0,2
+DG 18:2_20:2,REFMET:DG 18:2_20:2,1
+1-Methyluric acid,REFMET:1-Methyluric acid,1
+TG 56:2,REFMET:TG 56:2,1
+CAR 10:1,REFMET:CAR 10:1,1
+FA 19:3;O2,REFMET:FA 19:3;O2,1
+CAR 7:0,REFMET:CAR 7:0,1

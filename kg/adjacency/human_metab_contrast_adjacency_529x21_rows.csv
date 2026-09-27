@@ -1,0 +1,530 @@
+row,metabolite_id,refmet_name,platform,shared_with_other_species,n_cells,best_adj_p
+Xanthosine,REFMET:Xanthosine,Xanthosine,metab-u-hilicpos,True,9,7.19440586278845e-99
+Hypoxanthine,REFMET:Hypoxanthine,Hypoxanthine,meta-reg,True,8,2.79819943163598e-86
+Malic acid,REFMET:Malic acid,Malic acid,meta-reg,True,6,2.22641269496977e-69
+Lactic acid,REFMET:Lactic acid,Lactic acid,meta-reg,True,7,2.82991388714601e-64
+Succinic acid,REFMET:Succinic acid,Succinic acid,metab-t-tca,True,6,3.34216892380076e-60
+Xanthine,REFMET:Xanthine,Xanthine,metab-u-hilicpos,True,7,1.60328012603023e-59
+Alanine,REFMET:Alanine,Alanine,meta-reg,True,6,5.50040819885371e-58
+Inosine,REFMET:Inosine,Inosine,meta-reg,True,6,3.2430297901669106e-52
+Pantothenic acid,REFMET:Pantothenic acid,Pantothenic acid,meta-reg,True,7,3.85392357492251e-46
+Pyruvic acid,REFMET:Pyruvic acid,Pyruvic acid,metab-u-ionpneg,True,6,2.2863178122944498e-42
+1-Methylguanine,REFMET:1-Methylguanine,1-Methylguanine,metab-u-hilicpos,True,2,4.56245445045416e-41
+DMGV,REFMET:DMGV,DMGV,metab-u-hilicpos,True,9,4.35605853019804e-38
+Uric acid,REFMET:Uric acid,Uric acid,meta-reg,True,4,6.7395693638981205e-37
+CAR 3:0,REFMET:CAR 3:0,CAR 3:0,metab-u-hilicpos,True,8,2.03959201133464e-36
+CAR 4:0,REFMET:CAR 4:0,CAR 4:0,metab-u-hilicpos,True,8,4.54002682272791e-30
+Glycerol,REFMET:Glycerol,Glycerol,metab-t-conv,True,5,2.50837280238606e-26
+CAR 10:1,REFMET:CAR 10:1,CAR 10:1,metab-u-hilicpos,True,7,4.77749776874562e-26
+Citrulline,REFMET:Citrulline,Citrulline,metab-u-hilicpos,True,6,1.05351616449603e-24
+Glyceraldehyde 3-phosphate,REFMET:Glyceraldehyde 3-phosphate,Glyceraldehyde 3-phosphate,metab-u-ionpneg,True,7,1.30912254048512e-24
+Ethanolamine,REFMET:Ethanolamine,Ethanolamine,metab-t-amines,True,6,1.38770474575334e-24
+Isocitric acid,REFMET:Isocitric acid,Isocitric acid,metab-t-tca,True,8,7.43150433607731e-24
+Proline,REFMET:Proline,Proline,meta-reg,True,4,1.05558955608684e-22
+cis-Aconitic acid,REFMET:cis-Aconitic acid,cis-Aconitic acid,meta-reg,True,8,1.2969202012745601e-21
+Citric acid,REFMET:Citric acid,Citric acid,metab-t-tca,True,7,9.21424908747774e-21
+3-Methyl-2-oxovaleric acid,REFMET:3-Methyl-2-oxovaleric acid,3-Methyl-2-oxovaleric acid,metab-u-rpneg,True,9,2.19312848316198e-20
+2-Aminobutyric acid,REFMET:2-Aminobutyric acid,2-Aminobutyric acid,metab-t-amines,True,7,2.47372035920015e-19
+Fumaric acid,REFMET:Fumaric acid,Fumaric acid,meta-reg,True,6,9.32548644998302e-19
+Leucine,REFMET:Leucine,Leucine,meta-reg,True,6,9.67116432557318e-19
+CAR 12:3,REFMET:CAR 12:3,CAR 12:3,metab-u-lrppos,True,5,1.5442909442141398e-18
+CAR 11:0,REFMET:CAR 11:0,CAR 11:0,metab-u-lrppos,True,8,1.5442909442141398e-18
+Glutamic acid,REFMET:Glutamic acid,Glutamic acid,meta-reg,True,7,2.8735353661737497e-18
+2-Oxoglutaric acid,REFMET:2-Oxoglutaric acid,2-Oxoglutaric acid,metab-u-ionpneg,True,7,2.62850230175277e-17
+CAR 2:0,REFMET:CAR 2:0,CAR 2:0,metab-u-hilicpos,True,13,4.06237876566338e-17
+Phenylacetic acid,REFMET:Phenylacetic acid,Phenylacetic acid,metab-u-rpneg,True,4,8.95678067066865e-17
+CAR 12:2,REFMET:CAR 12:2,CAR 12:2,metab-u-lrppos,True,5,1.27812992242322e-16
+Phenylpyruvic acid,REFMET:Phenylpyruvic acid,Phenylpyruvic acid,metab-u-ionpneg,True,5,1.48306921225226e-16
+Ketoleucine,REFMET:Ketoleucine,Ketoleucine,metab-u-rpneg,True,9,1.5448947209838e-16
+CAR 10:0,REFMET:CAR 10:0,CAR 10:0,metab-u-hilicpos,True,6,3.4368867737408e-16
+CAR 8:0,REFMET:CAR 8:0,CAR 8:0,metab-u-lrppos,True,5,1.22907866354283e-15
+N-Acetylmethionine,REFMET:N-Acetylmethionine,N-Acetylmethionine,metab-u-hilicpos,True,4,2.15923363779374e-15
+Indolelactic acid,REFMET:Indolelactic acid,Indolelactic acid,meta-reg,True,4,4.40815006905565e-15
+KET,REFMET:KET,KET,metab-t-conv,True,5,7.445055502410451e-15
+CAR 6:0,REFMET:CAR 6:0,CAR 6:0,metab-u-hilicpos,True,8,7.5121311711244e-15
+Phe-Phe,REFMET:Phe-Phe,Phe-Phe,metab-u-rppos,True,4,1.4345396339281e-14
+Hydroxycaprylic acid,REFMET:Hydroxycaprylic acid,Hydroxycaprylic acid,metab-u-rpneg,True,3,1.4774143685315602e-14
+N-Acetyl-D-tryptophan,REFMET:N-Acetyl-D-tryptophan,N-Acetyl-D-tryptophan,metab-u-hilicpos,True,6,2.44357873364939e-14
+CAR 14:1;OH,REFMET:CAR 14:1;OH,CAR 14:1;OH,metab-u-lrppos,True,5,4.08033680678445e-14
+CAR 9:0,REFMET:CAR 9:0,CAR 9:0,metab-u-hilicpos,True,4,6.18931188785121e-14
+Isoleucine,REFMET:Isoleucine,Isoleucine,meta-reg,True,5,7.04300785280221e-14
+Leucine/Isoleucine,REFMET:Leucine/Isoleucine,Leucine/Isoleucine,meta-reg,True,6,2.9994692028915e-13
+beta-Leucine,REFMET:beta-Leucine,beta-Leucine,metab-u-hilicpos,True,4,7.5527666035211e-13
+CAR 12:1,REFMET:CAR 12:1,CAR 12:1,metab-u-hilicpos,True,6,1.05441291750624e-12
+Creatinine,REFMET:Creatinine,Creatinine,metab-u-hilicpos,True,4,1.13013446471555e-12
+CAR 11:1,REFMET:CAR 11:1,CAR 11:1,metab-u-lrppos,True,7,1.63958276020431e-12
+CAR 4:0;OH,REFMET:CAR 4:0;OH,CAR 4:0;OH,metab-u-hilicpos,True,8,2.40367418867691e-12
+CAR 7:0,REFMET:CAR 7:0,CAR 7:0,metab-u-hilicpos,True,7,2.90396048959279e-12
+Aminobutyric acid,REFMET:Aminobutyric acid,Aminobutyric acid,metab-u-hilicpos,True,6,3.78107734719175e-12
+Capric acid,REFMET:Capric acid,Capric acid,metab-u-rpneg,True,4,4.39762162902259e-12
+CAR 12:0,REFMET:CAR 12:0,CAR 12:0,metab-u-hilicpos,True,8,4.67546481974526e-12
+4-Pyridoxic acid,REFMET:4-Pyridoxic acid,4-Pyridoxic acid,metab-u-hilicpos,True,4,5.94805246534364e-12
+Hydroxycapric acid,REFMET:Hydroxycapric acid,Hydroxycapric acid,metab-u-rpneg,True,3,6.00524923317635e-12
+N-Acetylhistidine,REFMET:N-Acetylhistidine,N-Acetylhistidine,metab-u-hilicpos,True,6,7.2348968998661785e-12
+Carnitine,REFMET:Carnitine,Carnitine,meta-reg,True,5,1.0551954262073199e-11
+Valine,REFMET:Valine,Valine,meta-reg,True,8,1.0847372678019698e-11
+2-Hydroxyglutaric acid,REFMET:2-Hydroxyglutaric acid,2-Hydroxyglutaric acid,metab-t-tca,True,7,2.37062705624266e-11
+Methionine,REFMET:Methionine,Methionine,meta-reg,True,7,2.54821410570052e-11
+CAR 13:1,REFMET:CAR 13:1,CAR 13:1,metab-u-lrppos,True,6,2.93451220658944e-11
+2-Hydroxybutyric acid,REFMET:2-Hydroxybutyric acid,2-Hydroxybutyric acid,metab-u-rpneg,True,6,7.76580955427455e-11
+CAR 16:2,REFMET:CAR 16:2,CAR 16:2,metab-u-hilicpos,True,7,1.12079206375027e-10
+CAR 18:1,REFMET:CAR 18:1,CAR 18:1,metab-u-hilicpos,True,5,1.28611897740478e-10
+Citric acid/Isocitric acid,REFMET:Citric acid/Isocitric acid,Citric acid/Isocitric acid,metab-u-ionpneg,True,5,1.34735630738344e-10
+Hydroxyproline,REFMET:Hydroxyproline,Hydroxyproline,metab-t-amines,True,4,2.08662799599651e-10
+NEFA,REFMET:NEFA,NEFA,metab-t-conv,True,5,2.12526771363234e-10
+CAR 14:2;OH,REFMET:CAR 14:2;OH,CAR 14:2;OH,metab-u-lrppos,True,4,2.67860598605962e-10
+Serine,REFMET:Serine,Serine,metab-u-hilicpos,True,8,3.03434096059671e-10
+Creatine,REFMET:Creatine,Creatine,metab-u-hilicpos,True,5,4.79567048958082e-10
+Ile-Ile,REFMET:Ile-Ile,Ile-Ile,metab-u-rppos,True,5,6.244372483420011e-10
+CAR 18:0;OH,REFMET:CAR 18:0;OH,CAR 18:0;OH,metab-u-lrppos,True,3,6.98625960732014e-10
+Pyridoxal,REFMET:Pyridoxal,Pyridoxal,metab-u-hilicpos,True,2,1.39014510815343e-09
+gamma-Aminobutyric acid,REFMET:gamma-Aminobutyric acid,gamma-Aminobutyric acid,metab-u-hilicpos,True,8,1.68544068618376e-09
+CAR 10:0;OH,REFMET:CAR 10:0;OH,CAR 10:0;OH,metab-u-hilicpos,True,6,1.96526805832632e-09
+dUMP,REFMET:dUMP,dUMP,metab-u-rppos,True,6,2.77217618179499e-09
+CAR 16:0,REFMET:CAR 16:0,CAR 16:0,metab-u-hilicpos,True,6,2.93983012786196e-09
+Targinine,REFMET:Targinine,Targinine,metab-u-hilicpos,True,3,3.00462680394006e-09
+N6-Acetyllysine,REFMET:N6-Acetyllysine,N6-Acetyllysine,metab-u-hilicpos,True,4,3.01722844165788e-09
+Cortisol,REFMET:Cortisol,Cortisol,meta-reg,True,5,3.28693148323774e-09
+UDP-glucose,REFMET:UDP-glucose,UDP-glucose,metab-u-ionpneg,True,5,9.703727450824632e-09
+Ornithine,REFMET:Ornithine,Ornithine,meta-reg,True,6,1.114512608925e-08
+11-Deoxycortisol,REFMET:11-Deoxycortisol,11-Deoxycortisol,metab-u-hilicpos,True,6,1.35232682278357e-08
+CAR 16:3,REFMET:CAR 16:3,CAR 16:3,metab-u-lrppos,True,5,1.41901282043335e-08
+CAR 5:1,REFMET:CAR 5:1,CAR 5:1,metab-u-hilicpos,True,5,1.55753677768402e-08
+3-Hydroxybutyric acid,REFMET:3-Hydroxybutyric acid,3-Hydroxybutyric acid,metab-u-rpneg,True,6,2.20483110037754e-08
+O-Ethylhomoserine,REFMET:O-Ethylhomoserine,O-Ethylhomoserine,metab-u-hilicpos,True,4,2.61691507519895e-08
+N1-Acetylspermidine,REFMET:N1-Acetylspermidine,N1-Acetylspermidine,metab-u-hilicpos,True,6,3.82157164214928e-08
+PC P-34:2 or PC O-34:3,REFMET:PC P-34:2 or PC O-34:3,PC P-34:2 or PC O-34:3,metab-u-hilicpos,True,6,5.52772700159548e-08
+CAR 5:0,REFMET:CAR 5:0,CAR 5:0,metab-u-hilicpos,True,6,5.60089164616934e-08
+CAR 8:0;OH,REFMET:CAR 8:0;OH,CAR 8:0;OH,metab-u-hilicpos,True,7,6.57732615719702e-08
+CAR 14:2,REFMET:CAR 14:2,CAR 14:2,metab-u-lrppos,True,4,6.68245079543993e-08
+Kynurenic acid,REFMET:Kynurenic acid,Kynurenic acid,meta-reg,True,6,9.73682253142314e-08
+Aminoadipic acid,REFMET:Aminoadipic acid,Aminoadipic acid,metab-t-amines,True,7,1.33383307128619e-07
+N-Acetylalanine,REFMET:N-Acetylalanine,N-Acetylalanine,metab-u-hilicpos,True,3,1.62722416109534e-07
+N-Acetylleucine,REFMET:N-Acetylleucine,N-Acetylleucine,metab-u-hilicpos,True,5,1.67053009052381e-07
+CAR 18:1;OH,REFMET:CAR 18:1;OH,CAR 18:1;OH,metab-u-lrppos,True,5,1.8184962877722e-07
+NA-Gly 18:1(9Z),REFMET:NA-Gly 18:1(9Z),NA-Gly 18:1(9Z),metab-u-hilicpos,True,4,1.93603912084007e-07
+Hydroxylauric acid,REFMET:Hydroxylauric acid,Hydroxylauric acid,metab-u-rpneg,True,4,1.98315329085278e-07
+3-Dehydroxycarnitine,REFMET:3-Dehydroxycarnitine,3-Dehydroxycarnitine,metab-u-hilicpos,True,6,2.03189417990805e-07
+CAR 14:0;OH,REFMET:CAR 14:0;OH,CAR 14:0;OH,metab-u-lrppos,True,2,2.51314150490742e-07
+CAR 18:3,REFMET:CAR 18:3,CAR 18:3,metab-u-lrppos,True,5,2.78626351248874e-07
+Hydroxytetradecanoic acid,REFMET:Hydroxytetradecanoic acid,Hydroxytetradecanoic acid,metab-u-rpneg,True,3,2.81987761136471e-07
+LPC 18:3,REFMET:LPC 18:3,LPC 18:3,metab-u-hilicpos,True,2,2.86892838828554e-07
+GDP-mannose,REFMET:GDP-mannose,GDP-mannose,metab-t-nuc,True,2,3.52628496914883e-07
+Cortisone,REFMET:Cortisone,Cortisone,metab-u-hilicpos,True,6,6.18594968067347e-07
+1-Methylguanosine,REFMET:1-Methylguanosine,1-Methylguanosine,metab-u-hilicpos,True,5,8.475158764297e-07
+Heptadecanedioic acid,REFMET:Heptadecanedioic acid,Heptadecanedioic acid,metab-u-rpneg,True,4,9.12254336146026e-07
+CAR 18:2,REFMET:CAR 18:2,CAR 18:2,metab-u-lrppos,True,6,1.03711575549933e-06
+CAR 14:1,REFMET:CAR 14:1,CAR 14:1,metab-u-lrppos,True,6,1.13761742114803e-06
+N-Acetylputrescine,REFMET:N-Acetylputrescine,N-Acetylputrescine,metab-u-hilicpos,True,4,1.43382565722542e-06
+Citramalic acid,REFMET:Citramalic acid,Citramalic acid,metab-u-rpneg,True,3,1.48316366673246e-06
+Acisoga,REFMET:Acisoga,Acisoga,metab-u-hilicpos,True,5,1.8873159194342e-06
+Dimethylarginine,REFMET:Dimethylarginine,Dimethylarginine,metab-u-hilicpos,True,2,1.91162451997299e-06
+PC O-35:1,REFMET:PC O-35:1,PC O-35:1,metab-u-lrppos,True,2,2.06291610769672e-06
+Eicosenoic acid,REFMET:Eicosenoic acid,Eicosenoic acid,metab-u-rpneg,True,5,2.13721380170971e-06
+CAR 16:1,REFMET:CAR 16:1,CAR 16:1,metab-u-rppos,True,3,2.24162949460213e-06
+LPC O-18:1,REFMET:LPC O-18:1,LPC O-18:1,metab-u-lrppos,True,5,2.2840801852549e-06
+FA 20:5;O3,REFMET:FA 20:5;O3,FA 20:5;O3,metab-u-lrpneg,True,5,2.50639666968712e-06
+CAR 14:0,REFMET:CAR 14:0,CAR 14:0,metab-u-lrppos,True,8,2.57107685093343e-06
+Ureidopropionic acid,REFMET:Ureidopropionic acid,Ureidopropionic acid,metab-u-hilicpos,True,4,2.71930492423735e-06
+Alloisoleucine,REFMET:Alloisoleucine,Alloisoleucine,metab-u-hilicpos,True,5,3.03191083742409e-06
+N-Methyl-D-aspartic acid,REFMET:N-Methyl-D-aspartic acid,N-Methyl-D-aspartic acid,metab-u-rpneg,True,2,3.51814299739959e-06
+FA 22:3;O,REFMET:FA 22:3;O,FA 22:3;O,metab-u-lrpneg,True,2,3.5434837294177e-06
+CAR 20:3,REFMET:CAR 20:3,CAR 20:3,metab-u-lrppos,True,2,3.91629151229455e-06
+Taurine,REFMET:Taurine,Taurine,meta-reg,True,5,4.26232130952633e-06
+Phosphocreatine,REFMET:Phosphocreatine,Phosphocreatine,metab-u-ionpneg,True,5,4.46850823010361e-06
+CMP,REFMET:CMP,CMP,metab-u-ionpneg,True,2,5.22399996628795e-06
+Tryptophan,REFMET:Tryptophan,Tryptophan,meta-reg,True,3,5.52347969467715e-06
+Piperine,REFMET:Piperine,Piperine,metab-u-hilicpos,True,6,5.67736566971585e-06
+Pterin,REFMET:Pterin,Pterin,metab-u-hilicpos,True,5,6.74565891958594e-06
+Ribothymidine,REFMET:Ribothymidine,Ribothymidine,metab-u-hilicpos,True,5,7.16756547099811e-06
+sn-Glycero-3-phosphate,REFMET:sn-Glycero-3-phosphate,sn-Glycero-3-phosphate,metab-u-ionpneg,True,5,7.40414275210091e-06
+Aminoisobutyric acid,REFMET:Aminoisobutyric acid,Aminoisobutyric acid,metab-u-hilicpos,True,5,8.7435292313835e-06
+FA 14:3;O,REFMET:FA 14:3;O,FA 14:3;O,metab-u-lrpneg,True,2,1.00660287441602e-05
+Dodecenoic acid,REFMET:Dodecenoic acid,Dodecenoic acid,metab-u-lrpneg,True,3,1.07635213147542e-05
+NA-Gly 14:0,REFMET:NA-Gly 14:0,NA-Gly 14:0,metab-u-hilicpos,True,2,1.21712911072284e-05
+CAR 13:0,REFMET:CAR 13:0,CAR 13:0,metab-u-lrppos,True,2,1.40123778498601e-05
+Tyrosine,REFMET:Tyrosine,Tyrosine,meta-reg,True,4,1.45958281268957e-05
+Tetradecadienoic acid,REFMET:Tetradecadienoic acid,Tetradecadienoic acid,metab-u-lrpneg,True,3,1.58818665414078e-05
+Cytidine,REFMET:Cytidine,Cytidine,metab-u-hilicpos,True,2,1.87079315419542e-05
+Ile-Glu,REFMET:Ile-Glu,Ile-Glu,metab-u-hilicpos,True,3,2.04433448293898e-05
+UDP-galactose,REFMET:UDP-galactose,UDP-galactose,metab-t-nuc,True,3,2.07690140517084e-05
+S-Methylcysteine S-oxide,REFMET:S-Methylcysteine S-oxide,S-Methylcysteine S-oxide,metab-u-hilicpos,True,6,2.28649856586412e-05
+Glutaric acid,REFMET:Glutaric acid,Glutaric acid,metab-u-rpneg,True,2,2.59441956938092e-05
+Pentadecylic acid,REFMET:Pentadecylic acid,Pentadecylic acid,metab-u-rpneg,True,3,2.68104333930306e-05
+CAR 6:0;OH,REFMET:CAR 6:0;OH,CAR 6:0;OH,metab-u-hilicpos,True,5,2.76338132731704e-05
+SM 44:4;O2,REFMET:SM 44:4;O2,SM 44:4;O2,metab-u-lrppos,True,3,2.88220327979533e-05
+Phenylalanine,REFMET:Phenylalanine,Phenylalanine,meta-reg,True,4,3.0527809430891e-05
+Biliverdin,REFMET:Biliverdin,Biliverdin,metab-u-hilicpos,True,4,3.08867850147404e-05
+Homoarginine,REFMET:Homoarginine,Homoarginine,metab-u-hilicpos,True,3,4.01606713388741e-05
+FA 20:3;O,REFMET:FA 20:3;O,FA 20:3;O,metab-u-lrpneg,True,1,4.21633054036592e-05
+Asparagine,REFMET:Asparagine,Asparagine,meta-reg,True,3,4.63907055157729e-05
+Docosadienoic acid,REFMET:Docosadienoic acid,Docosadienoic acid,metab-u-lrpneg,True,4,4.71760614877342e-05
+SM 18:1;O2/16:1,REFMET:SM 18:1;O2/16:1,SM 18:1;O2/16:1,metab-u-hilicpos,True,3,5.94399786445176e-05
+4-Aminohippuric acid,REFMET:4-Aminohippuric acid,4-Aminohippuric acid,metab-u-hilicpos,True,4,6.6556638125743e-05
+Cinnamoylglycine,REFMET:Cinnamoylglycine,Cinnamoylglycine,metab-u-hilicpos,True,3,6.7098146367755e-05
+LPC 18:0/0:0,REFMET:LPC 18:0/0:0,LPC 18:0/0:0,metab-u-lrppos,True,4,7.62438390272632e-05
+Lys-Gly,REFMET:Lys-Gly,Lys-Gly,metab-u-hilicpos,True,3,7.70727700966682e-05
+Eicosapentaenoic acid,REFMET:Eicosapentaenoic acid,Eicosapentaenoic acid,metab-u-lrpneg,True,4,8.18116777040274e-05
+Hexadecenoic acid,REFMET:Hexadecenoic acid,Hexadecenoic acid,metab-u-lrpneg,True,3,8.18116777040274e-05
+Glycoursodeoxycholic acid,REFMET:Glycoursodeoxycholic acid,Glycoursodeoxycholic acid,metab-u-rpneg,True,2,8.73876583625717e-05
+Phenyllactic acid,REFMET:Phenyllactic acid,Phenyllactic acid,metab-u-rpneg,True,2,9.42673547059521e-05
+N-Acetylisoputreanine,REFMET:N-Acetylisoputreanine,N-Acetylisoputreanine,metab-u-hilicpos,True,2,0.0001041163704126
+Docosatetraenoic acid,REFMET:Docosatetraenoic acid,Docosatetraenoic acid,metab-u-lrpneg,True,5,0.0001086155997214
+CAR DC3:0;2Me,REFMET:CAR DC3:0;2Me,CAR DC3:0;2Me,metab-u-hilicpos,True,5,0.0001102106919065
+N-Acetylarginine,REFMET:N-Acetylarginine,N-Acetylarginine,metab-u-hilicpos,True,4,0.0001135538006874
+Hypotaurine,REFMET:Hypotaurine,Hypotaurine,metab-u-hilicpos,True,1,0.0001139947761828
+Fructose 6-phosphate,REFMET:Fructose 6-phosphate,Fructose 6-phosphate,metab-u-ionpneg,True,1,0.0001156552913188
+Hexadecatrienoic acid,REFMET:Hexadecatrienoic acid,Hexadecatrienoic acid,metab-u-lrpneg,True,3,0.0001249658366518
+Docosatrienoic acid,REFMET:Docosatrienoic acid,Docosatrienoic acid,metab-u-rpneg,True,4,0.0001249658366518
+Guanidoacetic acid,REFMET:Guanidoacetic acid,Guanidoacetic acid,metab-u-hilicpos,True,1,0.0001393292695066
+sn-Glycero-3-phosphocholine,REFMET:sn-Glycero-3-phosphocholine,sn-Glycero-3-phosphocholine,metab-u-hilicpos,True,4,0.0001417096526658
+Leu-Ile,REFMET:Leu-Ile,Leu-Ile,metab-u-rppos,True,4,0.000163342937381
+PC 30:2,REFMET:PC 30:2,PC 30:2,metab-u-lrppos,True,2,0.0001757239734348
+EDTA,REFMET:EDTA,EDTA,metab-u-rppos,True,2,0.0001783074234859
+NADP,REFMET:NADP,NADP,metab-u-ionpneg,True,1,0.0002013005980859
+DG 38:5,REFMET:DG 38:5,DG 38:5,metab-u-lrppos,True,4,0.0002201126616586
+PC P-34:0 or PC O-34:1,REFMET:PC P-34:0 or PC O-34:1,PC P-34:0 or PC O-34:1,metab-u-hilicpos,True,4,0.0002300412517259
+Indoleacrylic acid,REFMET:Indoleacrylic acid,Indoleacrylic acid,metab-u-rpneg,True,3,0.0002369325131403
+Nonadecatrienoic acid,REFMET:Nonadecatrienoic acid,Nonadecatrienoic acid,metab-u-lrpneg,True,2,0.0002384665933045
+Spermine,REFMET:Spermine,Spermine,metab-u-rppos,True,3,0.0003154678496184
+Glucose,REFMET:Glucose,Glucose,meta-reg,True,2,0.0003184165638263
+Octadecatrienoic acid,REFMET:Octadecatrienoic acid,Octadecatrienoic acid,metab-u-lrpneg,True,3,0.0003253490355632
+DG 38:4,REFMET:DG 38:4,DG 38:4,metab-u-lrppos,True,3,0.0003455051275559
+DG 18:1_22:6,REFMET:DG 18:1_22:6,DG 18:1_22:6,metab-u-lrppos,True,4,0.0003571701976015
+Docosapentaenoic acid,REFMET:Docosapentaenoic acid,Docosapentaenoic acid,metab-u-rpneg,True,2,0.0003612410421294
+PC 32:0,REFMET:PC 32:0,PC 32:0,metab-u-hilicpos,True,6,0.0003716183377348
+Cystine,REFMET:Cystine,Cystine,metab-u-hilicpos,True,3,0.0004166357026546
+Nonadecadienoic acid,REFMET:Nonadecadienoic acid,Nonadecadienoic acid,metab-u-lrpneg,True,1,0.0004533847617574
+2-Hydroxy-3-methylbutyric acid,REFMET:2-Hydroxy-3-methylbutyric acid,2-Hydroxy-3-methylbutyric acid,metab-u-rpneg,True,3,0.0004584826596529
+PS P-36:1 or PS O-36:2,REFMET:PS P-36:1 or PS O-36:2,PS P-36:1 or PS O-36:2,metab-u-hilicpos,True,3,0.0004611827474323
+DG 34:1,REFMET:DG 34:1,DG 34:1,metab-u-hilicpos,True,3,0.0004985052172529
+FA 14:2;O,REFMET:FA 14:2;O,FA 14:2;O,metab-u-lrpneg,True,3,0.0005045048612481
+Pro-Phe,REFMET:Pro-Phe,Pro-Phe,metab-u-rppos,True,5,0.0005479774384297
+DG 18:1_20:4,REFMET:DG 18:1_20:4,DG 18:1_20:4,metab-u-lrppos,True,4,0.0005513654634059
+Glutamine,REFMET:Glutamine,Glutamine,metab-u-hilicpos,True,5,0.0005852039187429
+PC P-32:0 or PC O-32:1,REFMET:PC P-32:0 or PC O-32:1,PC P-32:0 or PC O-32:1,metab-u-hilicpos,True,4,0.0005852039187429
+13-HODE,REFMET:13-HODE,13-HODE,metab-t-oxylipneg,True,3,0.0006057378841601
+Tetracosatetraenoic acid,REFMET:Tetracosatetraenoic acid,Tetracosatetraenoic acid,metab-u-lrpneg,True,2,0.0006501835984959
+Phe-Trp,REFMET:Phe-Trp,Phe-Trp,metab-u-rppos,True,3,0.0006562091219326
+DG 36:3,REFMET:DG 36:3,DG 36:3,metab-u-hilicpos,True,2,0.0006607235993745
+SM 18:1;O2/18:1,REFMET:SM 18:1;O2/18:1,SM 18:1;O2/18:1,metab-u-hilicpos,True,4,0.0006974519978769
+LPE P-18:0 or LPE O-18:1,REFMET:LPE P-18:0 or LPE O-18:1,LPE P-18:0 or LPE O-18:1,metab-u-hilicpos,True,5,0.0007414116602117
+1-Methylhistamine,REFMET:1-Methylhistamine,1-Methylhistamine,metab-u-hilicpos,True,1,0.0007897676485887
+PC P-30:0 or PC O-30:1,REFMET:PC P-30:0 or PC O-30:1,PC P-30:0 or PC O-30:1,metab-u-hilicpos,True,4,0.0007897676485887
+Octadecatetraenoic acid,REFMET:Octadecatetraenoic acid,Octadecatetraenoic acid,metab-u-rpneg,True,3,0.0008813311768751
+LPE 16:1,REFMET:LPE 16:1,LPE 16:1,metab-u-hilicpos,True,1,0.000922417749668
+LPC 20:0/0:0,REFMET:LPC 20:0/0:0,LPC 20:0/0:0,metab-u-lrppos,True,2,0.0009309701765559
+Putrescine,REFMET:Putrescine,Putrescine,metab-u-hilicpos,True,3,0.0009994284553346
+SM 18:1;O2/22:3,REFMET:SM 18:1;O2/22:3,SM 18:1;O2/22:3,metab-u-hilicpos,True,2,0.0010192256265265
+LPE 22:5,REFMET:LPE 22:5,LPE 22:5,metab-u-hilicpos,True,2,0.0010475968848976
+2-Aminocaprylic acid,REFMET:2-Aminocaprylic acid,2-Aminocaprylic acid,metab-u-hilicpos,True,2,0.0011274937534744
+DG 34:3,REFMET:DG 34:3,DG 34:3,metab-u-hilicpos,True,2,0.0011442702878227
+SM 18:1;O2/16:0,REFMET:SM 18:1;O2/16:0,SM 18:1;O2/16:0,metab-u-hilicpos,True,3,0.0011442702878227
+FA 16:1;O2,REFMET:FA 16:1;O2,FA 16:1;O2,metab-u-lrpneg,True,2,0.0011776404932672
+Sebacic acid,REFMET:Sebacic acid,Sebacic acid,meta-reg,True,3,0.001226142650525
+CAR 12:0;OH,REFMET:CAR 12:0;OH,CAR 12:0;OH,metab-u-lrppos,True,3,0.0012285422541472
+Heptadecenoic acid,REFMET:Heptadecenoic acid,Heptadecenoic acid,metab-u-lrpneg,True,3,0.00125166871275
+Pipecolic acid,REFMET:Pipecolic acid,Pipecolic acid,metab-u-hilicpos,True,2,0.0014516840928433
+CAR 5:0;OH,REFMET:CAR 5:0;OH,CAR 5:0;OH,metab-u-rppos,True,2,0.0014654331544268
+Betaine,REFMET:Betaine,Betaine,metab-u-hilicpos,True,3,0.0014672392310056
+Phosphoserine,REFMET:Phosphoserine,Phosphoserine,metab-u-ionpneg,True,4,0.0014757961638664
+Pregnenolone sulfate,REFMET:Pregnenolone sulfate,Pregnenolone sulfate,metab-u-rpneg,True,7,0.0014939203549557
+Histidine,REFMET:Histidine,Histidine,metab-u-hilicpos,True,3,0.0016485571939384
+Phosphoethanolamine,REFMET:Phosphoethanolamine,Phosphoethanolamine,meta-reg,True,4,0.0016616802003736
+PE 32:1,REFMET:PE 32:1,PE 32:1,metab-u-hilicpos,True,2,0.0016851781811919
+ATP,REFMET:ATP,ATP,metab-u-ionpneg,True,2,0.0017055134840455
+L-Urobilin,REFMET:L-Urobilin,L-Urobilin,metab-u-rppos,True,2,0.0017303345721165
+N4-Acetylcytidine,REFMET:N4-Acetylcytidine,N4-Acetylcytidine,metab-u-hilicpos,True,1,0.0018406671922478
+LPE 20:3,REFMET:LPE 20:3,LPE 20:3,metab-u-hilicpos,True,1,0.0018406671922478
+FA 18:2;O,REFMET:FA 18:2;O,FA 18:2;O,metab-u-lrpneg,True,2,0.0018527181760541
+CAR DC6:0,REFMET:CAR DC6:0,CAR DC6:0,metab-u-hilicpos,True,2,0.0018644295292613
+GlcCer 18:2;O2/22:0,REFMET:GlcCer 18:2;O2/22:0,GlcCer 18:2;O2/22:0,metab-u-hilicpos,True,1,0.0018673154209696
+Threonine,REFMET:Threonine,Threonine,metab-u-hilicpos,True,4,0.0019452617757937
+1-Methyladenosine,REFMET:1-Methyladenosine,1-Methyladenosine,metab-u-hilicpos,True,4,0.0020253194659132
+DG 40:6,REFMET:DG 40:6,DG 40:6,metab-u-lrppos,True,4,0.0020885170780452
+LPE 18:1,REFMET:LPE 18:1,LPE 18:1,metab-u-hilicpos,True,1,0.0021655622404112
+SM 18:1;O2/22:2,REFMET:SM 18:1;O2/22:2,SM 18:1;O2/22:2,metab-u-hilicpos,True,2,0.0021655622404112
+13-cis-Retinoic acid,REFMET:13-cis-Retinoic acid,13-cis-Retinoic acid,metab-u-hilicpos,True,4,0.0022810099745745
+SM 18:1;O2/19:1,REFMET:SM 18:1;O2/19:1,SM 18:1;O2/19:1,metab-u-hilicpos,True,3,0.0023547198557957
+Urocanic acid,REFMET:Urocanic acid,Urocanic acid,metab-u-rppos,True,2,0.0024123047352696
+LPC 20:1,REFMET:LPC 20:1,LPC 20:1,metab-u-lrppos,True,1,0.0025299801293579
+SM 18:1;O2/22:1,REFMET:SM 18:1;O2/22:1,SM 18:1;O2/22:1,metab-u-hilicpos,True,2,0.0025479201683167
+Tetracosapentaenoic acid,REFMET:Tetracosapentaenoic acid,Tetracosapentaenoic acid,metab-u-lrpneg,True,2,0.0025954906599941
+Cytosine,REFMET:Cytosine,Cytosine,metab-u-hilicpos,True,1,0.0026305697112776
+PC O-32:0,REFMET:PC O-32:0,PC O-32:0,metab-u-hilicpos,True,5,0.0026305697112776
+SM 33:2;O2,REFMET:SM 33:2;O2,SM 33:2;O2,metab-u-lrppos,True,2,0.0026533432727061
+SM 18:1;O2/14:1,REFMET:SM 18:1;O2/14:1,SM 18:1;O2/14:1,metab-u-hilicpos,True,3,0.0026721575207397
+PE P-40:6 or PE O-40:7,REFMET:PE P-40:6 or PE O-40:7,PE P-40:6 or PE O-40:7,metab-u-hilicpos,True,4,0.0027116287816057
+Tetracosadienoic acid,REFMET:Tetracosadienoic acid,Tetracosadienoic acid,metab-u-lrpneg,True,1,0.0027130579825271
+AICAR,REFMET:AICAR,AICAR,metab-u-hilicpos,True,2,0.0027907254728822
+Palmitoleic acid,REFMET:Palmitoleic acid,Palmitoleic acid,meta-reg,True,1,0.0027986122548404
+Lignoceric acid,REFMET:Lignoceric acid,Lignoceric acid,metab-u-rpneg,True,2,0.0028974710683465
+PC 18:1_20:4,REFMET:PC 18:1_20:4,PC 18:1_20:4,metab-u-lrpneg,True,1,0.0029124551389413
+Dimethylglycine,REFMET:Dimethylglycine,Dimethylglycine,metab-u-hilicpos,True,2,0.0030292884491407
+5-Hydroxyindoleacetic acid,REFMET:5-Hydroxyindoleacetic acid,5-Hydroxyindoleacetic acid,metab-u-rpneg,True,4,0.003523733247668
+ST 27:2;O3,REFMET:ST 27:2;O3,ST 27:2;O3,metab-u-lrpneg,True,4,0.0035403072662729
+"NA-Gly 18:2(9Z,12Z)","REFMET:NA-Gly 18:2(9Z,12Z)","NA-Gly 18:2(9Z,12Z)",metab-u-hilicpos,True,2,0.0037606866564596
+PC P-36:4 or PC O-36:5,REFMET:PC P-36:4 or PC O-36:5,PC P-36:4 or PC O-36:5,metab-u-hilicpos,True,3,0.0038566179011122
+LPC O-16:0,REFMET:LPC O-16:0,LPC O-16:0,metab-u-hilicpos,True,2,0.0038826988128838
+Hydroxyphenyllactic acid,REFMET:Hydroxyphenyllactic acid,Hydroxyphenyllactic acid,metab-u-rpneg,True,3,0.0039275550237513
+N-Acetylglutamic acid,REFMET:N-Acetylglutamic acid,N-Acetylglutamic acid,metab-u-hilicpos,True,1,0.004038865972248
+Aspirin,REFMET:Aspirin,Aspirin,metab-u-rpneg,True,1,0.0041786929078438
+3-O-Methyl-DOPA,REFMET:3-O-Methyl-DOPA,3-O-Methyl-DOPA,metab-u-rppos,True,2,0.0043071065261988
+PC O-42:2,REFMET:PC O-42:2,PC O-42:2,metab-u-lrppos,True,3,0.0043524041353033
+Hyocholic acid,REFMET:Hyocholic acid,Hyocholic acid,metab-u-rpneg,True,2,0.0044277337984661
+Nonadecenoic acid,REFMET:Nonadecenoic acid,Nonadecenoic acid,metab-u-lrpneg,True,2,0.0044556195318872
+"N(6),N(6)-Dimethyl-lysine","REFMET:N(6),N(6)-Dimethyl-lysine","N(6),N(6)-Dimethyl-lysine",metab-u-hilicpos,True,1,0.0044786449642244
+Glycochenodeoxycholic acid,REFMET:Glycochenodeoxycholic acid,Glycochenodeoxycholic acid,metab-u-rpneg,True,2,0.0046695545370989
+Eicosatetraenoic acid,REFMET:Eicosatetraenoic acid,Eicosatetraenoic acid,metab-u-lrpneg,True,3,0.0046731037471174
+FA 15:4;O,REFMET:FA 15:4;O,FA 15:4;O,metab-u-lrpneg,True,1,0.0047122331850711
+SM 18:1;O2/17:1,REFMET:SM 18:1;O2/17:1,SM 18:1;O2/17:1,metab-u-hilicpos,True,2,0.0048167488126418
+Cysteine,REFMET:Cysteine,Cysteine,metab-t-amines,True,1,0.0048839681158102
+GDP,REFMET:GDP,GDP,metab-t-nuc,True,2,0.0050031625484776
+Cer 18:1;O2/22:1,REFMET:Cer 18:1;O2/22:1,Cer 18:1;O2/22:1,metab-u-hilicpos,True,1,0.0050915441024977
+Cer 18:1;O2/18:1,REFMET:Cer 18:1;O2/18:1,Cer 18:1;O2/18:1,metab-u-hilicpos,True,2,0.0050915441024977
+PC 35:2,REFMET:PC 35:2,PC 35:2,metab-u-hilicpos,True,1,0.0050915441024977
+PC 40:4,REFMET:PC 40:4,PC 40:4,metab-u-lrppos,True,2,0.0051081506857208
+LPC 0:0/14:0,REFMET:LPC 0:0/14:0,LPC 0:0/14:0,metab-u-lrppos,True,1,0.0051081506857208
+TG 54:1,REFMET:TG 54:1,TG 54:1,metab-u-lrppos,True,1,0.0051081506857208
+PC P-36:2 or PC O-36:3,REFMET:PC P-36:2 or PC O-36:3,PC P-36:2 or PC O-36:3,metab-u-hilicpos,True,1,0.0054448530879155
+SM 18:1;O2/15:0,REFMET:SM 18:1;O2/15:0,SM 18:1;O2/15:0,metab-u-hilicpos,True,3,0.0054448530879155
+Cer 18:1;O2/16:0,REFMET:Cer 18:1;O2/16:0,Cer 18:1;O2/16:0,metab-u-hilicpos,True,1,0.0054448530879155
+PE P-36:4 or PE O-36:5,REFMET:PE P-36:4 or PE O-36:5,PE P-36:4 or PE O-36:5,metab-u-hilicpos,True,2,0.0054448530879155
+PE P-34:2 or PE O-34:3,REFMET:PE P-34:2 or PE O-34:3,PE P-34:2 or PE O-34:3,metab-u-hilicpos,True,1,0.0054448530879155
+Cer 18:1;O2/16:1,REFMET:Cer 18:1;O2/16:1,Cer 18:1;O2/16:1,metab-u-hilicpos,True,1,0.0054448530879155
+PC 33:1,REFMET:PC 33:1,PC 33:1,metab-u-hilicpos,True,1,0.0054448530879155
+TG 44:1,REFMET:TG 44:1,TG 44:1,metab-u-hilicpos,True,1,0.0054448530879155
+Cer 18:1;O2/20:0,REFMET:Cer 18:1;O2/20:0,Cer 18:1;O2/20:0,metab-u-hilicpos,True,1,0.0054448530879155
+Cer 18:1;O2/23:1,REFMET:Cer 18:1;O2/23:1,Cer 18:1;O2/23:1,metab-u-hilicpos,True,1,0.0054448530879155
+Cer 18:1;O2/24:2,REFMET:Cer 18:1;O2/24:2,Cer 18:1;O2/24:2,metab-u-hilicpos,True,1,0.0054448530879155
+Cer 18:1;O2/20:1,REFMET:Cer 18:1;O2/20:1,Cer 18:1;O2/20:1,metab-u-hilicpos,True,3,0.0054448530879155
+Cer 18:1;O2/24:1,REFMET:Cer 18:1;O2/24:1,Cer 18:1;O2/24:1,metab-u-hilicpos,True,2,0.0054448530879155
+PC 36:5,REFMET:PC 36:5,PC 36:5,metab-u-hilicpos,True,1,0.0054448530879155
+SM 18:1;O2/18:3,REFMET:SM 18:1;O2/18:3,SM 18:1;O2/18:3,metab-u-hilicpos,True,2,0.0054448530879155
+7alpha-Hydroxy-4-cholesten-3-one,REFMET:7alpha-Hydroxy-4-cholesten-3-one,7alpha-Hydroxy-4-cholesten-3-one,metab-u-hilicpos,True,3,0.0054448530879155
+PC P-36:3 or PC O-36:4,REFMET:PC P-36:3 or PC O-36:4,PC P-36:3 or PC O-36:4,metab-u-hilicpos,True,2,0.0054448530879155
+PE 34:2,REFMET:PE 34:2,PE 34:2,metab-u-hilicpos,True,3,0.0054448530879155
+alpha-Tocoquinone,REFMET:alpha-Tocoquinone,alpha-Tocoquinone,metab-u-hilicpos,True,2,0.0054448530879155
+PC P-34:1 or PC O-34:2,REFMET:PC P-34:1 or PC O-34:2,PC P-34:1 or PC O-34:2,metab-u-hilicpos,True,2,0.0054448530879155
+PC P-38:5 or PC O-38:6,REFMET:PC P-38:5 or PC O-38:6,PC P-38:5 or PC O-38:6,metab-u-hilicpos,True,6,0.0055297067304238
+PC 32:2,REFMET:PC 32:2,PC 32:2,metab-u-hilicpos,True,2,0.0057263572109277
+PC 34:4,REFMET:PC 34:4,PC 34:4,metab-u-hilicpos,True,1,0.0057959611924169
+PC P-34:3 or PC O-34:4,REFMET:PC P-34:3 or PC O-34:4,PC P-34:3 or PC O-34:4,metab-u-hilicpos,True,2,0.0057959611924169
+PE P-34:1 or PE O-34:2,REFMET:PE P-34:1 or PE O-34:2,PE P-34:1 or PE O-34:2,metab-u-hilicpos,True,2,0.0057959611924169
+PE P-36:2 or PE O-36:3,REFMET:PE P-36:2 or PE O-36:3,PE P-36:2 or PE O-36:3,metab-u-hilicpos,True,1,0.0057959611924169
+Cer 18:1;O2/22:0,REFMET:Cer 18:1;O2/22:0,Cer 18:1;O2/22:0,metab-u-hilicpos,True,1,0.0057959611924169
+LPE 18:2,REFMET:LPE 18:2,LPE 18:2,metab-u-hilicpos,True,2,0.005800178003581
+Hexadecadienoic acid,REFMET:Hexadecadienoic acid,Hexadecadienoic acid,metab-u-lrpneg,True,3,0.0058547021461515
+Tauroursodeoxycholic acid,REFMET:Tauroursodeoxycholic acid,Tauroursodeoxycholic acid,metab-u-rpneg,True,1,0.0058999717174386
+SM 18:1;O2/21:0,REFMET:SM 18:1;O2/21:0,SM 18:1;O2/21:0,metab-u-hilicpos,True,2,0.0059364613023105
+PC 31:0,REFMET:PC 31:0,PC 31:0,metab-u-hilicpos,True,1,0.0059364613023105
+Glycodeoxycholic acid/Glycochenodeoxycholic acid,REFMET:Glycodeoxycholic acid/Glycochenodeoxycholic acid,Glycodeoxycholic acid/Glycochenodeoxycholic acid,metab-u-hilicpos,True,2,0.0059690681565086
+PE 36:2,REFMET:PE 36:2,PE 36:2,metab-u-hilicpos,True,1,0.0059741191186801
+DG 18:2_18:2,REFMET:DG 18:2_18:2,DG 18:2_18:2,metab-u-lrppos,True,2,0.0060556225359135
+LPE 16:0/0:0,REFMET:LPE 16:0/0:0,LPE 16:0/0:0,metab-u-lrppos,True,2,0.0061141615972883
+SM 18:1;O2/14:0,REFMET:SM 18:1;O2/14:0,SM 18:1;O2/14:0,metab-u-hilicpos,True,5,0.0063481283855509
+UMP,REFMET:UMP,UMP,meta-reg,True,2,0.0064932972500436
+SM 18:1;O2/17:0,REFMET:SM 18:1;O2/17:0,SM 18:1;O2/17:0,metab-u-hilicpos,True,2,0.0065137984738304
+3-Hydroxybenzoic acid,REFMET:3-Hydroxybenzoic acid,3-Hydroxybenzoic acid,metab-u-rpneg,True,1,0.00654453271496
+CAR 18:0,REFMET:CAR 18:0,CAR 18:0,metab-u-lrppos,True,2,0.0066431413594289
+PE P-38:5 or PE O-38:6,REFMET:PE P-38:5 or PE O-38:6,PE P-38:5 or PE O-38:6,metab-u-hilicpos,True,5,0.0067154089925676
+Behenic acid,REFMET:Behenic acid,Behenic acid,metab-u-rpneg,True,2,0.0067274564474309
+Lauric acid,REFMET:Lauric acid,Lauric acid,metab-u-rpneg,True,2,0.006888488394433
+Maleic acid,REFMET:Maleic acid,Maleic acid,metab-u-rpneg,True,1,0.0069870879252552
+SM 18:1;O2/18:0,REFMET:SM 18:1;O2/18:0,SM 18:1;O2/18:0,metab-u-hilicpos,True,3,0.0070993847890279
+CTP,REFMET:CTP,CTP,metab-t-nuc,True,1,0.0071197729463861
+FA 26:5;O2,REFMET:FA 26:5;O2,FA 26:5;O2,metab-u-lrpneg,True,1,0.0072751082223426
+PE P-38:6 or PE O-38:7,REFMET:PE P-38:6 or PE O-38:7,PE P-38:6 or PE O-38:7,metab-u-hilicpos,True,2,0.007290395356367
+Tetracosahexaenoic acid,REFMET:Tetracosahexaenoic acid,Tetracosahexaenoic acid,metab-u-lrpneg,True,3,0.0074452025639987
+TG 56:2,REFMET:TG 56:2,TG 56:2,metab-u-lrppos,True,2,0.0076601765019172
+PC P-38:4 or PC O-38:5,REFMET:PC P-38:4 or PC O-38:5,PC P-38:4 or PC O-38:5,metab-u-hilicpos,True,3,0.0077070815103582
+TG 46:2,REFMET:TG 46:2,TG 46:2,metab-u-hilicpos,True,1,0.0077070815103582
+Cer 18:1;O2/18:0,REFMET:Cer 18:1;O2/18:0,Cer 18:1;O2/18:0,metab-u-hilicpos,True,1,0.0078072937295942
+DG 36:2,REFMET:DG 36:2,DG 36:2,metab-u-lrppos,True,2,0.0078167389186893
+Eicosatrienoic acid,REFMET:Eicosatrienoic acid,Eicosatrienoic acid,metab-u-rpneg,True,3,0.0079951766517675
+Cer 18:1;O2/14:0,REFMET:Cer 18:1;O2/14:0,Cer 18:1;O2/14:0,metab-u-hilicpos,True,5,0.0080861056837103
+Histamine,REFMET:Histamine,Histamine,metab-u-hilicpos,True,1,0.0080861056837103
+PC O-30:0,REFMET:PC O-30:0,PC O-30:0,metab-u-hilicpos,True,3,0.008346916718775
+Dehydroepiandrosterone sulfate,REFMET:Dehydroepiandrosterone sulfate,Dehydroepiandrosterone sulfate,metab-u-rpneg,True,2,0.0084539080668066
+LPC 22:1,REFMET:LPC 22:1,LPC 22:1,metab-u-lrppos,True,4,0.0085183831790709
+Tauromuricholic acid,REFMET:Tauromuricholic acid,Tauromuricholic acid,metab-u-rpneg,True,2,0.0085578800959766
+SM 18:1;O2/20:1,REFMET:SM 18:1;O2/20:1,SM 18:1;O2/20:1,metab-u-hilicpos,True,1,0.0085695405117392
+PE P-38:4 or PE O-38:5,REFMET:PE P-38:4 or PE O-38:5,PE P-38:4 or PE O-38:5,metab-u-hilicpos,True,2,0.0086052015810654
+PC 30:0,REFMET:PC 30:0,PC 30:0,metab-u-hilicpos,True,3,0.0086052015810654
+PE 38:4,REFMET:PE 38:4,PE 38:4,metab-u-hilicpos,True,1,0.0086052015810654
+SM 18:1;O2/20:0,REFMET:SM 18:1;O2/20:0,SM 18:1;O2/20:0,metab-u-hilicpos,True,2,0.0086052015810654
+PE 36:3,REFMET:PE 36:3,PE 36:3,metab-u-hilicpos,True,1,0.0086052015810654
+Glycine,REFMET:Glycine,Glycine,meta-reg,True,3,0.0086346108165035
+PC 33:2,REFMET:PC 33:2,PC 33:2,metab-u-hilicpos,True,3,0.0086497920204248
+Heneicosapentaenoic acid,REFMET:Heneicosapentaenoic acid,Heneicosapentaenoic acid,metab-u-lrpneg,True,2,0.0086929909483799
+Cer 18:1;O2/24:0,REFMET:Cer 18:1;O2/24:0,Cer 18:1;O2/24:0,metab-u-hilicpos,True,1,0.0086987663896981
+N(6)-Methyllysine,REFMET:N(6)-Methyllysine,N(6)-Methyllysine,metab-u-hilicpos,True,2,0.008877132052842
+PE O-37:2,REFMET:PE O-37:2,PE O-37:2,metab-u-lrppos,True,1,0.0089560412449136
+PC P-38:3 or PC O-38:4,REFMET:PC P-38:3 or PC O-38:4,PC P-38:3 or PC O-38:4,metab-u-hilicpos,True,1,0.0090124650149853
+PE P-40:4 or PE O-40:5,REFMET:PE P-40:4 or PE O-40:5,PE P-40:4 or PE O-40:5,metab-u-hilicpos,True,1,0.0091399499846838
+SM 30:1;O2,REFMET:SM 30:1;O2,SM 30:1;O2,metab-u-lrppos,True,3,0.0091664244756978
+Trigonelline,REFMET:Trigonelline,Trigonelline,metab-u-hilicpos,True,2,0.0091754909522933
+DG 18:1_18:2,REFMET:DG 18:1_18:2,DG 18:1_18:2,metab-u-lrppos,True,2,0.0094517269349899
+PC P-38:6 or PC O-38:7,REFMET:PC P-38:6 or PC O-38:7,PC P-38:6 or PC O-38:7,metab-u-hilicpos,True,5,0.0094992421585352
+PC P-32:1 or PC O-32:2,REFMET:PC P-32:1 or PC O-32:2,PC P-32:1 or PC O-32:2,metab-u-hilicpos,True,1,0.0094992421585352
+PC 33:0,REFMET:PC 33:0,PC 33:0,metab-u-hilicpos,True,2,0.0094992421585352
+PE P-34:0 or PE O-34:1,REFMET:PE P-34:0 or PE O-34:1,PE P-34:0 or PE O-34:1,metab-u-hilicpos,True,2,0.0094992421585352
+PC 34:2,REFMET:PC 34:2,PC 34:2,metab-u-hilicpos,True,1,0.0094992421585352
+PC 36:3,REFMET:PC 36:3,PC 36:3,metab-u-hilicpos,True,1,0.0094992421585352
+PC P-36:5 or PC O-36:6,REFMET:PC P-36:5 or PC O-36:6,PC P-36:5 or PC O-36:6,metab-u-hilicpos,True,2,0.0094992421585352
+SM 18:1;O2/19:0,REFMET:SM 18:1;O2/19:0,SM 18:1;O2/19:0,metab-u-hilicpos,True,1,0.0094992421585352
+PC O-35:2,REFMET:PC O-35:2,PC O-35:2,metab-u-lrppos,True,3,0.009562971897478
+PC 36:4,REFMET:PC 36:4,PC 36:4,metab-u-hilicpos,True,1,0.0096994651785424
+Deoxyuridine,REFMET:Deoxyuridine,Deoxyuridine,metab-u-ionpneg,True,3,0.0097813180076066
+DHA,REFMET:DHA,DHA,metab-u-rpneg,True,1,0.0098606608973277
+Pseudouridine,REFMET:Pseudouridine,Pseudouridine,metab-u-hilicpos,True,3,0.0099738042984287
+LPC 22:6,REFMET:LPC 22:6,LPC 22:6,metab-u-hilicpos,True,1,0.0099851361091685
+Oxidized glutathione,REFMET:Oxidized glutathione,Oxidized glutathione,metab-u-ionpneg,True,2,0.0099874351876024
+Niacinamide,REFMET:Niacinamide,Niacinamide,metab-u-hilicpos,True,2,0.0101398091845283
+Hex3Cer 18:1;O2/18:0,REFMET:Hex3Cer 18:1;O2/18:0,Hex3Cer 18:1;O2/18:0,metab-u-lrppos,True,4,0.0104501102387396
+PC 32:3,REFMET:PC 32:3,PC 32:3,metab-u-hilicpos,True,2,0.0106353290093946
+SM 18:1;O2/22:0,REFMET:SM 18:1;O2/22:0,SM 18:1;O2/22:0,metab-u-hilicpos,True,2,0.010904293497756
+LPC 18:0,REFMET:LPC 18:0,LPC 18:0,metab-u-hilicpos,True,1,0.0111266895402877
+PC O-40:5,REFMET:PC O-40:5,PC O-40:5,metab-u-lrppos,True,1,0.011243545445672
+PE 36:1,REFMET:PE 36:1,PE 36:1,metab-u-lrppos,True,1,0.011243545445672
+Adipic acid,REFMET:Adipic acid,Adipic acid,metab-u-rppos,True,1,0.0112769340397086
+N-Methyl-proline,REFMET:N-Methyl-proline,N-Methyl-proline,metab-u-hilicpos,True,1,0.0115150302075281
+Glu-Lys,REFMET:Glu-Lys,Glu-Lys,metab-u-hilicpos,True,1,0.0115173122827701
+PC 18:1_18:2,REFMET:PC 18:1_18:2,PC 18:1_18:2,metab-u-lrpneg,True,2,0.0117420313855371
+FA 24:1;O2,REFMET:FA 24:1;O2,FA 24:1;O2,metab-u-lrpneg,True,1,0.0117420313855371
+Indole-3-methyl acetate,REFMET:Indole-3-methyl acetate,Indole-3-methyl acetate,metab-u-rppos,True,3,0.0119356085577561
+Pentadecenoic acid,REFMET:Pentadecenoic acid,Pentadecenoic acid,metab-u-lrpneg,True,1,0.012123109623644
+LPC 18:1,REFMET:LPC 18:1,LPC 18:1,metab-u-rppos,True,1,0.0122397872938599
+PC 42:6,REFMET:PC 42:6,PC 42:6,metab-u-lrppos,True,1,0.0130730040954757
+TG 56:5,REFMET:TG 56:5,TG 56:5,metab-u-lrppos,True,1,0.013143102039618
+TG 54:2,REFMET:TG 54:2,TG 54:2,metab-u-lrppos,True,1,0.0133534406270992
+CE 22:6,REFMET:CE 22:6,CE 22:6,metab-u-lrppos,True,1,0.0135719360563472
+Spermidine,REFMET:Spermidine,Spermidine,metab-u-rppos,True,3,0.0138352471628618
+PC 30:1,REFMET:PC 30:1,PC 30:1,metab-u-hilicpos,True,1,0.0144225468300858
+4-Acetamidobutanoic acid,REFMET:4-Acetamidobutanoic acid,4-Acetamidobutanoic acid,metab-u-hilicpos,True,2,0.014875561281022
+LPC P-18:0 or LPC O-18:1,REFMET:LPC P-18:0 or LPC O-18:1,LPC P-18:0 or LPC O-18:1,metab-u-hilicpos,True,3,0.0149626722038561
+Eicosadienoic acid,REFMET:Eicosadienoic acid,Eicosadienoic acid,metab-u-lrpneg,True,1,0.0150157234123188
+PC 32:1,REFMET:PC 32:1,PC 32:1,metab-u-rppos,True,1,0.0154739217149742
+TG 56:1,REFMET:TG 56:1,TG 56:1,metab-u-lrppos,True,1,0.0156607203609712
+AMP,REFMET:AMP,AMP,meta-reg,True,1,0.0159347917848031
+SM 18:1;O2/21:2,REFMET:SM 18:1;O2/21:2,SM 18:1;O2/21:2,metab-u-hilicpos,True,1,0.0160045092380371
+Cer 18:1;O2/23:0,REFMET:Cer 18:1;O2/23:0,Cer 18:1;O2/23:0,metab-u-hilicpos,True,1,0.0166185266584949
+DG 36:4,REFMET:DG 36:4,DG 36:4,metab-u-lrppos,True,2,0.0167452336573556
+2-Piperidinone,REFMET:2-Piperidinone,2-Piperidinone,metab-u-rppos,True,3,0.0169021950206349
+PC 16:0_20:4,REFMET:PC 16:0_20:4,PC 16:0_20:4,metab-u-lrpneg,True,1,0.0172985263364241
+SM 18:1;O2/23:2,REFMET:SM 18:1;O2/23:2,SM 18:1;O2/23:2,metab-u-hilicpos,True,2,0.0175978400535806
+FA 22:6;O,REFMET:FA 22:6;O,FA 22:6;O,metab-u-lrpneg,True,2,0.0178191468633399
+Rosmarinic acid,REFMET:Rosmarinic acid,Rosmarinic acid,metab-u-rpneg,True,2,0.0182770854197488
+Pyridoxamine,REFMET:Pyridoxamine,Pyridoxamine,metab-u-hilicpos,True,1,0.0184093546369289
+Linoleic acid,REFMET:Linoleic acid,Linoleic acid,metab-u-lrpneg,True,1,0.0184666579931542
+PE 34:0,REFMET:PE 34:0,PE 34:0,metab-u-hilicpos,True,1,0.018819135562506
+gamma-Glutamylmethionine,REFMET:gamma-Glutamylmethionine,gamma-Glutamylmethionine,metab-u-rppos,True,2,0.0188292669681986
+PE O-40:6,REFMET:PE O-40:6,PE O-40:6,metab-u-lrppos,True,1,0.0193841339440175
+Hexose,REFMET:Hexose,Hexose,metab-u-ionpneg,True,1,0.0193923323633016
+Aspartic acid,REFMET:Aspartic acid,Aspartic acid,meta-reg,True,1,0.0198994481955385
+"N2,N2-Dimethylguanosine","REFMET:N2,N2-Dimethylguanosine","N2,N2-Dimethylguanosine",metab-u-hilicpos,True,1,0.0199980225220893
+CAR DC5:0,REFMET:CAR DC5:0,CAR DC5:0,metab-u-hilicpos,True,1,0.0200051029018234
+PE 38:6,REFMET:PE 38:6,PE 38:6,metab-u-hilicpos,True,2,0.0202773536426635
+DG 18:2_20:2,REFMET:DG 18:2_20:2,DG 18:2_20:2,metab-u-lrppos,True,1,0.020279456913149
+SM 38:0;O2,REFMET:SM 38:0;O2,SM 38:0;O2,metab-u-lrppos,True,1,0.0214423887507724
+Cer 18:1;O2/25:0,REFMET:Cer 18:1;O2/25:0,Cer 18:1;O2/25:0,metab-u-lrppos,True,1,0.0219635689250991
+Kynurenine,REFMET:Kynurenine,Kynurenine,metab-u-rppos,True,2,0.0225580485862483
+Indole-4-carboxaldehyde,REFMET:Indole-4-carboxaldehyde,Indole-4-carboxaldehyde,metab-u-hilicpos,True,1,0.02266390360158
+LPC 14:0,REFMET:LPC 14:0,LPC 14:0,metab-u-rppos,True,1,0.0234871134514864
+LPC 16:0,REFMET:LPC 16:0,LPC 16:0,metab-u-hilicpos,True,2,0.0234871134514864
+LPE 18:0,REFMET:LPE 18:0,LPE 18:0,metab-u-hilicpos,True,2,0.0239680235742184
+Glycohyodeoxycholic acid,REFMET:Glycohyodeoxycholic acid,Glycohyodeoxycholic acid,metab-u-rpneg,True,2,0.02427226065467
+PE 32:0,REFMET:PE 32:0,PE 32:0,metab-u-hilicpos,True,1,0.0244955451599817
+FA 18:2;O2,REFMET:FA 18:2;O2,FA 18:2;O2,metab-u-lrpneg,True,1,0.024539033414266
+Taurocholic acid,REFMET:Taurocholic acid,Taurocholic acid,metab-u-rpneg,True,1,0.0250710852986123
+PC O-37:4,REFMET:PC O-37:4,PC O-37:4,metab-u-lrppos,True,1,0.0251096561041032
+SM 43:3;O2,REFMET:SM 43:3;O2,SM 43:3;O2,metab-u-lrppos,True,1,0.0258260511932092
+"(E,E)-Trichostachine","REFMET:(E,E)-Trichostachine","(E,E)-Trichostachine",metab-u-hilicpos,True,1,0.0268342155613237
+Allantoin,REFMET:Allantoin,Allantoin,metab-u-hilicpos,True,1,0.0269590778388861
+1-Methyl nicotinamide,REFMET:1-Methyl nicotinamide,1-Methyl nicotinamide,metab-u-hilicpos,True,1,0.026970919622049
+PC 28:0,REFMET:PC 28:0,PC 28:0,metab-u-hilicpos,True,2,0.0270834750852785
+PE P-35:2 or PE O-35:3,REFMET:PE P-35:2 or PE O-35:3,PE P-35:2 or PE O-35:3,metab-u-hilicpos,True,1,0.0276978623075469
+PC 34:3,REFMET:PC 34:3,PC 34:3,metab-u-lrppos,True,2,0.027790479619049
+LPC 17:0,REFMET:LPC 17:0,LPC 17:0,metab-u-hilicpos,True,2,0.027790479619049
+LPC 20:4,REFMET:LPC 20:4,LPC 20:4,metab-u-rppos,True,1,0.027790479619049
+FA 18:3;O,REFMET:FA 18:3;O,FA 18:3;O,metab-u-lrpneg,True,1,0.0281322518149339
+LPC P-16:0 or LPC O-16:1,REFMET:LPC P-16:0 or LPC O-16:1,LPC P-16:0 or LPC O-16:1,metab-u-hilicpos,True,2,0.0284186760564101
+N-Acetylaspartic acid,REFMET:N-Acetylaspartic acid,N-Acetylaspartic acid,metab-u-hilicpos,True,1,0.0284404478162885
+Oxaloacetic acid,REFMET:Oxaloacetic acid,Oxaloacetic acid,metab-t-tca,True,1,0.0284418316603953
+Pyroglutamic acid,REFMET:Pyroglutamic acid,Pyroglutamic acid,metab-u-rppos,True,1,0.0285099125910422
+Choline phosphate,REFMET:Choline phosphate,Choline phosphate,metab-u-hilicpos,True,3,0.0285276740233692
+Sphinganine,REFMET:Sphinganine,Sphinganine,meta-reg,True,1,0.029121754702606
+SM 18:1;O2/20:2,REFMET:SM 18:1;O2/20:2,SM 18:1;O2/20:2,metab-u-hilicpos,True,2,0.0293023806643229
+Leu-Pro,REFMET:Leu-Pro,Leu-Pro,metab-u-rppos,True,1,0.0294339642908457
+PC O-37:3,REFMET:PC O-37:3,PC O-37:3,metab-u-lrppos,True,1,0.0297727694676722
+Symmetric dimethylarginine,REFMET:Symmetric dimethylarginine,Symmetric dimethylarginine,metab-u-hilicpos,True,1,0.0303410505480372
+1-DeoxyCer 18:0;O/24:1,REFMET:1-DeoxyCer 18:0;O/24:1,1-DeoxyCer 18:0;O/24:1,metab-u-hilicpos,True,1,0.0304360014530642
+PC 18:1_20:3,REFMET:PC 18:1_20:3,PC 18:1_20:3,metab-u-lrpneg,True,2,0.0305205830114522
+Hex2Cer 18:1;O2/24:0,REFMET:Hex2Cer 18:1;O2/24:0,Hex2Cer 18:1;O2/24:0,metab-u-lrppos,True,1,0.0312031074164529
+PC O-36:5,REFMET:PC O-36:5,PC O-36:5,metab-u-lrppos,True,2,0.0312031074164529
+UDP-N-acetylglucosamine,REFMET:UDP-N-acetylglucosamine,UDP-N-acetylglucosamine,metab-u-ionpneg,True,1,0.0314360672777934
+Sedoheptulose 7-phosphate,REFMET:Sedoheptulose 7-phosphate,Sedoheptulose 7-phosphate,metab-u-ionpneg,True,1,0.0314360672777934
+LPC O-18:0,REFMET:LPC O-18:0,LPC O-18:0,metab-u-hilicpos,True,1,0.0315333548812003
+Acetyl-CoA,REFMET:Acetyl-CoA,Acetyl-CoA,meta-reg,True,1,0.031810654787453
+FAD,REFMET:FAD,FAD,metab-u-ionpneg,True,1,0.031810654787453
+N-Acetylglucosamine 1-phosphate,REFMET:N-Acetylglucosamine 1-phosphate,N-Acetylglucosamine 1-phosphate,metab-u-ionpneg,True,1,0.0321738429859868
+Tetradecenoic acid,REFMET:Tetradecenoic acid,Tetradecenoic acid,metab-u-lrpneg,True,2,0.0329350502306421
+Lysine,REFMET:Lysine,Lysine,metab-u-hilicpos,True,2,0.0339552261954233
+Deoxycholic acid,REFMET:Deoxycholic acid,Deoxycholic acid,metab-u-rpneg,True,1,0.034053694734376
+Glycolithocholic acid,REFMET:Glycolithocholic acid,Glycolithocholic acid,metab-u-rpneg,True,1,0.0343159236980846
+TG 58:2,REFMET:TG 58:2,TG 58:2,metab-u-lrppos,True,2,0.0344958263964152
+DG 18:0_18:1,REFMET:DG 18:0_18:1,DG 18:0_18:1,metab-u-lrppos,True,1,0.0344958263964152
+PE O-36:4,REFMET:PE O-36:4,PE O-36:4,metab-u-lrppos,True,1,0.0344958263964152
+PC P-35:2 or PC O-35:3,REFMET:PC P-35:2 or PC O-35:3,PC P-35:2 or PC O-35:3,metab-u-hilicpos,True,2,0.0346047330492033
+1-Methyluric acid,REFMET:1-Methyluric acid,1-Methyluric acid,metab-u-hilicpos,True,1,0.0346047330492033
+PE 36:4,REFMET:PE 36:4,PE 36:4,metab-u-hilicpos,True,2,0.0351007013610735
+PE O-17:1/20:4,REFMET:PE O-17:1/20:4,PE O-17:1/20:4,metab-u-lrppos,True,1,0.0351402722004012
+Pro-Tyr,REFMET:Pro-Tyr,Pro-Tyr,metab-u-hilicpos,True,1,0.0351852103900211
+Ectoine,REFMET:Ectoine,Ectoine,metab-u-hilicpos,True,2,0.0353413641751519
+N-Acetylornithine,REFMET:N-Acetylornithine,N-Acetylornithine,metab-u-hilicpos,True,1,0.0353413641751519
+LPE 22:6,REFMET:LPE 22:6,LPE 22:6,metab-u-lrpneg,True,1,0.0355665284534185
+PS P-36:2 or PS O-36:3,REFMET:PS P-36:2 or PS O-36:3,PS P-36:2 or PS O-36:3,metab-u-hilicpos,True,2,0.0356308360451104
+Thiamine,REFMET:Thiamine,Thiamine,metab-u-hilicpos,True,2,0.0364210232333305
+3-Hydroxyanthranilic acid,REFMET:3-Hydroxyanthranilic acid,3-Hydroxyanthranilic acid,metab-u-hilicpos,True,2,0.0366389426162899
+5alpha-Androstane-3alpha-ol-17-one sulfate,REFMET:5alpha-Androstane-3alpha-ol-17-one sulfate,5alpha-Androstane-3alpha-ol-17-one sulfate,metab-u-rpneg,True,1,0.036821580900042
+PC 18:1/18:1,REFMET:PC 18:1/18:1,PC 18:1/18:1,metab-u-lrpneg,True,1,0.0374786394846972
+3-Methylhistidine,REFMET:3-Methylhistidine,3-Methylhistidine,metab-u-hilicpos,True,1,0.0377227090035324
+PC O-36:2,REFMET:PC O-36:2,PC O-36:2,metab-u-lrppos,True,1,0.0382615845601415
+PC O-40:6,REFMET:PC O-40:6,PC O-40:6,metab-u-lrppos,True,2,0.0382615845601415
+MG 18:1,REFMET:MG 18:1,MG 18:1,metab-u-rppos,True,1,0.0383035360590175
+GlcCer 18:1;O2/22:0,REFMET:GlcCer 18:1;O2/22:0,GlcCer 18:1;O2/22:0,metab-u-hilicpos,True,1,0.0383232589068693
+Glycodeoxycholic acid,REFMET:Glycodeoxycholic acid,Glycodeoxycholic acid,metab-u-rpneg,True,1,0.0384339062882245
+Cer 18:1;O2/4:0,REFMET:Cer 18:1;O2/4:0,Cer 18:1;O2/4:0,metab-u-hilicpos,True,1,0.0385022970980196
+PE O-20:1/22:5,REFMET:PE O-20:1/22:5,PE O-20:1/22:5,metab-u-lrppos,True,1,0.0385880614866056
+Cystathionine,REFMET:Cystathionine,Cystathionine,metab-t-amines,True,1,0.0386061633531044
+Palmitoyl-EA,REFMET:Palmitoyl-EA,Palmitoyl-EA,metab-u-hilicpos,True,1,0.038934164667348
+LPE 16:0,REFMET:LPE 16:0,LPE 16:0,metab-u-lrpneg,True,1,0.0389944911948796
+Tricosylic acid,REFMET:Tricosylic acid,Tricosylic acid,metab-u-rpneg,True,1,0.0392899744785563
+CAR 17:0,REFMET:CAR 17:0,CAR 17:0,metab-u-lrppos,True,1,0.0397781415388809
+CAR 20:1,REFMET:CAR 20:1,CAR 20:1,metab-u-lrppos,True,1,0.0397781415388809
+GlcCer 18:1;O2/18:0,REFMET:GlcCer 18:1;O2/18:0,GlcCer 18:1;O2/18:0,metab-u-hilicpos,True,1,0.0400571948183224
+FA 19:2;O2,REFMET:FA 19:2;O2,FA 19:2;O2,metab-u-lrpneg,True,3,0.0406117752879487
+Methionine sulfoxide,REFMET:Methionine sulfoxide,Methionine sulfoxide,metab-u-hilicpos,True,1,0.0409781385324665
+DG 16:1_18:1,REFMET:DG 16:1_18:1,DG 16:1_18:1,metab-u-lrppos,True,1,0.041302667223603
+LPE 17:0,REFMET:LPE 17:0,LPE 17:0,metab-u-hilicpos,True,2,0.0415964817041617
+Oleoyl-EA,REFMET:Oleoyl-EA,Oleoyl-EA,metab-u-hilicpos,True,1,0.0415964817041617
+2-Amino-6-hydroxyhexanoic acid,REFMET:2-Amino-6-hydroxyhexanoic acid,2-Amino-6-hydroxyhexanoic acid,metab-u-hilicpos,True,2,0.0417080930598154
+FA 19:3;O2,REFMET:FA 19:3;O2,FA 19:3;O2,metab-u-lrpneg,True,1,0.041901712518801
+Hydroxyhexadecanoic acid,REFMET:Hydroxyhexadecanoic acid,Hydroxyhexadecanoic acid,metab-u-lrpneg,True,1,0.0422127278007855
+PE O-16:1/22:4,REFMET:PE O-16:1/22:4,PE O-16:1/22:4,metab-u-lrppos,True,1,0.0424294520486288
+TG 58:1,REFMET:TG 58:1,TG 58:1,metab-u-lrppos,True,1,0.0424339077857082
+LPC 18:2,REFMET:LPC 18:2,LPC 18:2,metab-u-rppos,True,1,0.0438615643936142
+CAR 4:0;3Me,REFMET:CAR 4:0;3Me,CAR 4:0;3Me,metab-u-rppos,True,1,0.0438615643936142
+PC O-28:0,REFMET:PC O-28:0,PC O-28:0,metab-u-hilicpos,True,1,0.0438837329805727
+PGE2 ethanolamide,REFMET:PGE2 ethanolamide,PGE2 ethanolamide,metab-t-oxylipneg,True,1,0.0439594192336694
+Homocitrulline,REFMET:Homocitrulline,Homocitrulline,metab-u-hilicpos,True,1,0.044394170044848
+Heneicosatrienoic acid,REFMET:Heneicosatrienoic acid,Heneicosatrienoic acid,metab-u-lrpneg,True,1,0.0452989226179425
+PC P-35:1 or PC O-35:2,REFMET:PC P-35:1 or PC O-35:2,PC P-35:1 or PC O-35:2,metab-u-hilicpos,True,1,0.0461259196643372
+"5,6-Dihydrouridine","REFMET:5,6-Dihydrouridine","5,6-Dihydrouridine",metab-u-hilicpos,True,1,0.0466468739649051
+PC 40:1,REFMET:PC 40:1,PC 40:1,metab-u-lrppos,True,1,0.0473603419904684
+TG 18:1/18:1/18:1,REFMET:TG 18:1/18:1/18:1,TG 18:1/18:1/18:1,metab-u-lrppos,True,1,0.0473603419904684
+PC 35:3,REFMET:PC 35:3,PC 35:3,metab-u-rppos,True,1,0.0475457572132736
+Methylimidazoleacetic acid,REFMET:Methylimidazoleacetic acid,Methylimidazoleacetic acid,metab-u-hilicpos,True,1,0.0476898332074592
+CAR 20:0,REFMET:CAR 20:0,CAR 20:0,metab-u-rppos,True,1,0.0480346046315874
+Retinol,REFMET:Retinol,Retinol,metab-u-hilicpos,True,1,0.0492644025686131
+Muricholic acid,REFMET:Muricholic acid,Muricholic acid,metab-u-rpneg,True,1,0.0497947195431364

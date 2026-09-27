@@ -1,0 +1,8 @@
+file,rows,cols,nonzero,density,note
+human_gene_contrast_adjacency_12815x21.csv,12815,21,32735,0.12163944781970533,"genes x (tissue|contrast|timepoint), signed -log10 adj p of the gene's strongest molecule"
+rat_gene_contrast_adjacency_11283x150.csv,11283,150,98476,0.058185470767230935,"genes x (tissue|contrast|timepoint), signed -log10 adj p of the gene's strongest molecule"
+human_metab_contrast_adjacency_529x21.csv,529,21,1532,0.1379062021784139,"metabolites x (tissue|contrast|timepoint), signed -log10 adj p"
+rat_metab_contrast_adjacency_1471x140.csv,1471,140,12446,0.06043507817811013,"metabolites x (tissue|contrast|timepoint), signed -log10 adj p"
+gene_tissue_adjacency_15894x23.csv,15894,23,39834,0.10896646806834408,"human-ortholog genes x species:tissue, signed -log10 adj p of the strongest response at any timepoint"
+human_metab_protein_coreg_adjacency_431x426.csv,431,426,2875,0.01565852967767938,"metabolites x proteins, Pearson r of response profiles (|r| >= 0.9, top 10 per metabolite; strongest tissue kept)"
+rat_metab_protein_coreg_adjacency_1153x1980.csv,1153,1980,12264,0.0053720202896265345,"metabolites x proteins, Pearson r of response profiles (|r| >= 0.9, top 10 per metabolite; strongest tissue kept)"
