@@ -127,24 +127,88 @@ PH = {"p": phe[":START_ID"].map(phi).tolist(), "g": phe[":END_ID"].map(gi).tolis
       "p_value": phe["p_value"].map(lambda x: float(f"{x:.2g}")).tolist()}
 phm = E("MEASURED_IN")
 
+# ---- cross-references for clickable database links (explorer Details pane)
+PKG_H = os.environ.get("HUMAN_PKG", "processed/human_pkg")
+PKG_R = os.environ.get("RAT_PKG", "processed/rat_pkg")
+hf = pd.read_csv(f"{PKG_H}/HUMAN_FEATURE_TO_GENE.tsv.gz", sep="\t", low_memory=False,
+                 usecols=["assay", "feature_id", "ensembl_gene", "uniprot", "refmet_name", "refmet_id", "kegg_id"])
+# human gene -> UniProt accession (most frequent across protein assays; 6-char Swiss-Prot style preferred)
+up = hf.dropna(subset=["uniprot", "ensembl_gene"]).copy()
+up["uniprot"] = up.uniprot.astype(str).str.split(r"[;,|]").str[0].str.split("-").str[0]
+up["score"] = up.uniprot.str.len().eq(6).astype(int)
+up = up.groupby(["ensembl_gene", "uniprot"]).agg(n=("feature_id", "size"), score=("score", "first")).reset_index() \
+    .sort_values(["score", "n"], ascending=False).drop_duplicates("ensembl_gene")
+h_up = dict(zip("ENSEMBL:" + up.ensembl_gene, up.uniprot))
+# rat gene -> UniProt, RGD (MoTrPAC rat-to-human table)
+rt = pd.read_csv(f"{PKG_R}/RAT_TO_HUMAN_GENE.tsv.gz", sep="\t", low_memory=False)
+rt = rt.dropna(subset=["RAT_ENSEMBL_ID"]).drop_duplicates("RAT_ENSEMBL_ID")
+r_up = dict(zip("ENSEMBL:" + rt.RAT_ENSEMBL_ID, rt.RAT_UNIPROT_ID.fillna("").astype(str).str.split(";").str[0]))
+r_rgd = dict(zip("ENSEMBL:" + rt.RAT_ENSEMBL_ID, rt.RAT_GENE_RGD_ID))
+gene_up = [h_up.get(g) or r_up.get(g) or "" for g in gene["id"]]
+gene_rgd = [int(r_rgd[g]) if g in r_rgd and pd.notna(r_rgd[g]) else None for g in gene["id"]]
+gene_ez = [int(x) if pd.notna(x) else None for x in gene["entrez_id"]]
+# feature-level extras: Olink UniProt; metabolite RefMet ID + KEGG compound
+ol = hf[hf.assay == "prot-ol"].dropna(subset=["uniprot"]).drop_duplicates("feature_id")
+ol_up = dict(zip("human:prot-ol:" + ol.feature_id, ol.uniprot.astype(str).str.split(r"[;,|]").str[0]))
+mt = hf[hf.assay == "metab"].dropna(subset=["refmet_name"]).drop_duplicates("refmet_name")
+met_x = dict(zip("REFMET:" + mt.refmet_name, zip(mt.refmet_id.fillna(""), mt.kegg_id.fillna(""))))
+fx = {}
+for i, fid in enumerate(feats["id"]):
+    if fid in ol_up: fx[i] = ol_up[fid]
+    elif fid in met_x and (met_x[fid][0] or met_x[fid][1]): fx[i] = "|".join(met_x[fid])
+pc = hf[hf.assay == "prot-clinical"].dropna(subset=["uniprot"])
+hf_ez = pd.read_csv(f"{PKG_H}/HUMAN_FEATURE_TO_GENE.tsv.gz", sep="\t", low_memory=False, usecols=["assay", "feature_id", "entrez_gene"])
+pc_ez = hf_ez[hf_ez.assay == "prot-clinical"].set_index("feature_id").entrez_gene.to_dict()
+pheno_x = {"human:pheno:" + r.feature_id: [str(r.uniprot).split(";")[0], int(pc_ez[r.feature_id]) if pd.notna(pc_ez.get(r.feature_id)) else None]
+           for r in pc.itertuples()}
+print("xrefs: genes with UniProt", sum(bool(x) for x in gene_up), "| Entrez", sum(x is not None for x in gene_ez),
+      "| RGD", sum(x is not None for x in gene_rgd), "| feature extras", len(fx))
+
+# ---- disease & drug layer (Hetionet [R2]; built by scripts/add_disease_layer.py)
+DZ = None
+if os.path.exists(f"{EX}/nodes_Disease.csv.gz"):
+    dzn = N("Disease"); cpn = N("Compound")
+    dzi = {k: i for i, k in enumerate(dzn["id"])}; cpi = {k: i for i, k in enumerate(cpn["id"])}
+    def pr(t, am, bm, extra=None):
+        d = E(t); d = d[d[":START_ID"].isin(am) & d[":END_ID"].isin(bm)]
+        out = [d[":START_ID"].map(am).tolist(), d[":END_ID"].map(bm).tolist()]
+        return out, d
+    assoc, _ = pr("ASSOCIATED_WITH", gni, dzi)
+    up, _ = pr("UP_IN_DISEASE", gni, dzi); dn, _ = pr("DOWN_IN_DISEASE", gni, dzi)
+    binds, _ = pr("BINDS", cpi, gni)
+    tr, _ = pr("TREATS", cpi, dzi); pa, _ = pr("PALLIATES", cpi, dzi)
+    de = E("DISEASE_GENES_ENRICHED_IN"); de = de[de[":START_ID"].isin(dzi) & de[":END_ID"].isin(ti)]
+    dc = pd.concat([E("EXERCISE_OPPOSES").assign(k=1), E("EXERCISE_MIMICS").assign(k=-1)]); dc = dc[dc[":START_ID"].isin(dzi) & dc[":END_ID"].isin(ti)]
+    DZ = {"diseases": {"id": dzn["id"].tolist(), "name": dzn["name"].tolist()},
+          "compounds": {"id": cpn["id"].tolist(), "name": cpn["name"].tolist()},
+          "assoc": assoc, "sig": [up[0] + dn[0], up[1] + dn[1], [1] * len(up[0]) + [-1] * len(dn[0])],
+          "binds": binds, "treats": [tr[0] + pa[0], tr[1] + pa[1], [1] * len(tr[0]) + [0] * len(pa[0])],
+          "enr": {"z": de[":START_ID"].map(dzi).tolist(), "t": de[":END_ID"].map(ti).tolist(), "k": de["overlap"].tolist(), "K": de["disease_genes_measured"].tolist(),
+                  "n": de["responding_genes"].tolist(), "N": de["measured_genes"].tolist(), "fold": de["fold_enrichment"].round(2).tolist(),
+                  "ap": de["adj_p_value"].map(lambda x: float(f"{x:.2g}")).tolist(), "up": de["n_up"].tolist(), "down": de["n_down"].tolist()},
+          "dir": {"z": dc[":START_ID"].map(dzi).tolist(), "t": dc[":END_ID"].map(ti).tolist(), "n": dc["genes_compared"].tolist(),
+                  "opp": dc["opposite"].tolist(), "f": dc["fraction_opposite"].round(3).tolist(), "ap": dc["adj_p_value"].map(lambda x: float(f"{x:.2g}")).tolist(), "k": dc["k"].tolist()}}
+    print("disease layer:", len(dzn), "diseases,", len(cpn), "compounds,", len(assoc[0]), "associations,", len(de), "enrichments,", len(dc), "direction tests")
+
 data = {
-    "tissues": tis[["id", "name", "species"]].values.tolist(),
+    "tissues": tis[["id", "name", "species", "uberon_id"]].fillna("").values.tolist(),
     "groups": grp[["id", "species", "modality", "regimen", "description"]].values.tolist(),
     "timepoints": TP, "assays": assays,
     "genes": {"id": gene["id"].tolist(), "sym": gene["symbol"].fillna("").tolist(),
-              "sp": gene["species"].map({"rat": 0, "human": 1}).tolist()},
+              "sp": gene["species"].map({"rat": 0, "human": 1}).tolist(),
+              "ez": gene_ez, "up": gene_up, "rgd": gene_rgd},
     "pathways": {"id": pw["id"].tolist(), "name": pw["name"].tolist(), "db": pw["database"].tolist(),
                  "members": members, "sites": site_members},
     "ftypes": FEAT,
     "features": {"id": feats["id"].tolist(), "name": feats["name"].tolist(), "type": feats["ftype"].tolist(),
                  "sp": feats["species"].map({"rat": 0, "human": 1, "rat;human": 2}).tolist(),
-                 "genes": fg},
+                 "genes": fg, "x": {str(k): v for k, v in fx.items()}},
     "reg": R, "penr": PE, "coreg": CO,
     "ortho": [orth[":START_ID"].map(gni).tolist(), orth[":END_ID"].map(gni).tolist()],
     "ppi": PPI, "lr": LR, "kin": KIN,
     "orthosite": [OS[":START_ID"].map(fi).tolist(), OS[":END_ID"].map(fi).tolist()],
     "pheno": {"id": ph["id"].tolist(), "name": ph["name"].tolist(), "species": ph["species"].tolist(),
-              "unit": ph["unit"].tolist(), "edges": PH,
+              "unit": ph["unit"].tolist(), "edges": PH, "x": [pheno_x.get(i) for i in ph["id"]],
               "measured": [phm[":START_ID"].map(phi).tolist(), phm[":END_ID"].map(ti).tolist()]},
 }
 def clean(x):
@@ -161,6 +225,7 @@ def clean(x):
     return x
 
 
+if DZ: data["dz"] = DZ
 data["refs"] = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "refs", "references.json")))
 data = clean(data)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)

@@ -1,5 +1,6 @@
-src <- "/home/claude/ekg/raw/rat/MotrpacRatTraining6moData/data"
-out <- "/home/claude/ekg/processed/rat_pkg"
+args <- commandArgs(TRUE)
+src <- if (length(args) >= 1) args[1] else "raw/rat/MotrpacRatTraining6moData/data"
+out <- if (length(args) >= 2) args[2] else "processed/rat_pkg"; dir.create(out, recursive = TRUE, showWarnings = FALSE)
 log <- file(file.path(out,"_summary.tsv"),"w")
 writeLines("object\tclass\tnrow\tncol\tcolumns", log)
 wt <- function(d, path){ for (c in names(d)) if (is.list(d[[c]])) d[[c]] <- vapply(d[[c]], function(x) paste(x, collapse=";"), "")

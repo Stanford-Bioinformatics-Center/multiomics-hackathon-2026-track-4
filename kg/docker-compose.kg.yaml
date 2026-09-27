@@ -1,0 +1,27 @@
+# Exercise KG add-on for the hackathon compose file. Leaves docker-compose.yaml untouched.
+# Use both files together, from the repo root (paths below are relative to the repo root):
+#   bash kg/deploy.sh                 (recommended: imports the graph and starts everything)
+#   docker compose -f docker-compose.yaml -f kg/docker-compose.kg.yaml up -d
+# Neo4j Browser: http://localhost:7474    Explorer: http://localhost:8080
+services:
+  neo4j:
+    volumes:
+      - ./kg:/kg:ro                 # graph exports + kg/neo4j/schema.cypher, read by cypher-shell
+
+  # one-off bulk loader (runs only when asked for)
+  kg-import:
+    image: neo4j:latest             # same image as the neo4j service
+    profiles: ["import"]
+    volumes:
+      - ./neo4j/data:/data
+      - ./kg:/kg:ro
+    environment:
+      - KG_SET=${KG_SET:-exports_sig}
+    entrypoint: ["bash", "/kg/neo4j/docker-import.sh"]
+
+  explorer:
+    build: ./kg/explorer
+    image: exercise-kg-explorer:latest
+    ports:
+      - ${EXPLORER_PORT:-8080}:80
+    restart: unless-stopped

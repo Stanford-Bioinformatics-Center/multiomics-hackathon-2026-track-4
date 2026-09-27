@@ -1,6 +1,6 @@
 # Exercise KG v0.2: significant-response, pathway-anchored graph
 
-Built by `scripts/build_sig_graph.py` and written to `kg/exports_sig/`. It holds 75.6k nodes and 1.47M edges. Only molecules that change significantly with exercise are included. Sources: rat [D1, D2]; human [D3–D8]; interactions [R1–R6]; pathways [R7–R14]; metabolite names [R15]; tissues [R16]; statistics [M1–M5]; derived scores [P1]. IDs refer to `docs/references.md`, and every edge carries them in `source_refs`. `Reference` nodes in Neo4j hold the full citations.
+Built by `scripts/build_sig_graph.py` and written to `kg/exports_sig/`. It holds 77.1k nodes and 1.50M edges. Only molecules that change significantly with exercise are included. Sources: rat [D1, D2]; human [D3–D8]; interactions [R1–R6]; pathways [R7–R14]; metabolite names [R15]; tissues [R16]; statistics [M1–M5]; derived scores [P1]; disease & drug layer [R2, R19, R20, M6]. IDs refer to `docs/references.md`, and every edge carries them in `source_refs`. `Reference` nodes in Neo4j hold the full citations.
 
 ```mermaid
 graph TB
@@ -90,6 +90,21 @@ All interaction evidence is human. Rat genes reach it through `ORTHOLOG_OF`, and
 Kinases get a Gene node even when the kinase itself doesn't change (`is_kinase`), so kinase activity can be inferred from substrate sites. Metabolites stay outside these layers.
 
 **STRING mapping:** STRING protein IDs are mapped to gene symbols with STRING's own `9606.protein.info.v12.0` file.
+
+## Disease and drug layer
+
+Added by `scripts/add_disease_layer.py` from Hetionet v1.0 [R2] (Disease Ontology [R19], DrugBank [R20]). Only genes that respond to exercise (human, or rat via the human ortholog) are linked. Full method in `docs/METHODS.md` §3.13.
+
+| Edge | n | Meaning |
+|---|---|---|
+| `ASSOCIATED_WITH` (Gene → Disease) | 10,677 | curated gene–disease association |
+| `UP_IN_DISEASE` / `DOWN_IN_DISEASE` (Gene → Disease) | 6,585 / 6,477 | gene dysregulated in the disease (disease vs control expression) |
+| `BINDS` (Compound → Gene) | 7,429 | drug binds the gene product |
+| `TREATS` / `PALLIATES` (Compound → Disease) | 755 / 390 | indication |
+| `DISEASE_GENES_ENRICHED_IN` (Disease → Tissue) | 410 | disease genes over-represented among exercise-responsive genes in that organ (hypergeometric, BH adj p < 0.05) [M6, M1, P1] |
+| `EXERCISE_OPPOSES` / `EXERCISE_MIMICS` (Disease → Tissue) | 23 / 29 | exercise moves disease-dysregulated genes mostly opposite to / the same as the disease (binomial, BH adj p < 0.05) [M1, P1] |
+
+No disease or drug edge touches a metabolite; the metabolite rules are unchanged.
 
 ## Phenotypes
 

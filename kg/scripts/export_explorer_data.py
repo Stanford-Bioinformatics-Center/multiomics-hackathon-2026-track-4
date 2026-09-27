@@ -164,6 +164,32 @@ pheno_x = {"human:pheno:" + r.feature_id: [str(r.uniprot).split(";")[0], int(pc_
 print("xrefs: genes with UniProt", sum(bool(x) for x in gene_up), "| Entrez", sum(x is not None for x in gene_ez),
       "| RGD", sum(x is not None for x in gene_rgd), "| feature extras", len(fx))
 
+# ---- disease & drug layer (Hetionet [R2]; built by scripts/add_disease_layer.py)
+DZ = None
+if os.path.exists(f"{EX}/nodes_Disease.csv.gz"):
+    dzn = N("Disease"); cpn = N("Compound")
+    dzi = {k: i for i, k in enumerate(dzn["id"])}; cpi = {k: i for i, k in enumerate(cpn["id"])}
+    def pr(t, am, bm, extra=None):
+        d = E(t); d = d[d[":START_ID"].isin(am) & d[":END_ID"].isin(bm)]
+        out = [d[":START_ID"].map(am).tolist(), d[":END_ID"].map(bm).tolist()]
+        return out, d
+    assoc, _ = pr("ASSOCIATED_WITH", gni, dzi)
+    up, _ = pr("UP_IN_DISEASE", gni, dzi); dn, _ = pr("DOWN_IN_DISEASE", gni, dzi)
+    binds, _ = pr("BINDS", cpi, gni)
+    tr, _ = pr("TREATS", cpi, dzi); pa, _ = pr("PALLIATES", cpi, dzi)
+    de = E("DISEASE_GENES_ENRICHED_IN"); de = de[de[":START_ID"].isin(dzi) & de[":END_ID"].isin(ti)]
+    dc = pd.concat([E("EXERCISE_OPPOSES").assign(k=1), E("EXERCISE_MIMICS").assign(k=-1)]); dc = dc[dc[":START_ID"].isin(dzi) & dc[":END_ID"].isin(ti)]
+    DZ = {"diseases": {"id": dzn["id"].tolist(), "name": dzn["name"].tolist()},
+          "compounds": {"id": cpn["id"].tolist(), "name": cpn["name"].tolist()},
+          "assoc": assoc, "sig": [up[0] + dn[0], up[1] + dn[1], [1] * len(up[0]) + [-1] * len(dn[0])],
+          "binds": binds, "treats": [tr[0] + pa[0], tr[1] + pa[1], [1] * len(tr[0]) + [0] * len(pa[0])],
+          "enr": {"z": de[":START_ID"].map(dzi).tolist(), "t": de[":END_ID"].map(ti).tolist(), "k": de["overlap"].tolist(), "K": de["disease_genes_measured"].tolist(),
+                  "n": de["responding_genes"].tolist(), "N": de["measured_genes"].tolist(), "fold": de["fold_enrichment"].round(2).tolist(),
+                  "ap": de["adj_p_value"].map(lambda x: float(f"{x:.2g}")).tolist(), "up": de["n_up"].tolist(), "down": de["n_down"].tolist()},
+          "dir": {"z": dc[":START_ID"].map(dzi).tolist(), "t": dc[":END_ID"].map(ti).tolist(), "n": dc["genes_compared"].tolist(),
+                  "opp": dc["opposite"].tolist(), "f": dc["fraction_opposite"].round(3).tolist(), "ap": dc["adj_p_value"].map(lambda x: float(f"{x:.2g}")).tolist(), "k": dc["k"].tolist()}}
+    print("disease layer:", len(dzn), "diseases,", len(cpn), "compounds,", len(assoc[0]), "associations,", len(de), "enrichments,", len(dc), "direction tests")
+
 data = {
     "tissues": tis[["id", "name", "species", "uberon_id"]].fillna("").values.tolist(),
     "groups": grp[["id", "species", "modality", "regimen", "description"]].values.tolist(),
@@ -199,6 +225,7 @@ def clean(x):
     return x
 
 
+if DZ: data["dz"] = DZ
 data["refs"] = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "refs", "references.json")))
 data = clean(data)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)

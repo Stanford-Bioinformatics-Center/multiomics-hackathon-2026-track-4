@@ -12,7 +12,9 @@
     "Gene": 28432,
     "Pathway": 8731,
     "Phenotype": 18,
-    "Reference": 48
+    "Reference": 53,
+    "Disease": 137,
+    "Compound": 1344
   },
   "edges": {
     "EQUIVALENT_TISSUE": {
@@ -82,7 +84,48 @@
     "INCREASED_IN": {
       "n": 49,
       "dropped_dangling_or_duplicate": 0
+    },
+    "ASSOCIATED_WITH": {
+      "n": 10677,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "UP_IN_DISEASE": {
+      "n": 6585,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "DOWN_IN_DISEASE": {
+      "n": 6477,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "BINDS": {
+      "n": 7429,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "TREATS": {
+      "n": 755,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "PALLIATES": {
+      "n": 390,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "DISEASE_GENES_ENRICHED_IN": {
+      "n": 410,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "EXERCISE_OPPOSES": {
+      "n": 23,
+      "dropped_dangling_or_duplicate": 0
+    },
+    "EXERCISE_MIMICS": {
+      "n": 29,
+      "dropped_dangling_or_duplicate": 0
     }
   },
-  "metabolite_rules_check": "passed"
+  "metabolite_rules_check": "passed",
+  "disease_layer": {
+    "source": "Hetionet v1.0",
+    "tests_enrichment": 1557,
+    "tests_direction": 585
+  }
 }

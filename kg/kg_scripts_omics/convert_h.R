@@ -1,5 +1,6 @@
-src <- "/home/claude/ekg/raw/human/MotrpacHumanPreSuspensionAnalysis/data"
-out <- "/home/claude/ekg/processed/human_pkg"
+args <- commandArgs(TRUE)
+src <- if (length(args) >= 1) args[1] else "raw/human/MotrpacHumanPreSuspensionAnalysis/data"
+out <- if (length(args) >= 2) args[2] else "processed/human_pkg"; dir.create(out, recursive = TRUE, showWarnings = FALSE)
 log <- file(file.path(out,"_summary.tsv"),"w")
 writeLines("object\tclass\tnrow\tncol\tcolumns", log)
 wt <- function(d, path){ for (c in names(d)) if (is.list(d[[c]])) d[[c]] <- vapply(d[[c]], function(x) paste(x, collapse=";"), "")
